@@ -1,0 +1,980 @@
+product_id,product_name,product_url
+0,Dung dịch vệ sinh vùng kín Bimunica 250ml dành cho bé gái từ 0 tháng tuổi ,https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-ve-sinh-bimunica-250-ml-danh-cho-be-gai.html
+1,"Kem giảm thâm vùng nách, mông, bikini Neothera Armpit Cream La Beaute 35ml dưỡng trắng da",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-giam-tham-vung-nach-mong-bikini-neothera-armpit-cream-35-ml.html
+2,Gel rửa mặt SVR Sebiaclear Gel Moussant 200ml làm sạch không chứa xà phòng và loại bỏ tế bào da chết ,https://nhathuoclongchau.com.vn/duoc-my-pham/gel-lam-sach-va-loai-bo-te-bao-chet-khong-chua-xa-phong-svr-sebiaclear-gel-moussant-200-ml-new.html
+3,"Bọt vệ sinh nam giới Sumely Men's Sanitary Foam giúp làm sạch, khử và ngăn chặn mùi vùng kín (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/bot-ve-sinh-nam-gioi-lam-sach-khu-va-ngan-mui-thom-mat-sumely-men-s-sanitary-foam-100-ml.html
+4,"Nước tẩy trang JMsolution Water Luminous S.O.S Ringer Cleansing Water giúp làm sạch bụi bẩn, dầu thừa và lớp trang điểm (500ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/jmsolution-water-luminous-s-o-s-ringer-cleansing-water-500-ml-nuoc-tay-trang-lam-sach-sau-va-cap-am.html
+5,"Mặt nạ Marine Luminous Pearl Deep Moisture Mask Peal JMsolution tăng cường dưỡng ẩm, dưỡng trắng (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/jmsolution-marine-luminous-pearl-deep-moisture-mask-peal-30-ml-mat-na-chiet-xuat-ngoc-trai-cap-am-chuyen-sau.html
+6,"Gel làm mờ sẹo Fixderma Scars do mụn, bỏng, rạn da, vết thươngl (7ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-boi-seo-fixderma-scar-gel-7-ml.html
+7,Gội phủ bạc Healthy and lively H4 Lavox màu nâu cà phê (10 gói x 30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/goi-phu-bac-healthy-and-lively-lavox-mau-nau-ca-phe-h4-10-goi-x-30-ml.html
+8,Gội phủ bạc Healthy and lively H1 Lavox màu đen (10 gói x 30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/goi-phu-bac-healthy-and-lively-lavox-mau-den-h1-10-goi-x-30-ml.html
+9,Sữa tắm giảm mụn lưng Neo Acnes tinh chất tràm trà (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-giam-mun-lung-tinh-chat-tram-tra-neo-acness-250-ml.html
+10,"Sáp dưỡng ẩm Vaseline Fobelife làm mềm da, làm dịu da, cải thiện da bị khô (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sap-duong-am-lam-mem-da-vaseline-fobelife-50-g.html
+11,"Kem thoa da Tiacortisol dưỡng ẩm, làm mềm dịu vùng da bị khô, nhờn (8g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-thoa-da-tiacortisol-8-g.html
+12,Sữa chống nắng dưỡng ẩm kiềm dầu NeoAqua Sunscreen Expert Milk SPF50+ (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-dang-sua-neoaqua-sunscreen-expert-milk-spf-50-30-ml.html
+13,"Kem bôi trĩ Hemocol Ointment Lancopharm hỗ trợ làm dịu, săn, se da vùng bị tổn thương (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-boi-tri-hemocol-ointment-lancopharm-30-g.html
+14,"Dầu xả hoa bưởi La Beauty ngăn ngừa gãy rụng, dưỡng tóc chắc khỏe (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-xa-hoa-buoi-la-beauty-300-ml-muot-toc-giam-gay-rung.html
+15,"Dầu gội thảo dược La Beauty loại bỏ dầu nhờn trên da đầu, ngăn nấm, gàu và giảm gãy rụng (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-thao-duoc-la-beauty-300-ml-duong-toc-suon-muot-phuc-hoi-toc-chuyen-sau.html
+16,"Dầu gội bồ kết La Beauty hỗ trợ giảm rụng tóc, dưỡng tóc óng mượt (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-bo-ket-co-dac-la-beauty-300-ml-giam-gay-rung-duong-toc-ong-muot.html
+17,"Dầu gội hoa bưởi La Beauty hỗ trợ giảm rụng tóc, ngăn ngừa nấm gàu (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-hoa-buoi-la-beauty-300-ml-giam-gay-rung-kich-thich-moc-toc.html
+18,"Kem chống nắng Reihaku Hatomugi Tone Up UV Milky Gel SPF50+ PA++++ nâng tone, dưỡng ẩm da (70g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-nang-tone-va-duong-am-da-reihaku-hatomugi-tone-up-uv-milky-gel-spf50-pa-70g-37622.html
+19,"Kem chống nắng, dưỡng ẩm và làm sáng da Reihaku Hatomugi UV Milky Gel SPF50+ PA++++ (80g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-duong-am-lam-sang-da-reihaku-hatomugi-uv-milky-gel-spf50-80g-37623.html
+20,"Sữa rửa mặt Reihaku Hatomugi Acne Care and Facial Washing ngừa mụn, dưỡng ẩm và làm sáng da (130g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-ngua-mun-duong-am-va-lam-sang-da-reihaku-hatomugi-acne-care-and-facial-washing-130g-37624.html
+21,"Sữa rửa mặt tẩy trang Hatomugi Reihaku Hatomugi W Cleansing Foam làm sạch da, loại bỏ bụi bẩn (130g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-tay-trang-reihaku-hatomugi-w-cleansing-foam-130g-37625.html
+22,"Miếng dán mụn ngày và đêm DermaAngel hút mụn, làm lành vết thương sau mụn (18 miếng x 15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mieng-dan-mun-ban-ngay-va-dem-derma-angel-12d6n-mieng-37628.html
+23,"Kem bôi Dizigone Baby làm dịu da mẩn ngứa, hăm da cho bé (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-boi-duong-am-diu-man-ngua-ham-da-em-be-dizigone-baby-30g-37609.html
+24,"Gel Neothera Acnes làm dịu da, mờ thâm, chăm sóc phục hồi da sáng khỏe (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/neothera-acnes-gel-15ml-gel-giam-mun-tham-seo-mun-37594.html
+25,"Sáp dưỡng ẩm Vaseline Original Fobelife làm mềm da, làm dịu da khi bị khô rát, nứt nẻ (7g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sap-duong-am-vaseline-original-fobelife-7g-37377.html
+26,"Sáp dưỡng ẩm Vaseline Rosy Lotus Fobelife làm mềm da, làm dịu da khi bị khô rát, nứt nẻ, dưỡng môi (7g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sap-duong-am-vaseline-rosy-lotus-fobelife-7g-37378.html
+27,Nước dưỡng tóc tinh dầu bưởi Cocoon giảm gãy rụng và làm mềm tóc (140ml),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-duong-toc-tinh-dau-buoi-cocoon-140ml-phien-ban-nang-cap-37262.html
+28,"Dầu gió lăn Red Lion Medicated Oil Yellow Agimexpharm ấm da vùng xoa, sử dụng massage hỗ trợ thư giãn (10ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-gio-lan-red-lion-medicated-oil-yellow-agimexpharm-10ml-peppermint-clove-bud-36878.html
+29,"Dầu gió lăn Red Lion Medicated Oil White Agimexpharm ấm da vùng xoa, sử dụng massage hỗ trợ thư giãn (10ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-gio-lan-red-lion-medicated-oil-white-agimexpharm-10ml-lavender-eucaluptus-36880.html
+30,"Dầu gió lăn Kimagi New Agimexpharm làm ấm da vùng xoa, sử dụng khi massage hỗ trợ thư giãn (9ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-gio-lan-kimagi-new-agimexpharm-9ml-36882.html
+31,Nước tẩy trang bí đao Cocoon Winter melon micellar water làm sạch da và loại bỏ lớp trang điểm (500ml),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-bi-dao-cocoon-500ml-36687.html
+32,Cà phê Đắk Lắk Cocoon làm sạch da chết trên mặt (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/ca-phe-dak-lak-lam-sach-da-chet-tren-mat-cocoon-150ml-36689.html
+33,Lăn khử mùi EtiaXil Detranspirant Aisselles Peaux Sensibles chống mùi đặc trị dành cho da nhạy cảm (15ml),https://nhathuoclongchau.com.vn/duoc-my-pham/lan-khu-mui-dac-tri-cho-da-nhay-cam-etiaxil-detranspirant-aisselles-peaux-sensibles-15ml-36530.html
+34,Lăn khử mùi EtiaXil Detranspirant Aisselles Peaux Normales đặc trị khử mùi hôi cho vùng da dưới cánh tay (15ml),https://nhathuoclongchau.com.vn/duoc-my-pham/lan-khu-mui-dac-tri-cho-da-thuong-etiaxil-detranspirant-aisselles-peaux-normales-15ml-36531.html
+35,Kem Cesarin Ointment Lacopharm hỗ trợ làm mờ và làm mềm vết sẹo phẫu thuật (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-seo-phau-thuat-cesarin-ointment-lacopharm-30g-35759.html
+36,Gel Diosmin Expert Omniven Gambe hỗ trợ phục hồi tình trạng suy giãn tĩnh mạch chân (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-boi-suy-gian-tinh-mach-chan-diosmin-expert-omniven-gambe-150ml-35600.html
+37,"Sữa rửa mặt Anti-Acne Brightening Cleansing Milk Decumar Advanced dành cho da mụn, sạch sâu, kháng khuẩn (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-anti-acne-brightening-cleansing-milk-nano-thc-decumar-advanced-50g-34452.html
+38,"Gel ngừa mụn Nano THC Decumar Advanced kháng khuẩn, mờ thâm, ngừa sẹo, tái tạo da (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-ngua-mun-anti-acne-nano-thc-decumar-advanced-20g-34457.html
+39,Miếng dán mụn Somaderm - Spot Young Chemical Vina hỗ trợ làm lành vết thương (18 miếng),https://nhathuoclongchau.com.vn/duoc-my-pham/mieng-dan-mun-somaderm-spot-18-mieng-33951.html
+40,"Dung dịch khoáng Dizigone Terrapharm làm sạch vi khuẩn trong 30 giây, vệ sinh răng miệng, khử mùi (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dizigone-terrapham-300ml-33750.html
+41,Gel Varicare Medicosh hỗ trợ làm giảm các triệu chứng suy giãn tĩnh mạch chân (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-boi-suy-gian-tinh-mach-chan-medicosh-varica-gel-50ml-33708.html
+42,"Sữa tắm gội Baby Gentle Wash La Beauty giảm và ngăn ngừa rôm sảy, hăm da ở trẻ (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tam-goi-em-be-baby-gentle-wash-250ml-33070.html
+43,"Gel tắm và vệ sinh phụ nữ Herbal Nano Vinapharma giúp làm sạch, kháng viêm (105ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/ve-sinh-pn-herbal-nano-vinapharma-15910.html
+44,"Gel Proctogel Bimex liền vết thương, giảm viêm nhiễm, nấm ngứa cho người táo bón, trĩ, ngứa hậu môn (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/proctogel-20g-17612.html
+45,"Kem đa năng Zinc Ointment Abena bảo vệ da, khử trùng da, chống hăm, ngừa loét (15ml)",https://nhathuoclongchau.com.vn/thuoc/zinc-ointment-15ml-abena-17775.html
+46,"Gel rửa mặt SVR Sebiaclear Gel Moussant không chứa xà phòng, loại bỏ tế bào da chết (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sebiaclear-gel-moussant-200ml-svr-18680.html
+47,"Dầu gội sạch gàu Haircare Bimex giúp sạch gàu, hết ngứa da đầu (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/haircare-50g-dau-goi-chong-gau-19491.html
+48,"Gel Nghệ Nano NeoCurma ngừa mụn, ngừa sẹo, mờ vết thâm (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/neocurma-gel-nghe-nano-20g-21573.html
+49,"Gel Scargel Natureplex cải thiện tính đàn hồi, cấu trúc và hình dạng của nhiều loại sẹo (35g)",https://nhathuoclongchau.com.vn/duoc-my-pham/natureplex-scargel-tri-seo-35g-21669.html
+50,Sữa rửa mặt làm giảm mụn Rosette Face Wash Pasta Acne Clear sạch bụi bẩn và tế bào chết trên da (120g),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-bun-bien-giam-mun-rosette-acne-clear-120g-22349.html
+51,"Gel làm nóng Starbalm Warm Gel thư giãn cơ, hạn chế chấn thương do vận động, mỏi cơ (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-lam-nong-starbalm-warm-gel-100ml-29219.html
+52,"Kem dưỡng ẩm mềm da cho bé Kutieskin giảm khô ngứa, nứt nẻ da (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kutieskin-kem-duong-am-mem-da-cho-be-30g-29423.html
+53,"Kem bôi dịu da cho bé Kutieskin giảm mẩn ngứa, ngừa thâm sẹo (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kutieskin-kem-boi-diu-da-cho-be-30g-29424.html
+54,"Kem bôi cho trẻ em bị chàm sữa Kutieskin giảm ngứa, kháng viêm, cải thiện bong tróc da (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kutieskin-kem-boi-cho-tre-bi-cham-sua-30g-29425.html
+55,Gel gội và tắm cho bé Corine De Farme Hair And Body Wash dành cho mọi loại da (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/corine-de-farme-baby-hair-body-wash-sua-tam-goi-cho-be-danh-cho-moi-loai-da-250ml-29804.html
+56,"Gel Qderma giúp làm phẳng, mềm và mờ các loại sẹo (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-tri-seo-qderma-20g-30053.html
+57,"Dầu Mù U Thái Dương Đất Việt làm lành vết bỏng, hỗ trợ điều trị chàm, vảy nến, dưỡng ẩm (10ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-mu-u-thai-duong-10ml-30057.html
+58,"Xà phòng Acnes Body Bar Neo Acnes Curcumin And Teatree Oil làm sạch bụi bẩn, dầu nhờn trên da (75g)",https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-body-bar-la-beauty-75g-xa-phong-tam-tri-mun-nghe-curcumin-va-tinh-chat-dau-tram-30130.html
+59,"Kem Fixderma Skarfix-TX Cream hỗ trợ làm mờ vết thâm, đốm đen, nám (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-skarfix-tx-cream-15g-kem-tri-nam-30190.html
+60,"Kem bôi da Fixderma Preggers Stretch Mark Cream dưỡng ẩm, giảm rạn da cho phụ nữ mang thai và sau sinh (60g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-preggers-stretch-mark-cream-60g-kem-tri-ran-da-danh-cho-ba-bau-30191.html
+61,"Son dưỡng môi nhau thai cừu Rebirth Lanolin Lip Balm RB14 cung cấp độ ẩm cho đôi môi khô (3,7g)",https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-moi-nhau-thai-cuu-rebirth-37g-30477.html
+62,"Xịt PanSpray Panthenol hỗ trợ giảm đau, rát, hạn chế tổn thương, viêm nhiễm da (130g)",https://nhathuoclongchau.com.vn/duoc-my-pham/panspray-panthenol-nano-bac-bimex-130g-xit-duong-da-giam-dau-rat-viem-kho-da-30883.html
+63,"Nước rửa phụ khoa Natural Feminine Trầu Không làm sạch vùng kín, dưỡng ẩm, khử mùi hôi (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-ve-sinh-phu-nu-natural-feminine-la-trau-khong-100ml-31166.html
+64,"Kem bôi Dizigone Nano Bạc Terrapharm hỗ trợ kháng khuẩn, tái tạo da và ngăn ngừa sẹo (25g)",https://nhathuoclongchau.com.vn/duoc-my-pham/dizigone-nano-bac-tuyp-25g-31463.html
+65,"Tinh dầu Tràm Mệ Đoan hỗ trợ phòng giảm các chứng cảm cúm, sổ mũi, ho, ngạt mũi (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-dau-tram-me-doan-50ml-32016.html
+66,"Tinh dầu tràm ngâm củ nén Mệ Đoan phòng và điều trị cảm cúm, trúng gió, ho, ngạt mũi, long đờm (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-dau-tram-ngam-cu-nen-me-doan-50ml-32018.html
+67,Gel dùng ngoài Nazorel Shampoo Ketoconazol hỗ trợ điều trị mẩn ngứa da đầu do gàu và nấm viêm da (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-tri-gau-nazorel-shampoo-ketoconazol-50ml-32616.html
+68,"Gel chấm mụn, mờ thâm Decumar Advance THC 20g dưỡng ẩm da, da mềm, mịn",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-cham-mun-mo-tham-decumar-advance-thc-20-g-new.html
+69,Sữa rửa mặt On: The Body Rice Therapy Heartleaf Acne Cleanser làm sạch sâu không gây khô da (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-chiet-xuat-tu-la-diep-ca-cho-da-mun-on-the-body-rice-therapy-rice-heartleaf-acne-cleanser-150-ml.html
+70,Nước tẩy trang JMsolution Derma Care Centella Cleansing Water giúp loại bỏ lớp trang điểm và làm sạch da (500ml) ,https://nhathuoclongchau.com.vn/duoc-my-pham/jmsolution-derma-care-centella-cleansing-water-500-ml-nuoc-tay-trang-cho-da-nhay-cam-va-da-dau-mun.html
+71,"Mặt nạ Active Golden Caviar Nourishing Mask JMsolution cung cấp độ ẩm, giáp sáng màu da, giúp da căng mịn (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/jmsolution-active-golden-caviar-nourishing-mask-30-ml-mat-na-trung-ca-tam-phuc-hoi-tai-tao-da.html
+72,"Mặt nạ Active Birds' Nest Moisture Mask JMsolution cung cấp độ ẩm cho da, giúp sáng màu da và giúp da căng mịn (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-jmsolution-active-birds-nest-moisture-mask-prime.html
+73,Mặt nạ Water Luminous S.O.S Ringer Mask JMsolution làm dịu và cung cấp độ ẩm cho làn da khô (35ml),https://nhathuoclongchau.com.vn/duoc-my-pham/jmsolution-water-luminous-s-o-s-ringer-mask-35-ml-mat-na-cap-am-chuyen-sau-lam-diu-da-1.html
+74,Mặt nạ Placen Lanolin Mask JMsolution dưỡng ẩm và cung cấp độ ẩm trên da (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-jmsolution-placen-lanolin-mask-35-ml.html
+75,Gel Rosette Gommage Clear Peel tẩy tế bào chết (180g),https://nhathuoclongchau.com.vn/duoc-my-pham/tay-te-bao-chet-thu-nho-lo-chan-long-rosette-gommage-clear-peel-180-g.html
+76,Gel nhuộm tóc phủ bạc Flash Lavox G01 màu đen (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/goi-phu-bac-flash-lavox-mau-den-g01-150-ml.html
+77,"Kem dưỡng ẩm sáng da Fixderma Face21 Face Cream giúp da trắng sáng, mịn màng (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-sang-da-fixderma-face-21-face-cream-50-g.html
+78,"Mặt nạ ngủ môi Care:Nel Sleeping Lip Care Pomegranate hương lựu dưỡng ấm, mờ thâm môi, ngừa nứt nẻ môi (5g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-ngu-moi-cap-am-ngua-nut-ne-moi-huong-luu-care-nel-pomegranate-lip-night-mask-5-g.html
+79,"Dầu xả thảo dược La Beauty củng cố chân tóc chắc khỏe, suôn mượt và ngăn ngừa gãy rụng (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-xa-thao-duoc-la-beauty-300-ml-nuoi-duong-da-dau-va-toc-suon-muot.html
+80,Nước tẩy trang bí đao Cocoon Winter melon micellar water làm sạch da và loại bỏ lớp trang điểm (140ml),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-bi-dao-cocoon-140ml-37757.html
+81,Kem dưỡng ẩm mềm mịn và chống nhăn da tay Reihaku Hatomugi Hand Cream (65g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-mem-min-va-chong-nhan-da-tay-reihaku-hatomugi-hand-cream-65g-37621.html
+82,Kem mặt nạ Transino Whitening Repair Cream EX phục hồi dưỡng trắng da dành cho da bị tổn thương (35g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-trang-da-transino-whitening-repair-cream-ex-35g-37230.html
+83,Dầu gội khô Batiste hương anh đào Dry Shampoo Fruity And Cheeky Cherry (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/batiste-dry-shampoo-fruity-cheeky-cherry-200ml-dau-goi-kho-huong-cherry-35579.html
+84,"Gel Skleer Natural Skin Restoration giảm viêm, dưỡng ẩm và phục hồi da (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-boi-giam-viem-duong-am-va-phuc-hoi-da-ton-thuong-skleer-natural-skin-restoration-gel-30-ml.html
+85,Kem mụn Sulfur 10% Ointment Cospharm ngăn ngừa mụn và chăm sóc da mặt (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/crevil-sulfur-10-ointment-cospharm-30g-kem-ngua-tri-mun-19029.html
+86,"Xịt Panthenol Nano Bạc Spray Bimex dưỡng da, duy trì độ ẩm cho da (130g)",https://nhathuoclongchau.com.vn/duoc-my-pham/panthenol-nano-bac-spray-bimex-130g-19212.html
+87,Kem bôi vùng khớp Stabil Aflofarm Krem (75g),https://nhathuoclongchau.com.vn/duoc-my-pham/stabil-krem-aflofarm-75g-21798.html
+88,Miếng dán mụn Somaderm - Spot Young Chemical Vina hỗ trợ làm lành vết thương (24 miếng),https://nhathuoclongchau.com.vn/duoc-my-pham/mieng-dan-mun-somaderm-spot-24-mieng-21803.html
+89,"Chai xịt nóng Starbalm Warm Spray phòng tránh chấn thương cho người có tiền sử bong gân, chuột rút (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/chai-xit-nong-starbalm-warm-spray-150ml-29220.html
+90,"Gel làm lạnh Starbalm Cold Gel điều trị chấn thương căng cơ, bầm tím và bong gân (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-lam-lanh-starbalm-cold-gel-100ml-29221.html
+91,"Dầu xoa bóp Starbalm Massage Oil thư giãn, mát xa vùng cơ mỏi, lưu thông máu, giảm căng thẳng, mệt mỏi (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-xoa-bop-starbalm-massage-oil-50ml-29224.html
+92,"Kem dưỡng chống nứt gót chân Fixderma Foot Cream cung cấp độ ẩm, làm mềm da gót chân (60g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-foot-cream-60g-cung-cap-do-am-mem-da-got-chan-31889.html
+93,Mặt nạ mắt JMsolution Marine Luminous Pearl Deep Moisture Eye Patch Pearl bổ sung độ ẩm và cải thiện sắc tố da (90g),https://nhathuoclongchau.com.vn/duoc-my-pham/jmsolution-marine-luminous-pearl-deep-moisture-eye-patch-pearl-90-g-mat-na-mat-chiet-xuat-ngoc-trai-mo-quang-tham-nep-nhan.html
+94,"Bọt vệ sinh phụ nữ Lá Sen Natural Feminine làm sạch, dịu da, giảm thâm sạm (160ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-ve-sinh-phu-nu-dang-bot-natural-feminine-la-sen-160-ml-1.html
+95,"Bọt vệ sinh phụ nữ Natural Feminine làm sạch, thơm mát, duy trì cân bằng PH (160ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-ve-sinh-phu-nu-dang-bot-natural-feminine-lavender-160-ml.html
+96,Gel nhuộm tóc phủ bạc Flash Lavox G04 màu nâu cà phê (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/goi-phu-bac-flash-lavox-mau-nau-ca-phe-g04-150-ml.html
+97,"Kem dưỡng Fixderma Nigrilite Cream làm sạch tế bào da chết, mờ thâm, sáng da sẫm màu (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-lam-mo-cac-vet-tham-tren-co-the-fixderma-nigrilite-cream-50-g.html
+98,Khử mùi dạng xịt Etiaxil Déodorant Anti - Transpirant Protection 48h Pieds kiểm soát tuyến mồ hôi chân (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/xit-khu-mui-hoi-chan-etiaxil-deodorant-anti-transpirant-protection-48-h-100-ml.html
+99,Mặt nạ ngủ mặt dạng gel Care:Nel Aqua Night Mask dưỡng ẩm cho da suốt 8 giờ (15ml),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-ngu-mem-min-va-cang-bong-da-mat-care-nel-aqua-night-mask-15-ml.html
+100,"Mặt nạ ngủ môi Care:Nel Berry Lip Night Mask dưỡng ẩm, ngừa thâm dành cho môi phun xăm, nhạy cảm, môi trị liệu (5g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-ngu-moi-duong-am-cang-bong-mem-min-moi-huong-dau-care-nel-berry-lip-night-mask-5-g.html
+101,Son dưỡng lành tính Omi Menturm dành cho môi nhạy cảm giúp tăng cường độ ẩm và làm mềm vùng da môi (3.6g),https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-lanh-tinh-danh-cho-moi-nhay-cam-va-tre-em-omi-menturm-3-6-g.html
+102,Son dưỡng ẩm bạc hà Omi Brotherhood Menturm giúp tăng cường độ ẩm và làm mềm vùng da môi (4g),https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-am-bac-ha-danh-cho-moi-kho-va-nut-ne-omi-brotherhood-menturm-4g.html
+103,Kem bôi dưỡng ẩm To-Plan Okosama Cream giúp dưỡng ẩm và làm mềm mịn da (110g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-chong-nut-ne-da-cho-be-to-plan-okosama-cream-110-g.html
+104,"Kem dưỡng da Biolane Diaper Change Cream dưỡng ẩm, làm dịu da ửng đỏ do hăm tã của bé (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-lam-diu-da-ung-do-ngua-ham-ta-biolane-diaper-change-cream-50-ml.html
+105,Gel tắm gội Biolane dịu nhẹ làm sạch tóc và cơ thể cho bé (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-goi-diu-nhe-cho-be-dang-gel-biolane-body-and-hair-cleanser-200-ml.html
+106,Nước nhuộm phủ bạc - nâu hạt dẻ Seedbee Water Coloring Medium Brown Nbiyan (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-nhuom-phu-bac-nau-hat-de-seedbee-water-coloring-medium-browm-nbiyan-30-g.html
+107,Nước nhuộm phủ bạc - nâu đen Seedbee Water Coloring Dark Brown Nbiyan (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-nhuom-phu-bac-nau-den-seedbee-water-coloring-dark-brown-nbiyan-30-g.html
+108,Nước nhuộm phủ bạc - đen tự nhiên Seedbee Water Coloring Natural Black (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-nhuom-phu-bac-den-tu-nhien-seedbee-water-coloring-natural-black-nbiyan-30-g.html
+109,"Mặt nạ Banobagi Stem Cell Vitamin Mask Whitening And Tone-up hỗ trợ cấp ẩm, dưỡng sáng da và nâng tông (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-cap-am-duong-sang-da-va-nang-tong-banobagi-stem-cell-vitamin-mask-whitening-and-tone-up-30-g.html
+110,"Mặt nạ Banobagi Stem Cell Vitamin Mask Whitening And Tighten Pores cung cấp độ ẩm cho da, loại bỏ dầu (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-cap-am-va-duong-sang-da-loai-bo-dau-va-thu-nho-lo-chan-long-banobagi-stem-cell-vitamin-mask-whitening-and-tighten-pores-30-g.html
+111,Mặt nạ Banobagi Stem Cell Vitamin Mask Whitening And AC Care hỗ trợ cấp ẩm và dưỡng sáng da cho da mụn (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-cap-am-va-duong-sang-da-cho-da-mun-banobagi-stem-cell-vitamin-mask-whitening-and-ac-care-30-g.html
+112,Mặt nạ Banobagi Stem Cell Vitamin Mask Whitening And Relaxing Revital làm dịu và giảm viêm da (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-cap-am-duong-sang-da-va-thu-gian-banobagi-stem-cell-vitamin-mask-whitening-and-relaxing-revital-30-g.html
+113,Mặt nạ Banobagi Stem Cell Vitamin Mask Whitening And Moisture hỗ trợ cấp ẩm và dưỡng sáng da (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-cap-am-va-duong-sang-da-banobagi-stem-cell-vitamin-mask-whitening-and-moisture-30-g.html
+114,"Mặt nạ Banobagi Stem Cell Vitamin Mask Whitening And Aqua Hydrating cấp ẩm cho da, sáng màu da (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-cap-am-cap-nuoc-va-duong-sang-da-banobagi-stem-cell-vitamin-mask-whitening-and-aqua-hydrating-30-g.html
+115,"Mặt nạ Banobagi Stem Cell Vitamin Mask Whitening And Dark Spot Care chống nhăn da, trắng da, mờ nám (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-cap-am-va-duong-sang-da-loai-bo-dom-den-va-tan-nhang-banobagi-stem-cell-vitamin-mask-whitening-and-dark-spot-care-30-g.html
+116,"Sữa dưỡng thể chống nắng, dưỡng ẩm và làm sáng da Hatomugi Reihaku Hatomugi UV Milky Gel SPF31 PA+++ (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-duong-the-chong-nang-duong-am-va-lam-sang-da-reihaku-hatomugi-uv-milky-gel-250-ml.html
+117,Dầu tẩy trang làm sạch sâu Softymo Deep Cleansing Oil lớp trang điểm trên bề mặt da (230ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-tay-trang-lam-sach-sau-softymo-deep-cleansing-oil-kose-230-ml-vang.html
+118,Nước tẩy trang Softymo Speedy Cleansing Liquid Kosé làm sạch nhanh lớp trang điểm trên da (230ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-tay-trang-lam-sach-nhanh-softymo-speedy-cleansing-liquid-kose-230-ml-xanh.html
+119,Dầu tẩy trang Softymo Speedy Cleansing Oil Kosé làm sạch nhanh lớp mascara và trang điểm trên da (230ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-tay-trang-lam-sach-nhanh-softymo-speedy-cleansing-oil-kose-230-ml-hong.html
+120,Xịt trị mụn Fixderma Salyzap for Body Acne Body Spray làm thông thoáng lỗ chân lông (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/xit-tri-mun-fixderma-salyzap-for-body-acne-body-spray-50-ml-1.html
+121,"Sữa rửa mặt Transino Clear Wash EX loại bỏ bụi bẩn, dầu nhờn, bã thừa (100g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-duong-trang-da---tri-nam-transino-clear-wash-ex-100g-37886.html
+122,Lăn khử mùi EtiaXil Détranspirant Tolérance Transpiration excessive 15ml đặc trị dành cho da siêu nhạy cảm,https://nhathuoclongchau.com.vn/duoc-my-pham/lan-khu-mui-dac-tri-cho-da-sieu-nhay-cam-etiaxil-detranspirant-comfort-peaux-sensibles-15-ml.html
+123,Sữa tắm dưỡng ẩm và làm sáng da Reihaku Hatomugi Body Soap (800ml) ,https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-duong-am-va-lam-sang-da-reihaku-hatomugi-body-soap-800ml-37626.html
+124,"Miếng dán mụn ban đêm DermaAngel hút mụn, làm lành vết thương sau mụn (12 miếng x 15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mieng-dan-mun-ban-dem-derma-angel-hop-12-mieng-37630.html
+125,"Son dưỡng bảo vệ môi Sebamed Lip Defense SPF30 cung cấp độ ẩm cho môi khô (4,8g)",https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-moi-sebamed-lip-defense-48g-37367.html
+126,"Son dưỡng bảo vệ môi hương dâu Sebamed Lip Defense (4,8g)",https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-moi-huong-dau-sebamed-lip-defense-strawberry-48g-37368.html
+127,"Kem chống nắng Transino Whitening UV Protector hỗ trợ dưỡng trắng, dưỡng ẩm (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-duong-trang-da-transino-whitening-uv-protector-30ml-37229.html
+128,Tinh chất ngăn chặn kép Transino Melano Signal Essence trắng sáng da (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-duong-trang-da-transino-melano-signal-essence-30-g.html
+129,Sữa dưỡng trắng da Transino Whitening Clear Milk EX ngăn ngừa nám và tàn nhang (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-duong-trang-da-transino-whitening-clear-milk-ex-100ml-37232.html
+130,"Dầu gội đầu giảm khô, ngứa Sebamed  Extreme Dry Skin Relief Shampoo 5% Urea (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-dau-giam-kho-ngua-sebamed-extreme-dry-skin-relief-shampoo-5-urea-200ml-37084.html
+131,"Kem Sebamed Extreme Dry Skin Relief Face Cream 5% dưỡng ẩm, làm dịu, phục hồi da khô, viêm da cơ địa (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-cho-da-kho-viem-da-co-dia-sebamed-extreme-dry-skin-relief-face-cream-5-urea-50ml-37086.html
+132,"Sữa dưỡng ẩm giảm khô, ngứa, bong tróc cho da khô, viêm da cơ địa Sebamed Extreme Dry Skin Repair Lotion 10% Urea (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-duong-am-cho-da-kho-viem-da-co-dia-sebamed-extreme-dry-skin-repair-lotion-10-urea-200ml-37087.html
+133,Cà phê Đắk Lắk Cocoon làm sạch da chết trên cơ thể (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/ca-phe-dak-lak-lam-sach-da-chet-tren-co-the-cocoon-200ml-36691.html
+134,"Dầu xả thảo dược La Beauty củng cố chân tóc chắc khỏe, suôn mượt và ngăn ngừa gãy rụng (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-xa-thao-duoc-la-beauty-250ml-nuoi-duong-da-dau-va-toc-suon-muot-36476.html
+135,"Dầu gội bồ kết La Beauty loại bỏ dầu nhờn, ngăn nấm, gàu, phục hồi hư tổn, giảm gãy rụng (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-bo-ket-co-dac-la-beauty-250ml-giam-gay-rung-duong-toc-ong-muot-35512.html
+136,"Nước hoa hồng La Beauty không chứa cồn dưỡng ẩm, làm mềm da (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-hoa-hong-la-beauty-150ml-duong-am-lam-mem-da-33785.html
+137,"Nước tẩy trang Micellar Cleansing Water La Beauty làm sạch sâu, loại bỏ bụi bẩn (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-la-beauty-150ml-lam-sach-da-giup-sang-da-33789.html
+138,"Mặt nạ xông hơi mắt MegRhythm KAO không hương dễ chịu, thư giãn đôi mắt (5 miếng)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-xong-hoi-mat-megrhythm-khong-huong-33759.html
+139,"Mặt nạ xông hơi mắt MegRhythm KAO hương hoa cúc dễ chịu, thư giãn đôi mắt (5 miếng)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-xong-hoi-mat-megrhythm-huong-hoa-cuc-33760.html
+140,"Mặt nạ xông hơi mắt MegRhythm KAO hương hoa oải hương dễ chịu, thư giãn đôi mắt (5 miếng)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-xong-hoi-mat-megrhythm-huong-hoa-oai-huong-33772.html
+141,Lăn khử mùi đá khoáng Deonatulle Soft Stone Double Non-Menthol for Men dạng sáp cho nam (20g) ,https://nhathuoclongchau.com.vn/duoc-my-pham/deonatulle-soft-stone-double-non-menthol-for-men-20g-lan-khu-mui-da-khoang-dang-sap-cho-nam-32917.html
+142,Lăn khử mùi đá khoáng Deonatulle Soft Stone Double Deodorant dạng sáp cho mọi loại da (20g) ,https://nhathuoclongchau.com.vn/duoc-my-pham/deonatulle-soft-stone-double-deodorant-20g-lan-khu-mui-da-khoang-dang-sap-cho-moi-loai-da-32919.html
+143,"Kem bôi NeoAqua Expert Cream chống khô, nứt nẻ da, dưỡng ẩm chuyên sâu (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/neo-aqua-50g-kem-duong-da-chong-kho-nut-ne-da-32904.html
+144,"Dưỡng tóc Yanagiya Hair Tonic hương bưởi ngăn ngừa tóc gãy rụng, thưa mỏng và gàu (240ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/hair-tonic-240ml-tinh-dau-buoi-yanagiya-15333.html
+145,"Gel làm mờ sẹo Fixderma Scars gel do mụn, bỏng, rạn da, vết thương (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-gel-for-scars-15ml050-floz-16459.html
+146,"Sữa rửa mặt đất sét Rosette Face Wash Pasta Ghassoul Bright làm sạch da, hút dầu nhờn, giảm mụn (120g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-dat-set-sang-da-rosette-ghassoul-bright-120g-22350.html
+147,"Sữa rửa mặt nghệ Nano Neo Cleanser ngừa mụn, ngừa sẹo, mờ vết thâm (86g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-nghe-nano-ngua-mun-neo-cleanser-86g-23102.html
+148,"Dầu gội hoa bưởi La Beauty giảm gãy rụng, kích thích dày mượt tóc, loại bỏ nhờn, ngăn nấm và gàu (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-hoa-buoi-la-beauty-250ml-giam-gay-rung-kich-thich-moc-toc-30285.html
+149,Dầu xả hoa bưởi La Beauty làm sạch mềm tóc và ngăn ngừa gãy rụng (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-xa-hoa-buoi-la-beauty-250ml-giam-gay-rung-kich-thich-moc-toc-30286.html
+150,Kem bôi Rebirth Anti-Wrinkle Eye Gel giảm vết nhăn quanh vùng mắt và chống thâm vùng mắt (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/rebirth-anti-wrinkle-eye-gel-whit-vitamin-e-gel-giam-nhan-va-mo-tham-vung-mat-30g-30482.html
+151,"Gel Lô hội La Beauty dưỡng da, dưỡng tóc, dưỡng móng (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-lo-hoi-la-beauty-300ml-30956.html
+152,"Kem Preggers Soothing Nipple Cream Fixderma hỗ trợ dưỡng ẩm, phục hồi, làm dịu núm vú bị khô (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-preggers-soothing-nipple-cream-20g-kem-duong-am-num-vu-31894.html
+153,"Kem Fixderma Skarfix-TX Cream hỗ trợ làm mờ vết thâm, đốm đen, nám (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-skarfix-tx-cream-30g-kem-tri-nam-32845.html
+154,"Kem tẩy trang Transino Clear Cleansing Ex giúp loại bỏ lớp trang điểm, bụi bẩn lỗ chân lông và dầu thừa (110g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-tay-trang-transino-clear-cleansing-ex-110-g.html
+155,"Kem chống nắng SVR Sebiaclear Creme SPF50+ dưỡng da dùng cho da hỗn hợp, da dầu và da nhạy cảm (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-duong-da-vung-mat-danh-cho-da-dau-da-nhay-cam-svr-sebiaclear-creme-spf-50-40-ml.html
+156,Nước hoa hồng dưỡng trắng da Transino Whitening Clear Lotion EX (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-hoa-hong-duong-trang-da-tri-nam-transino-whitening-clear-lotion-ex-150ml-37889.html
+157,"Kem dưỡng tái tạo Sebamed Anti-Redness Regenerating Intensive Care cho da nhạy cảm, da dễ bị đỏ (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-ban-dem-cho-da-sieu-nhay-cam-de-man-do-sebamed-anti-redness-regenerating-intensive-care-50ml-37113.html
+158,Kem dưỡng ban ngày Sebamed Anti-Redness Light Day Care dành cho da rất nhạy cảm và dễ bị đỏ (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-ban-ngay-cho-da-sieu-nhay-cam-de-man-do-sebamed-anti-redness-light-day-care-50ml-37082.html
+159,"Sữa rửa mặt bọt cho da siêu nhạy cảm, phục hồi biến chứng da Sebamed Anti-Redness Gentle Cleansing Foam (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-cho-da-sieu-nhay-cam-va-da-de-man-do-sebamed-anti-redness-gentle-cleansing-foam-150ml-37083.html
+160,"Dầu gió lăn Red Lion Medicated Oil Yellow Agimexpharm ấm da vùng xoa, sử dụng massage hỗ trợ thư giãn (24ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-gio-red-lion-medicated-oil-yellow-agimexpharm-24ml-peppermint-clove-bud-36879.html
+161,"Dầu gió lăn Red Lion Medicated Oil White Agimexpharm ấm da vùng xoa, sử dụng massage hỗ trợ thư giãn (24ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-gio-red-lion-medicated-oil-white-agimexpharm-24ml-lavender-eucalyptus-36881.html
+162,"Gel bí đao rửa mặt Cocoon sạch sâu da, loại bỏ&nbsp;mọi bụi bẩn (140ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-rua-mat-bi-dao-cocoon-140ml-36686.html
+163,"Dầu gội thảo dược La Beauty loại bỏ dầu nhờn trên da đầu, ngăn nấm, gàu và giảm gãy rụng (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-thao-duoc-la-beauty-250ml-duong-toc-suon-muot-phuc-hoi-toc-chuyen-sau-35528.html
+164,"Lotion Fixderma Preggers Elasticity dưỡng ẩm, giảm vết rạn cho phụ nữ mang thai và sau khi sinh (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-preggers-elasticity-lotion-100ml-sua-duong-the-giam-ran-da-cho-phu-nu-mang-thai-va-sau-si-35327.html
+165,Dung dịch Gynofar 500ml Pharmedic vệ sinh cơ quan sinh dục ngoài,https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-dung-ngoai-pharmedic-gynofar-500-ml-1.html
+166,"Dầu dừa mát xa Bé Con Sense Plus dưỡng ẩm, giữ ấm, giảm rôm, sẩy và cứt trâu cho bé (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-dua-mat-xa-be-con-sense-plus-50-ml-duong-am-giu-am-lam-diu-vet-con-trung-can-giam-rom-say-cut-trau-cho-be-1.html
+167,Kem dưỡng ẩm CeraVe Developed With Dermatologists Moisturising Cream dành cho da khô (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-danh-cho-da-kho-cerave-moisturizing-cream-50-ml-1.html
+168,Sữa Rửa Mặt Tạo Bọt CeraVe Foaming Cleanser dành cho da thường và da dầu (473ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-lam-sach-sau-danh-cho-da-dau-cerave-foaming-cleanser-473-ml.html
+169,"Kem bôi da 16g Thuần Mộc Hòa Bình giúp dưỡng ẩm, làm mềm da, dịu mát da",https://nhathuoclongchau.com.vn/duoc-my-pham/thuan-moc-thanh-moc-huong-hoa-binh-16-g.html
+170,"Dầu gội dược liệu Thái Dương 7 Plus Gold Sao Thái Dương sạch gàu, giảm ngứa và rụng tóc (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-thai-duong-7-plus-hoa-phong-lan-250-ml-tri-ngua-rung-toc.html
+171,"Nước tắm gội Thảo Dược cho bé Kutieskin ngăn ngừa rôm sảy, mẩn ngứa, giúp dưỡng ẩm da bé (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tam-goi-thao-duoc-cho-be-kutieskin-cvi-chai-200-ml.html
+172,"Tinh dầu bạch đàn chanh Kutieskin giúp đuổi muỗi và côn trùng, dịu vết sưng tấy, làm dịu da (5ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-bach-dan-chanh-duoi-muoi-va-con-trung-kutieskin-5-ml.html
+173,"Gel Actidem Derma giúp ngăn ngừa mụn, làm mờ vết thâm (18g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-ngua-mun-lam-mo-vet-tham-actidem-derma-gel-18-g-1.html
+174,Kem dưỡng da La Roche-Posay Cicaplast Baume B5+ hỗ trợ làm dịu và phục hồi làn da (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/la-roche-posay-cicaplast-baume-b5-40-ml-kem-duong-lam-diu-phuc-hoi-lan-da-tre-em-va-tre-so-sinh.html
+175,"Tinh dầu Khuynh Diệp Eucalyptus Oil Agimexpharm ấm da vùng xoa, dùng massage thư giãn dành cho mẹ và bé (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-khuynh-diep-danh-cho-me-va-be-eucalyptus-oil-agimexpharm-30ml-36883.html
+176,Sữa tắm gội hàng ngày Lactacyd Baby Gentle Care cho trẻ giảm rôm sảy và hăm kẻ (500ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-goi-hang-ngay-lactacyd-baby-body-hair-wash-gentle-care-500ml-36660.html
+177,Sữa rửa mặt sạch sâu dành cho da dầu Cerave Developed With Dermatologists Foaming Cleanser (236ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-lam-sach-sau-danh-cho-da-dau-cerave-foaming-cleanser-mb094622-236ml-36481.html
+178,Nước tẩy trang Garnier Skin Naturals Micellar Cleansing Water Salicylic BHA dành cho da dầu và mụn (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-garnier-skin-naturals-micellar-cleansing-water-danh-cho-da-dau-mun-400ml-36404.html
+179,Nước tẩy trang L'Oreal Micellar Water 3-in-1 Refreshing dành cho da nhạy cảm (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/loreal-micellar-water-refreshing-400ml-nuoc-tay-trang-danh-cho-da-hon-hop-va-da-dau-36406.html
+180,Sữa rửa mặt dịu nhẹ Cetaphil Gentle Skin Cleanser cung cấp độ ẩm cho da (500ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-diu-nhe-khong-xa-phong-cetaphil-gentle-skin-cleanser-new-500ml-36362.html
+181,Sữa rửa mặt dịu nhẹ Cetaphil Gentle Skin Cleanser cung cấp độ ẩm cho da (125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-diu-nhe-khong-xa-phong-cetaphil-gentle-skin-cleanser-new-125ml-35876.html
+182,Sữa rửa mặt dịu nhẹ Cetaphil Gentle Skin Cleanser bổ sung độ ẩm dành cho mọi loại da (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-gentle-cleanse-250ml-sua-rua-mat-diu-nhe-34539.html
+183,Dầu gội chống gàu Selsun Anti-Dandruff Shampoo Rohto sạch gàu và hết ngứa da đầu (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-chong-gau-selsun-rohto-250ml-34465.html
+184,Dung dịch vệ sinh phụ nữ Lactacyd Odor Fresh Sanofi hỗ trợ bảo vệ và ngăn mùi khó chịu (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-ve-sinh-phu-nu-lactacyd-chai-250ml-34181.html
+185,Sữa tắm gội trẻ em tinh chất hoa cúc Cetaphil Baby Wash And Shampoo With Organic Calendula (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-sua-tam-goi-tre-em-tinh-chat-hoa-cuc-baby-wash-and-shampoo-with-organic-calendula-400ml-33921.html
+186,Sữa tắm và gội cho trẻ em Cetaphil Baby Gentle Wash And Shampoo (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-sua-tam-goi-em-be-baby-gental-wash-and-shampoo-400ml-33919.html
+187,Dầu gội dược liệu Thái Dương 3 hương hoa sạch gàu mà vẫn suôn mềm (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-thai-duong-3-huong-hoa-666.html
+188,Dầu gội dược liệu Thái Dương 3 hương lá sạch gàu mà vẫn suôn mềm (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-thai-duong-3-huong-la-672.html
+189,Sữa chống nắng cho mặt và toàn thân Sunplay Super Block SPF 81 PA++++ không gây khô da (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-sunplay-super-block-spf-81-692.html
+190,Dung dịch thảo dược An Bảo hết sưng ngứa do muỗi đốt (12ml),https://nhathuoclongchau.com.vn/duoc-my-pham/thao-duoc-tri-muoi-dot-tre-em-an-bao-697.html
+191,"Kem rửa mặt ngăn ngừa mụn Acnes Creamy Wash Rohto dành cho da nhờn, da hỗn hợp (100g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-rua-mat-ngan-ngua-mun-acnes-700.html
+192,Chai xịt Zuchi Family Hoa Linh khử mùi hôi chân và giày (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/khu-mui-hoi-chan-va-giay-dang-xit-zuchi-family-709.html
+193,"Sữa tắm Tây Thi Sao Thái Dương sạch da, hạn chế viêm lỗ chân lông, viêm da, mụn trứng cá ở trẻ em (200g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-duong-da-tay-thi-737.html
+194,Dầu gội dược liệu sạch chấy Aladin Sao Thái Dương (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-tri-chay-aladin-746.html
+195,Dầu gội chống gàu Selsun Anti-Dandruff Shampoo Rohto sạch gàu và hết ngứa da đầu (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-tri-gau-selsun-781.html
+196,Dầu gội đầu Y Lang Chí làm sạch các ký sinh trùng ngoài da (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-dau-tri-chi-y-lang-816.html
+197,Gel rửa mặt Isis Pharma Teen Derm Gel hỗ trợ giảm nhờn trên da và ngăn ngừa mụn trứng cá (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-rua-mat-giam-nhon-ngua-mun-teenderm-150ml-985.html
+198,"Gel Hiruscar Medinova điều trị sẹo lõm, sẹo lồi do phẫu thuật (5g)",https://nhathuoclongchau.com.vn/duoc-my-pham/hiruscar-5g-1013.html
+199,"Dung dịch xịt Nacurgo màng sinh học bảo vệ, tái tạo da tổn thương (100 lần xịt)",https://nhathuoclongchau.com.vn/duoc-my-pham/nacurgo-12ml-2937.html
+200,"Bột khử mùi Trapha hỗ trợ khử mùi, làm thơm, ngăn ngừa mùi hôi nách, hôi chân khi đi giày (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/bot-trapha-30g-4458.html
+201,Nhuộm tóc dược liệu Thái Dương nhuộm phần tóc bạc (5 gói),https://nhathuoclongchau.com.vn/duoc-my-pham/nhuom-toc-duoc-lieu-thai-duong-5-goi-14998.html
+202,Kem Ticarlox trị và làm mờ sẹo lồi (10g),https://nhathuoclongchau.com.vn/duoc-my-pham/ticarlox-10g-kem-tri-va-lam-mo-seo-loi-15858.html
+203,"Dầu gội dược liệu Thái Dương 7 hương hoa bưởi sạch gàu, không ngứa, giảm rụng tóc cho tóc dầu, tóc thường (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/thai-duong-dau-goi-duoc-lieu-7-200ml-16211.html
+204,"Kem nghệ và vitamin Thái Dương Nano Bạc dưỡng da, nhanh liền sẹo, mờ vết thâm, nám (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/thai-duong-kem-nghe-td-20g-16436.html
+205,"Sữa rửa chuyên dụng Gammaphil dành cho da nhờn, da khô, da nhạy cảm của trẻ sơ sinh và trẻ em (125ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/gammaphil-125ml-16475.html
+206,"Gel Megaduo hỗ trợ ngừa mụn trứng cá, ngừa thâm, dưỡng da (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/megaduo-gel-15g-16664.html
+207,Sữa chống nắng dưỡng da trắng mịn Sunplay Skin Aqua Clear White SPF 50+ PA++++ (25g),https://nhathuoclongchau.com.vn/duoc-my-pham/sunplay-skin-aqua-50clear-white-25g-16669.html
+208,"Kem Gót Sen Thái Dương giữ ẩm, dưỡng da dành cho da khô nứt nẻ (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/got-sen-thai-duong-16703.html
+209,"Gel Derma Forte Gamma hỗ trợ làm mờ sẹo, ngừa vết thâm, ngừa tái phát mụn, sạch bã nhờn trên da (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/derma-forte-15g-16714.html
+210,"Kem bôi da Yoosun rau má Đại Bắc ngừa mụn, mát da, tránh sẹo (25g)",https://nhathuoclongchau.com.vn/duoc-my-pham/yoosun-rau-ma-25g-16722.html
+211,"Kem Vaseline Pure OPC phòng nứt môi, khô môi, nứt da bàn chân, bàn tay (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/vaseline-pure-10g-opc-16767.html
+212,"Dầu Mù U Quang Minh làm mềm và mượt da, mờ vết sẹo (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tran-mu-u-15ml-16806.html
+213,"Gel làm sạch da và kháng khuẩn Subạc Spaphar tái tạo da, ngăn ngừa sẹo (25g)",https://nhathuoclongchau.com.vn/duoc-my-pham/su-bac-gel-lam-sach-sat-khuan-da-16858.html
+214,"Kem bôi da trẻ em Skin BiBi Nam Hà Pharma chống hăm, khô da, mẩn ngứa (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/skin-bibi-nam-ha-10g-kem-boi-da-tre-em-16868.html
+215,Dầu gội chống gàu Selsun Anti-Dandruff Shampoo Rohto sạch gàu và hết ngứa da đầu (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-chong-gau-selsun-100ml-16897.html
+216,"Sữa tắm gội hàng ngày Body And Hair Wash Lactacyd Baby Extra Milky sạch dịu nhẹ, dưỡng ẩm vượt trội (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/lactacyd-miklky-250ml-17155.html
+217,"Kem dưỡng ẩm Vaseline Pure OPC hương dâu phòng nứt môi, khô môi, nứt da bàn chân, bàn tay (10g) ",https://nhathuoclongchau.com.vn/duoc-my-pham/vaseline-pure-huong-dau-10g-opc-18952.html
+218,"Sữa tắm gội hàng ngày Body And Hair Wash Lactacyd Baby Extra Milky sạch dịu nhẹ, dưỡng ẩm vượt trội (500ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/lactacyd-milky-baby-sanofi-500ml-19158.html
+219,Xịt dung dịch Towders Spray Ocean Pharma làm sạch các loại ký sinh trùng khỏi da (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/towders-spray-100ml-quang-xanh-20264.html
+220,"Dầu gội dược liệu Nguyên Xuân Nâu dưỡng tóc và da đầu, sạch gàu, hết ngứa, giảm tóc gãy rụng (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-nguyen-xuan-200ml-hang-tang-20492.html
+221,"Kem Towders Cream Quang Xanh hỗ trợ phòng ngừa muỗi, ghẻ,  chấy và giữ ẩm, mềm mịn da (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/towders-cream-quang-xanh-15g-21468.html
+222,"Dầu gội dược liệu Nguyên Xuân Xanh Lá dưỡng tóc và da đầu, sạch gàu, hết ngứa, giảm tóc gãy rụng (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-nguyen-xuan-200ml-xanh-22387.html
+223,Dầu dừa làm đẹp Coconut Beautifying Oil da căng tóc mượt (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-dua-sense-plus-beautifying-lam-dep-50ml-29297.html
+224,"Dầu dưỡng da ban đêm NNO Nourishing Night Oil MEGA We care giữ ẩm, ngừa vết nhăn, đốm nâu (3 vỉ x 10 viên)",https://nhathuoclongchau.com.vn/duoc-my-pham/nno-nourishing-night-oil-3x10-dau-duong-da-ban-dem-29523.html
+225,Sáp dưỡng môi Vaseline Lip Care Rosy Lips bảo vệ môi khỏi những tác động của thời tiết (7g),https://nhathuoclongchau.com.vn/duoc-my-pham/vaseline-lip-duong-moi-hong-xinh-7g-32438.html
+226,"Gel Megaduo Plus giúp ngừa mụn trứng cá, ngừa thâm, dưỡng da (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/megaduo-gel-plus-gamma-15g-32465.html
+227,"Dầu gội dược liệu Nguyên Xuân sạch gàu, hết ngứa, dưỡng tóc, giảm gãy rụng dành cho tóc khô xơ, hư tổn (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-nguyen-xuan-xanh-la-250ml-phu-hop-cho-toc-kho-va-hu-ton-32546.html
+228,"Dầu gội dược liệu Nguyên Xuân hương hoa sạch gàu, hết ngứa, cân bằng lượng dầu, giảm tóc gãy rụng (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-nguyen-xuan-vang-hoa-linh-250ml-huong-hoa-bong-benh-phu-hop-cho-toc-dau-t-32680.html
+229,"Sữa tắm gội 2 in 1 Bimunica Shampoo and Body Wash 250ml dưỡng ẩm, mịn da cho trẻ sơ sinh",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-goi-2-in-1-bimunica-250-ml-danh-cho-tre-so-sinh-va-tre-nho.html
+230,"Sữa tắm gội em bé Gentle Wash 500ml La Beauty giảm và ngăn ngừa rôm sảy, hăm da ",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-goi-em-be-baby-gentle-wash-500-ml.html
+231,Sữa chống nắng La Roche-Posay Anthelios Uvmune 400 dành cho da dầu mụn (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-danh-cho-da-dau-mun-la-roche-posay-anthelios-uvmune-400-oil-control-fluid-50-spf-pa-uvb-uva-50-ml.html
+232,"Nước tắm gội thảo dược Dr.Papie Starmed làm sạch, làm dịu mát da, chăm sóc và bảo vệ da bé (230ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tam-goi-thao-duoc-dr-papie-starmed-230-ml.html
+233,"Thanh dưỡng trắng da Transino Whitening Stick (5,3g)",https://nhathuoclongchau.com.vn/duoc-my-pham/thanh-duong-trang-da-tri-nam-transino-whitening-stick-53g-37887.html
+234,Mặt nạ dưỡng trắng da Transino Whitening Facial Mask EX ngăn ngừa nám và tàn nhang (4 miếng x 20ml),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-duong-trang-da---tri-nam-transino-whitening-facial-mask-ex-4-mieng-x-20ml-37888.html
+235,"Kem vệ sinh Ziaja Intimate bổ sung Hyaluronic Acid giúp làm sạch, khử mùi hôi cho mọi đối tượng (200ml)",https://nhathuoclongchau.com.vn/thuoc/kem-ve-sinh-inrimate-bo-sung-hyaluronic-acid-ziaja-1-lo-x-200ml-37350.html
+236,Dưỡng chất giảm mụn sáng da Garnier Skin Naturals Bright Complete Anti-acne Booster Serum (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/garnier-skin-naturals-bright-complete-anti-acne-booster-serum-30ml-tinh-chat-cham-soc-da-mun-36403.html
+237,"Kem giảm thâm Hebe Effective Whitening Cream La Beaute hỗ trợ giảm thâm vùng nách, vùng kín (35g)",https://nhathuoclongchau.com.vn/duoc-my-pham/neo-hebe-effective-whitening-cream-labeaute-35g-kem-giam-tham-lam-sang-da-vung-nach-vung-kin-35326.html
+238,Kem chống nắng giảm bóng nhờn La Roche-Posay Anthelios 50+ bảo vệ da trước tác hại của tia UVA/UVB (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-la-roche-posay-kiem-soat-dau-spf50-585.html
+239,"Gội là nâu Matrix làm thay đổi màu tóc, che phủ tóc bạc (10 gói x 30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-nhuom-toc-goi-la-nau-matrix-589.html
+240,"Lăn khử mùi Aquaselin Extreme For Men dùng cho vùng nách dành cho nam giới, giảm mồ hôi (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/lan-nach-danh-cho-nam-aquaselin-594.html
+241,"Gội là đen Matrix giúp mái tóc đen tự nhiên, che phủ tóc bạc (10 gói x 25ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-nhuom-toc-goi-la-den-matrix-595.html
+242,"Kem Alvextra Skin Hydrating Cream Tanida dưỡng ẩm da tay, gót chân, giảm sạm da, vết thâm nám (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/alvextra-skin-hydrating-cream-tanida-50-g-kem-duong-am.html
+243,"Sữa chống nắng cho bé Sunplay Baby Mild SPF35 PA++ Rohto ngăn đen sạm, bỏng rát cho da nhạy cảm (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-tre-em-sunplay-673.html
+244,Kem dưỡng ẩm Ceradan Ceramide Hydra Moisturiser dành cho da khô và nhạy cảm (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/ceradan-ceramide-hydra-moisturiser-30g---kem-duong-am-va-phuc-hoi-da-bi-kich-ung-1082.html
+245,"Dầu dưỡng da Bio-Oil Specialist Skincare Oil chăm sóc da bị sẹo, vết rạn, da không đều màu (60ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-dau-tri-ran-da-bio-oil-60ml-15150.html
+246,"Lăn khử mùi Aquaselin Insensitive Women dùng cho vùng nách không nhạy cảm dành cho nữ, giảm mồ hôi (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/aquaselin-intensive-women-50ml-15337.html
+247,Sữa tắm và gội cho trẻ em Cetaphil Baby Gentle Wash And Shampoo (230ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-baby-gentle-wash-shampoo-hair-body-230ml-15632.html
+248,"Gel Strataderm hỗ trợ điều trị sẹo lồi, sẹo xấu, sẹo lâu năm (5g)",https://nhathuoclongchau.com.vn/duoc-my-pham/strataderm-5g-16474.html
+249,Sữa rửa mặt và toàn thân cao cấp Adaphil Gentle Skin Cleanser Gamma dành cho mọi loại da (125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/adaphil-125ml-16643.html
+250,"Giấy thấm dầu Acnes Oil Remover Paper giúp kiểm soát nhờn, ngăn ngừa mụn (100 tờ)",https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-giay-tham-dau-oil-remover-paper-100-cai-17563.html
+251,Sữa tắm Eucerin pH5 WashLotion Preserves Skin Resilience dành cho da nhạy cảm (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-sua-tam-ph5-skin-protection-cho-da-nhay-cam-co-mui-400ml-63073-18104.html
+252,"Kem Rejuvaskin Scar Esthetique làm mờ sẹo, mờ vết thâm trên da (10ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-tri-seo-rejuvaskin-scar-esthetique-silicone-10ml-22386.html
+253,"Gel Hiruscar Kids Medinova giúp sẹo mờ dần, phẳng và mềm hơn (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/hiruscar-kids-medinova-10g-27895.html
+254,"Viên nang mềm NNO Vite Whitening Serum hỗn hợp làm trắng da, giảm kích ứng da và cải thiện tình trạng da (3 vỉ x 10 viên)",https://nhathuoclongchau.com.vn/duoc-my-pham/nno-vite-aplicapz-3x10-serum-duong-da-trang-sang-29522.html
+255,"Xà phòng Acnes Body Bar Saffron And Betel Leaf làm sạch da, ngừa mụn, mờ thâm (75g)",https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-body-bar-la-beauty-75g-xa-phong-tam-tri-mun-sang-da-saffron-va-cao-trau-khong-30131.html
+256,"Dầu gội Raileza 120ml Ocean Pharm diệt các loại chấy rận, ký sinh trùng khác trên da và tóc",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-tri-chay-raileza-120-ml.html
+257,"Kem dưỡng ẩm Latopic Face And Body Cream làm dịu ngứa da dị ứng, kích ứng da, giảm thô ráp da (75ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/latopic-face-anh-body-cream-kem-duong-75-ml.html
+258,"Dung dịch Bioderma Sebium H2O dạng hạt mixen (micelle) dùng tẩy trang dành cho da hỗn hợp, da dầu (500ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-danh-cho-da-dau-va-hon-hop-bioderma-sebium-h20-500-ml.html
+259,Dung dịch vệ sinh Saforelle Miss 250ml dành cho bé gái,https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-ve-sinh-saforelle-miss-250-ml-danh-cho-be-gai.html
+260,"Nước súc miệng kháng khuẩn Pharmedic Orafar 250ml ngừa sâu răng, bảo vệ men răng",https://nhathuoclongchau.com.vn/cham-soc-ca-nhan/nuoc-suc-mieng-khang-khuan-pharmedic-orafar-250-ml.html
+261,Serum chống nắng Bioré UV Body Care Serum Intensive Aura SPF50+ PA+++ dưỡng thể sáng da mịn màng (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/biore-uv-body-care-serum-intensive-aura-spf-50-pa-150-ml-serum-chong-nang-duong-the-sang-da-min-mang.html
+262,Kem chống nắng Cetaphil Sun Spf 50+ bảo vệ da trước tác động của ánh nắng mặt trời (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-danh-cho-da-nhay-cam-cetaphil-sun-spf-50-50-ml.html
+263,Kem chống hăm tã Calendula Diaper Cream Cetaphil giúp chăm sóc da và làm dịu hăm tã cho bé (70g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-ham-ta-diu-lanh-cetaphil-diaper-cream-calendula-70-g.html
+264,Dầu gội làm sạch gàu Vichy Laboratoires Dercos Technique Anti-Dandruff Ds Dermatological (75ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-lam-sach-gau-vichy-dercos-75-ml.html
+265,Sữa rửa mặt tạo bọt dịu lành Cetaphil Hydrating Foaming Cream Cleanser (236ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-tao-bot-diu-lanh-cetaphil-hydrating-foaming-cream-cleanser-236-ml.html
+266,"Kem chống nắng Defender UV Serum Invisible Fluid L’Oréal SPF50+ và PA++++ giúp ngăn ngừa lão hóa, đốm nâu (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-loreal-uv-defender-uv-serum-protector-invisible-fluid-spf-50-pa-long-uva-50-ml.html
+267,"Sữa tắm gội cho bé Kutieskin giúp làm sạch dịu nhẹ, chăm sóc và bảo vệ da bé (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-goi-cho-be-kutieskin-200-ml.html
+268,Kem hỗ trợ điều trị mụn Effaclar Duo+M Laroche posay giảm mụn trong vòng 8 giờ (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-ho-tro-dieu-tri-mun-la-roche-posay-effaclar-duo-m-40-ml.html
+269,"Dầu gội Redenyl Medimar dùng để trị gàu, viêm da tiết bã nhờn, ngăn ngừa rụng tóc (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-redenyl-medimar-hop-200-ml.html
+270,Sữa rửa mặt và toàn thân Adaphil Gentle Skin Cleanser giúp làm sạch và dưỡng da (500ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-va-toan-than-adaphil-gamma-500-ml.html
+271,Gel Nacurgo Gelpro 20g làm giảm thâm sẹo,https://nhathuoclongchau.com.vn/duoc-my-pham/nacurgo-gelpro-20-g-gel-lam-giam-tham-seo.html
+272,"Kem Pure Paw Paw Ointment hương dâu giúp dưỡng ẩm, giảm nứt nẻ, trị bỏng, côn trùng cắn (25g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-boi-da-nang-pure-paw-paw-ointment-25-g-huong-dau-australia-duong-am-giam-nut-ne-tri-bong-con-trung-can.html
+273,"Kem Pure Paw Paw Ointment hỗ trợ dưỡng ẩm, giảm nứt nẻ, trị bỏng, côn trùng cắn (25g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-boi-da-nang-du-du-pure-paw-paw-ointment-25-g-australia-duong-am-giam-nut-ne-tri-bong-con-trung-can.html
+274,"Gel Actidem Derma giúp ngăn ngừa mụn, làm mờ vết thâm (40g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-ngua-mun-lam-mo-vet-tham-actidem-derma-gel-40-g.html
+275,"Dầu gội Rudondo New Quang Xanh giúp sạch gầu, giảm nấm, dầu nhờn da dầu (120ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-giam-nam-dau-nhon-rudondo-new-quang-xanh-120-ml.html
+276,"Kem chống nắng Sunplay Skin Aqua Tone Up UV Essence SPF50+ PA++++ giữ ẩm, dưỡng sáng dành cho mọi loại da (50g) ",https://nhathuoclongchau.com.vn/duoc-my-pham/sunplay-tone-up-uv-essence-rohto-50-g-tinh-chat-chong-nang-nang-tong-da-sang-hong-trong-suot.html
+277,Kem bôi da Ceradan Advanced Moisturising Skin Barrier Cream 30g dưỡng ẩm và giúp phục hồi da khô,https://nhathuoclongchau.com.vn/duoc-my-pham/ceradan-advanced-moisturing-skin-barrier-cream-hyphens-30-g.html
+278,"Tinh dầu bạch đàn chanh Kutieskin giúp đuổi muỗi và côn trùng dịu vết sưng tấy, làm dịu da (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-bach-dan-chanh-duoi-muoi-va-con-trung-kutieskin-30-ml.html
+279,"Dung dịch chăm sóc da mặt Navico làm sạch da mặt, giảm cặn bã (60ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-cham-soc-da-navico-60-ml.html
+280,"Xà phòng tắm Atids Salicylic Acid 2% + Sulfur làm sạch da, thích hợp cho da dầu, da mụn (80g)",https://nhathuoclongchau.com.vn/duoc-my-pham/xa-phong-tam-atids-salicylic-acid-2-sulfur-80-g-1.html
+281,Sữa chống nắng dạng xịt Banana Boat Sport Ultra Suncreen Continuos Spray SPF 100 PA++++ (170g),https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-the-thao-dang-xit-banana-boat-sport-ultra-spf-100-pa-170-g.html
+282,Xịt chống nắng thể thao Banana Boat Sport Sensitive Sunscreen Spray SPF50+ PA++++ (170g) ,https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-the-thao-dang-xit-banana-boat-sport-sensitive-spf-50-pa-170-g.html
+283,Xịt chống nắng trẻ em Banana Boat Kids Sensitive Sunscreen Spray SPF50+ PA++++ dành cho toàn thân (170g),https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-dang-xit-dung-cho-tre-em-banana-boat-kids-sensitive-spf50-pa-170g-38156.html
+284,"Kem bôi da Yoosun Nghệ Đại Bắc mờ thâm, giảm sẹo, ngừa mụn (25g)",https://nhathuoclongchau.com.vn/thuoc/yoosun-nghe-dai-bac-25g-38162.html
+285,"Kem chống nắng Isis Pharma Neotone Radiance SPF 50+ dưỡng trắng, mờ nám, phục hồi da (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-neotone-radiance-spf-50-30-ml-kem-chong-nang-mo-nam-trang-da.html
+286,Sữa chống nắng dưỡng ẩm Senka Perfect UV Milk N SPF50+ PA++++ dành cho mặt và toàn thân (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-duong-am-dang-sua-cho-mat-va-toan-than-senka-perfect-uv-milk-n-spf50-pa-40ml-37897.html
+287,"Chống nắng dạng Essence Senka Perfect UV Essence SPF50+ PA++++ dành cho mặt, nâng tông da (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-nang-tong-dang-senka-essence-perfect-uv-37898.html
+288,Gel sữa chống nắng Senka Perfect UV Gel N SPF 50+ PA++++ dành cho mặt và toàn thân (80ml),https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-duong-am-senka-perfect-uv-gel-37899.html
+289,"Nhũ tương Latopic Body Lotion làm dịu da, giảm ngứa, giảm khô (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/latopic-body-emulsion-nhu-tuong-duong-am-250-ml.html
+290,Sửa rửa mặt tạo bọt dịu nhẹ Eucerin Acne-Oil Control Pro Acne Solution Soft Cleansing Foam (50g),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-tao-bot-diu-nhe-eucerin-acne-oil-control-pro-acne-solution-soft-cleansing-foam-50g-37716.html
+291,Sữa rửa mặt cho da nhạy cảm Eucerin PH5 Facial Cleanser Sensitive Skin (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-cho-da-nhay-cam-eucerin-ph5-facial-cleanser-sensitive-skin-100ml-37718.html
+292,Chai xịt Redenyl Lotion hỗ trợ giúp mọc tóc và ngăn ngừa rụng tóc (80ml),https://nhathuoclongchau.com.vn/duoc-my-pham/chai-xit-redenyl-lotion-medimar-80-ml.html
+293,KEM DƯỠNG ẨM MEGADERM 50G ĐỨC PHÚC 1 HỘP X 1 CHAI,https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-megaderm-duc-phuc-50-g.html
+294,"Son dưỡng dầu dừa Bến Tre Cocoon chống khô môi, nứt nẻ do thời tiết (5g)",https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-dau-dua-ben-tre-cocoon-5g-37004.html
+295,Nước làm sạch và tẩy trang Garnier Skin Naturals Micellar Oil-infused Cleansing Water (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/garnier-skin-naturals-micellar-oil-infused-cleansing-water-400ml-nuoc-tay-trang-danh-cho-da-trang-diem-36928.html
+296,Nước tẩy trang không cồn Senka Micellar All Clear Water Fresh (230ml),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-khong-con-senka-micellar-all-clear-water-fresh-230ml-10215288202vn-36658.html
+297,"Sáp Lanolina Kosmetyczna Ziaja làm dịu phát ban, kích ứng do bị tổn thương cho da và niêm mạc (10g)",https://nhathuoclongchau.com.vn/thuoc/ziaja-lanolina-kosmetyczna-10g-36568.html
+298,"Gel rửa mặt Avacne Cleansing Auvi giúp làm sạch và giảm nhờn, dưỡng ẩm và se khít lỗ chân lông (150g)",https://nhathuoclongchau.com.vn/thuoc/avacne-cleansing-gel-auvi-150g-36571.html
+299,Kem dưỡng ẩm dành cho da khô Cerave Moisturising Cream bảo vệ da mặt và toàn thân (340g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-danh-cho-da-kho-cerave-moisturising-cream-mb112202-340g-36477.html
+300,"Sữa rửa mặt Cerave Hydrating Cleanser giúp làm sạch sâu dành cho da thường, da khô (236ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-lam-sach-sau-danh-cho-da-thuong-va-da-kho-cerave-hydrating-cleanser-mb094520-236ml-36479.html
+301,Sữa rửa mặt ngừa mụn Garnier Skin Naturals Bright Complete Anti-Acne Cleansing Foam (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/garnier-skin-naturals-bright-complete-anti-acne-cleansing-foam-100ml-sua-rua-mat-ngua-mun-36401.html
+302,Tinh chất dưỡng sáng da Garnier Skin Naturals Bright Complete 30x Vitamin C Booster Serum (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/garnier-skin-naturals-bright-complete-30x-vitamin-c-booster-serum-30ml-tinh-chat-duong-sang-da-36402.html
+303,"Tinh chất Avacne Serum Auvi Natrure giúp kiểm soát nhờn, giảm mụn và mờ vết thâm (30ml)",https://nhathuoclongchau.com.vn/thuoc/avacne-serum-auvi-nature-30ml-36409.html
+304,Kem vệ sinh Ziaja Intimate bổ sung Lactobionic Acid giúp ngăn ngừa tình trạng viêm nhiễm phụ khoa (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-ve-sinh-ziaja-intimate-lactobionic-acid-200-ml.html
+305,Sữa chống nắng Bioré UV Kids Pure Milk SPF50+ PA+++ dịu nhẹ cho trẻ em (70ml),https://nhathuoclongchau.com.vn/duoc-my-pham/biore-uv-kids-pure-milk-spf-50+-70ml-kem-chong-nang-dang-sua-diu-nhe-cho-tre-em-36207.html
+306,"Xà phòng Acne-Aid Oil Control Soap Bar 100g làm sạch dịu nhẹ, giảm nhờn cho da nhờn và mụn",https://nhathuoclongchau.com.vn/duoc-my-pham/acne-aid-oil-control-soap-bar-100-g-danh-cho-da-nhon-va-da-mun.html
+307,"Gel rửa mặt ngừa mụn Canova Salipil Detergente Sifarma giúp loại bỏ bụi bẩn, tế bào chết, làm giảm và ngăn ngừa mụn (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/canova-salipil-detergente-purifying-cleansing-gel-sifarma-150-ml-gel-rua-mat-ngua-mun.html
+308,Kem dưỡng ẩm Neutrogena Hydro Boost Water Gel (50g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-neutrogena-hydro-boost-water-gel-50g-35660.html
+309,Sữa rửa mặt dưỡng ẩm Neutrogena Deep Clean Gentle Foaming Cleanser (100g),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-duong-am-neutrogena-deep-clean-hydrating-foaming-cleanser-100g-35671.html
+310,Nước tẩy trang Neutrogena Deep Clean Micellar Purifying Water Johnson And Johnson (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-neutrogena-deep-clean-micellar-purifying-water-400ml-35679.html
+311,Sữa rửa mặt trị mụn Acne Aid Liquid Cleanser Oil Control (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-tri-mun-acne-aid-liquid-cleanser-oil-control-100ml-35495.html
+312,Sữa chống nắng lâu trôi La Roche-Posay Laboratoire Dermatologiue Anthelios Uvmune 400 Invisible Fuild (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/la-roche-posay-laboratoire-dermatologiue-anthelios-uvmune-400-invisible-fuild-50ml-mb459200-kem-ch-35185.html
+313,"Xịt khử mùi Nivea Anti-Perspirant Extra Brightening 8 Super Food giảm tiết mồ hôi, ngăn mùi đến 48h (150ml) ",https://nhathuoclongchau.com.vn/duoc-my-pham/xit-khu-mui-nivea-anti-perspirant-extra-brightening-8-super-food-48h-150ml-34725.html
+314,Sữa dưỡng thể ban đêm Nivea Extra White Night Nourish (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-duong-the-nivea-extra-white-night-nourish-ban-dem-200ml-34726.html
+315,"Son dưỡng ẩm chuyên sâu Nivea Peach Shine không thâm môi, không chứa chì (4,8g)",https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-am-nivea-peach-shine-48g-34713.html
+316,"Son dưỡng ẩm Nivea Strawberry Shine dưỡng và duy trì độ ẩm cho môi (4,8g)",https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-am-nivea-strawberry-shine-48g-34714.html
+317,Son dưỡng ẩm Nivea Original Care dưỡng và duy trì độ ẩm cho môi (4.8g),https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-am-nivea-original-48g-34715.html
+318,Xịt kháng khuẩn khử mùi Dizigone 100ml Terrapharm hỗ trợ vết thương mau lành,https://nhathuoclongchau.com.vn/thuoc/dizigone-terrapham-100ml-34661.html
+319,"Gel tắm gội Latopic Body and Hair Wash dành cho da dị ứng, kích ứng hỗ trợ dưỡng ẩm (400ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/latopic-body-and-hair-wash-gel-gel-tam-goi-cho-da-di-ung-kich-ung-400-ml.html
+320,"Kem mềm da Ziaja Med Mocznik 15% làm mềm, dưỡng ẩm, chăm sóc da khô (100ml)",https://nhathuoclongchau.com.vn/thuoc/kem-duong-am-lam-mem-da-ziaja-med-15-urea-cream-100ml-34088.html
+321,Sữa chống nắng dịu nhẹ cho da nhạy cảm Anessa Perfect UV Sunscreen Mild Milk SPF 50+ PA++++ (60ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-chong-nang-diu-nhe-cho-da-nhay-cam-va-tre-em-anessa-perfect-uv-sunscreen-mild-milk-spf-pa-60-ml-1.html
+322,Sữa dưỡng da trẻ em tinh chất hoa cúc Cetaphil Baby With Organic Calendula Daily Lotion (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-sua-duong-da-tre-em-tinh-chat-hoa-cuc-baby-daily-lotion-with-organic-calendula-400ml-33920.html
+323,"Kem chống nắng Vichy Capital Soleil Dry Touch Face Fluid SPF50 UVA+UVB mờ đốm nâu, chống lão hóa (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-dang-sua-khong-gay-nhon-rit-vichy-capital-soleil-dry-touch-face-fluid-spf50-uvauvb-m-33865.html
+324,Gel chống nắng dưỡng ẩm Anessa Perfect UV Sunscreen Skincare Gel N SPF50+ PA++++ Shisheido (90g),https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-dang-gel-anessa-perfect-uv-sunscreen-skincare-gel-n-spf50-pa-90g-10118526201vn-33697.html
+325,Sữa chống nắng dưỡng da kiềm dầu Anessa Perfect UV Sunscreen Skincare Milk SPF50+ PA++++ Shiseido (60ml),https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-dang-sua-anessa-perfect-uv-sunscreen-skincare-milk-n-spf50-pa-60ml-10118523201vn-33700.html
+326,"Dầu gió Kimagi Agimexpharm giữ ấm cơ thể, xông hơi giải cảm (10 chai x 6ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-gio-kimagi-agimexphar-6ml-10-chai-33654.html
+327,"Sữa chống nắng Sunplay Skin Aqua Tone Up UV SPF50+ PA++++ kiểm soát dầu, dưỡng sáng da (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-dang-sua-cho-mat-co-vai-skin-aqua-tone-up-milk-lavender-50g-spf50-pa-33604.html
+328,Serum chống nắng dưỡng thể kháng bụi Bioré UV SPF50+ PA+++ Kao (150ml) ,https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-serum-dung-cho-toan-than-biore-khang-bui-sang-da-min-mang-spf-50-150ml-33592.html
+329,Sữa chống nắng mặt và toàn thân Bioré UV Perfect Protect Milk Bright SPF50+ PA+++ sáng mịn da (25ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-dang-sua-dung-cho-mat-va-toan-than-biore-bao-ve-da-perfect-protect-milk-bright-spf-50-33585.html
+330,Sữa chống nắng trang điểm Bioré UV Bright Milk SPF50+ PA++++ nâng tông da sáng hồng tự nhiên cho mặt (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-dang-sua-dung-cho-mat-biore-bright-milk-spf-50-30ml-33584.html
+331,"Bánh xà phòng Dr.EA Zantis Soap Bar làm sạch da, kiểm soát bã nhờn cho da dầu, da mụn, nấm (80g)",https://nhathuoclongchau.com.vn/duoc-my-pham/zantis-soap-bar-drea-80g-banh-xa-phong-lam-sach-da-cho-da-dau-va-da-mun-33148.html
+332,"Dầu tắm Ziaja Med Atopic Skin giúp làm sạch da dịu nhẹ, dưỡng da và làm mềm mịn da (270ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/ziaja-med-atopic-skin-dau-tam-mem-min-da-270ml-32934.html
+333,"Kem dưỡng mềm da Nivea Soft bổ sung vitamin E, cân bằng độ ẩm (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-mem-da-nivea-50ml-32927.html
+334,"Sữa tắm không cần dùng nước NoRinse Body Bath thay thế cách tắm thông thường (473,1ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-khong-dung-nuoc-no-rinse-4731ml-599.html
+335,Kem chống nắng giảm nhờn Eucerin Sun Dry Touch Oil Control Face SPF50+ PA+++ (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-eucerin-sun-protection-spf50-615.html
+336,"Kem rửa mặt Acnes Vitamin Cleanser Rohto phục hồi làn da sau mụn, mờ sẹo và giảm nhanh thâm mụn (100g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-vitamin-acnes-641.html
+337,"Kem phục hồi da Ceradan Ceramide Skin Barrier Repair Cream dành cho da khô, kích ứng và nhạy cảm (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-ceradan-hydrat-663.html
+338,"Kem dưỡng da tay Lana Hand Cream giảm nhăn da, đồi mồi, ngứa, nứt nẻ da tay (80g)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-duong-da-tay-lana-671.html
+339,Kem dưỡng ẩm Cetaphil Moisturizing Cream hỗ trợ làm mềm và ẩm da (50g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-cetaphil-cho-da-kho-va-nhay-cam-676.html
+340,Chai xịt Zuchi Hoa Linh khử mùi hôi cơ thể (20ml),https://nhathuoclongchau.com.vn/duoc-my-pham/khu-mui-mo-hoi-dang-xit-zuchi-693.html
+341,"Gel Belazin hỗ trợ ngừa mụn trứng cá, ngừa thâm, dưỡng da (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-tri-mun-trung-ca-ngua-tham-belazin-694.html
+342,Kem dưỡng da chân Footgel Classic Lana chống nứt nẻ và làm mềm da chân (50g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-da-chan-footgel-classic-695.html
+343,"Sữa chăm sóc da Skinsiogel Cleanser Gamma không chứa xà phòng, giữ ẩm, làm mềm da (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-da-mat-va-toan-than-skinsiogel-767.html
+344,Dầu gội Azasun Extra Gamma sạch gàu cho da đầu hết ngứa (120ml),https://nhathuoclongchau.com.vn/duoc-my-pham/azasun-extra-120ml-775.html
+345,Kem dưỡng ẩm Atopalm Intensive Moisturizing Cream phục hồi hàng rào da (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-phuc-hoi-da-atopalm-788.html
+346,"Kem Sali-10 Perfect Foot And Hand Cream giảm nhăn da, giữ ẩm da, giảm khô da, nứt nẻ ở gót chân, ngón tay (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sali-10-811.html
+347,Sữa dưỡng thể Eucerin pH5 Lotion cung cấp độ ẩm cho da mịn màng và mềm mại (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-duong-the-eucerin-ph5-danh-cho-da-nhay-cam-883.html
+348,Kem A-Derma​​​​​​​ Dermalibour​​​​​​​​​​​​​​+ Repairing Cream làm dịu da dùng hằng ngày cho da kích ứng (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-phuc-hoi-lam-diu-da-a-derma-934.html
+349,"Kem Alcopic Gamma giảm ngứa, rát, đau do viêm da cơ địa, viêm da tiếp xúc (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-giam-ngua-da-viem-da-alcopic-955.html
+350,"Kem Atopiclair Cream Menarini giảm ngứa, rát, đau do viêm da cơ địa, viêm da tiếp xúc (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/atopiclair-cream-40ml-956.html
+351,"Kem Fixderma Moisturizing Cream cân bằng độ ẩm cho da, giảm khô và bong tróc da (60g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-cho-da-fixderma-957.html
+352,"Kem Isis Pharma Mothercare dưỡng ẩm, giảm khô môi, chàm môi, nứt núm vú (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-giam-kho-moi-nut-num-vu-mothercare-968.html
+353,"Kem Secalia AHA IsisPharma dưỡng ẩm, làm mềm, giảm khô da, giảm kích ứng (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-lam-mem-da-secalia-aha-200ml-972.html
+354,Gel rửa mặt dành cho da dầu da mụn Uriage Hyséac Gel Nettoyant (150ml) ,https://nhathuoclongchau.com.vn/duoc-my-pham/gel-rua-mat-danh-cho-da-dau-mun-uriage-150ml-975.html
+355,Kem Vitiskin IsisPharma hỗ trợ điều trị bạch biến (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-ho-tro-dieu-tri-bach-bien-isis-pharma-vitiskin-980.html
+356,"Gel rửa mặt Isis Pharma Teen Derm Gel Sensitive giúp giảm nhờn, ngăn ngừa mụn cho da nhạy cảm (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-rua-mat-giam-nhon-ngua-mun-teenderm-250ml-987.html
+357,Kem Isis Pharma Teenderm Alpha Pure hỗ trợ điều trị mụn trứng cá (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-tri-mun-trung-ca-teenderm-a-pure-988.html
+358,"Dầu gội Mintar Liquid Gamma vệ sinh da đầu, sạch gàu, giảm gàu cho da đầu (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/mintar-liquid-gamma-150ml---dau-goi-sach-gau-1586.html
+359,"Kem Heel Balm Bridge Healthcare làm mềm, phục hồi da thô ráp, khô, nứt nẻ ở gót chân và bàn chân (75g)",https://nhathuoclongchau.com.vn/duoc-my-pham/heel-balm-75g-3511.html
+360,"Sữa dưỡng ẩm Atopiclair Lotion Menarini giảm ngứa, rát, đau do viêm da cơ địa, viêm da tiếp xúc (120ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/atopiclair-lotion-120ml-4660.html
+361,"Sữa rửa mặt Gamma Vinatid điều trị viêm da, mụn trứng cá (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/vinatid-medical-cleanser-150ml-14190.html
+362,"Sữa tắm Loturelle Gentle Cleansing Gel hỗ trợ kháng khuẩn, kháng nấm (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/loturelle-gentle-cleansing-gel-250ml-14264.html
+363,Gel chấm mụn chứa bùn hoạt tính Dermacos Anti-Ance Anti Imperfection Spot Gel giảm và ngăn ngừa mụn (15ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dermacos-anti-acne-anti-imperfextion-spot-gel-15ml-14328.html
+364,Dầu gội Radical Med Anti - Hair Loss Shampoo làm sạch và ngăn ngừa rụng tóc (300ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-radical-med-anti-hair-loss-shampoo-300ml-14419.html
+365,Kem dưỡng ẩm chuyên sâu Eucerin Sensitive Skin Lipo - Balance dành cho da khô (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-sensitive-skin-lipo-balance-50ml-63407-14422.html
+366,Gel rửa sạch sâu ngừa mụn chứa bùn hoạt tính Dermacos Anti-Acne Deep Cleansing Gel giảm nhờn trên da (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dermacos-anti-acne-deep-cleansing-gel-150ml-14430.html
+367,Gel rửa mặt tạo bọt La Roche-Posay Effaclar Purifying Foaming Gel For Oily Sensitive Skin cho da dầu nhạy cảm (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/laroche-posay-effaclar-50ml-m2980801-14483.html
+368,Sữa dưỡng ẩm toàn thân cho bé Cetaphil Baby Daily Lotion hỗ trợ bảo vệ làn da (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-baby-daily-lotion-face-body-400ml-15630.html
+369,"Dầu xả Thái Dương 3 hương hoa suôn mềm, óng ả, tự nhiên (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/thai-duong-dau-xa-3-hhoa-15821.html
+370,"Dầu xả dưỡng tóc Selsun Rohto suôn khỏe, mềm mượt, không gây gàu (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-xa-selsun-100ml-15992.html
+371,Sữa tắm dưỡng ẩm Ceradan Ceramide Moisturing Wash Face And Body dành cho mặt và toàn thân (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/ceradan-moisturing-body-wash-150ml-16029.html
+372,"Sữa tắm, rửa mặt Clearinger Gamma làm ẩm và dịu da (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/clearinger-16201.html
+373,"Dầu gội không dùng nước NoRinse Shampoo làm sạch tóc nhẹ nhàng (236,6ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/norinse-dau-goi-ko-dung-nuoc-2366ml-16212.html
+374,"Phim thấm dầu Acnes Oil Remover Film kiểm soát nhờn, ngăn ngừa mụn (50 tờ)",https://nhathuoclongchau.com.vn/duoc-my-pham/phim-tham-dau-acnes-goi-50-to-16214.html
+375,"Gel Dolly-AC Acnes Gamma làm sạch bã nhờn trên da, ngừa mụn, mờ sẹo, mờ vết thâm mụn (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-15g-dollyac-16371.html
+376,"Kem Dermaton.US Acne Control SkinCare Cream Gamma dưỡng trắng, sạch mụn, ngừa sẹo thâm, sạch bã nhờn (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/dermaton-us-acne-control-skincare-cream-gamma-20-g-kem-tri-mun.html
+377,"Kem phục hồi da Ceradan Ceramide Skin Barrier Repair Cream dành cho da khô, kích ứng và nhạy cảm (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/ceradan-ceramide-skin-barrier-repair-cream-10g-kem-duong-am-da-an-toan-cho-be-16618.html
+378,"Dung dịch tắm rôm sảy em bé Phyto BEBE Opodis Pharma kháng khuẩn, nấm (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/phyto-bebe-100ml-16950.html
+379,Sữa tắm Eucerin pH5 WashLotion Preserves Skin Resilience dành cho da nhạy cảm (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-ph5-sua-tam-danh-cho-da-nhay-cam-200ml-co-mui-63071-17304.html
+380,Gel giảm mụn đầu trắng và mụn đầu đen Acnes Sealing Jell Rohto (18g),https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-sealing-jell-18g-sach-mun-khang-khuan-17564.html
+381,Gel mờ sẹo và giảm thâm mụn Acnes Scar Care Rohto (12g),https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-12g-scar-care-17567.html
+382,"Dầu gội đầu Redwin Coal Tar Fragrance Shampoo 250ml làm sạch, cân bằng độ ẩm, ngăn ngừa gàu",https://nhathuoclongchau.com.vn/duoc-my-pham/redwin-coal-tar-fragrance-shampoo-250ml-17829.html
+383,"Dầu gội REDWIN Tea Tree Shampoo 250ml giảm những triệu chứng ngứa, gàu, vảy, nấm da đầu",https://nhathuoclongchau.com.vn/duoc-my-pham/redwin-tea-tree-shampoo-hair-revitaliser-250ml-18313.html
+384,Gel rửa mặt Eucerin Pro Acne Cleansing làm sạch dịu nhẹ cho da nhờn mụn (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-cleansing-gel-200ml-88970-18630.html
+385,"Kem dưỡng ẩm Redwin Sensitive Skin Sorbolene Moisturiser With Vitamin E hỗ trợ điều trị chàm, vảy nến (100g)",https://nhathuoclongchau.com.vn/duoc-my-pham/redwin-sorbolene-moisturiser-with-vitamin-e-100g-18646.html
+386,"Gel Fixderma Salyzap Day Time giảm mụn, ngăn ngừa hình thành nhân mụn mới (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/salyzap-gel-day-time-20g-fixderma-18652.html
+387,"Lotion Fixderma Salyzap Lotion For Acne giảm mụn, ngăn ngừa hình thành nhân mụn mới (20ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/salyzap-lotion-for-acne-night-time-20ml-fix-derma-18911.html
+388,"Dầu dưỡng da Bio-Oil Specialist Skincare Oil chăm sóc da bị sẹo, vết rạn, da không đều màu (125ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-dau-tri-ran-da-bio-oil-125ml-18963.html
+389,Kem Fixderma Shadow SPF 50+ Cream giúp chống nắng và dưỡng ẩm (75g),https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-shadow-spf-50-cream-75g-kcn-va-giu-am-19266.html
+390,"Kem bôi dạng gel Hiruscar Silicone Pro Medinova mờ sẹo, giảm ngứa và khó chịu liên quan đến sẹo (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/hiruscar-silicone-pro-medinova-10g-19353.html
+391,"Gel Kelo-Cote Alliance hỗ trợ làm mờ sẹo, giảm vết thâm (6g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kelo-cote-alliance-6g-19394.html
+392,Tinh chất Radical Med Anti-Hair Loss làm sạch tóc và da đầu (3 ống x 5ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-radical-med-anti-hair-loss-3-ong-woman-19565.html
+393,Nước tẩy trang La Roche-Posay Effaclar Micellar Water Ultra Oily Skin cho da dầu (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/la-roche-posay-effeclar-micellar-water-ultra-400-ml-m2862404-nuoc-lam-sach-sau-va-tay-trang-danh-cho-da-dau-va-nhay-cam.html
+394,Sữa tắm dưỡng ẩm Redwin Sensitive Skin Sorbolene Body Wash (500ml),https://nhathuoclongchau.com.vn/duoc-my-pham/redwin-sorbolene-body-wash-with-vitamin-e-500ml-sua-tam-duong-am-19874.html
+395,Gel rửa mặt tạo bọt La Roche-Posay Effaclar Purifying Foaming Gel For Oily Sensitive Skin cho da dầu nhạy cảm (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/lrc-posay-effaclar-purifying-foaming-gel-for-oily-sensitive-skin-200ml-m9054420-grm-tao-bot-lam-sa-20157.html
+396,"Gel Ceradan Soothing 50g làm dịu da, dành cho da ngứa, mẩn đỏ",https://nhathuoclongchau.com.vn/duoc-my-pham/ceradan-soothing-gel-hyphens-50g-20559.html
+397,"Kem Dermacos Anti-Acne Matting Cream giảm nhờn, ngăn ngừa mụn (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dermacos-anti-acne-matting-cream-50ml-20926.html
+398,"Gel An Trĩ Vương Vinh Gia dùng khi bị trĩ, táo bón, nứt hoặc rò hậu môn (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/an-tri-vuong-gel-20g-vinh-gia-21036.html
+399,"Kem Yoosun Acnes ngăn ngừa và làm giảm mụn, kiểm soát bã nhờn, làm mờ thâm sẹo (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-ngua-mun-yoosun-acnes-15g-21105.html
+400,"Gel Ceradan Soothing làm dịu da dành cho da ngứa, mẩn đỏ (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/ceradan-soothing-gel-hyphens-10g-22359.html
+401,"Kem Nivea Creme hỗ trợ dưỡng ẩm, bảo vệ và nuôi dưỡng làn da mềm mại (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-ne-nivea-creme-beiersdorf-ag-hamburg-germany-30ml-22467.html
+402,"Kem nẻ Valentine Sao Thái Dương dưỡng da, chống nẻ, cải thiện làn da bị khô, bong tróc (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-ne-valentine-20g-sao-thai-duong-22793.html
+403,"Kem dưỡng da mặt Ziaja Med Atopic Skin Dermatological Formula Face Cream giúp dưỡng ẩm&nbsp;và&nbsp;làm mềm da, giảm khô da (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/ziaja-med-atopic-skin-dermatological-formula-50ml-cream-diu-nhe-duong-am-28632.html
+404,"Sáp dưỡng môi hồng xinh Vaseline Rosy Lips cung cấp và duy trì độ ẩm cho môi (4,8g)",https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-vaseline-rosy-lips-hong-xinh-48g-28657.html
+405,"Bột hút ẩm chống loét Adapt Stoma Powder Hollister cho vùng da tổn thương, vùng quanh hậu môn nhân tạo (28,3g)",https://nhathuoclongchau.com.vn/duoc-my-pham/adapt-stoma-powder-hollister-283g-bot-hut-am-chong-loet-28999.html
+406,Xịt dưỡng ẩm Eucerin Hyaluron Mist Spray cho da nhạy cảm (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-hyaluron-mist-spray-150ml-66857-xit-khoang-29120.html
+407,"Nước xịt khoáng dưỡng da Vichy Eau Thermale Mineralizing Thermal Water cấp ẩm, dịu da và cân bằng độ pH (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-eau-thermale-mineralizing-thermal-water-150ml-m5028921-xit-khoang-29313.html
+408,"Kem bôi Bestpere Cream Quang Xanh điều trị ghẻ, rận, mẩn ngứa (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-boi-ghe-bestperme-cream-15-g.html
+409,"Dung dịch Bioderma Sensibio H2O dạng hạt mixen (micelle) dùng tẩy trang dành cho mặt, mắt, da nhạy cảm (500ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/bioderma-tay-trang-500ml-32138.html
+410,"Nhũ tương mượt da toàn thân 1% Urê Ziaja dưỡng ẩm, bảo vệ da, làm dịu tổn thương da (400ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/ziaja-nhu-tuong-muot-da-toan-than-1-ure-baniphar-chai-400-ml.html
+411,"Sáp dưỡng môi mềm mịn Vaseline Lip Therapy Original cung cấp và duy trì độ ẩm cho môi (4,8g)",https://nhathuoclongchau.com.vn/duoc-my-pham/vaseline-stick-duong-moi-mem-min-48g-32437.html
+412,Sáp dưỡng môi Vaseline Lip Therapy bảo vệ môi khỏi những tác động của thời tiết (7g),https://nhathuoclongchau.com.vn/duoc-my-pham/vaseline-lip-duong-moi-ngot-ngao-7g-32440.html
+413,Dung dịch vệ sinh Proeva Intimate Clearser làm dịu và bảo vệ hiệu quả vùng kín (125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-ve-sinh-proeva-intimate-cleanser-125ml-32635.html
+414,Dầu gội Radical Med Anti - Dandruff làm sạch và ngăn ngừa rụng tóc (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-radical-med-anti-dandruff-300-ml.html
+415,Sữa tắm Ceradan Moisturising Wash 280ml dùng cho mọi vùng da kể cả da mặt,https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-ceradan-moisturising-wash-280-ml-1.html
+416,"Sữa rửa mặt làm sạch sâu Cerave Developed With Dermatologists Hydrating Cleanser 473ml dành cho da thường, da khô",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-lam-sach-sau-danh-cho-da-thuong-va-da-kho-cerave-hydrating-cleanser-473-ml-1.html
+417,"Gel tắm gội dịu nhẹ Megaderm CVI Đức Phúc Pharma làm sạch dịu nhẹ, chăm sóc và bảo vệ da (180ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-tam-goi-diu-nhe-megaderm-cvi-pharma-180-ml.html
+418,KEM DƯỠNG ẨM DA CERADAN HYDRA HYPHENS HỘP 80G,https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-da-ceradan-hydra-hyphens-hop-80-g.html
+419,Kem Sensylia 24h Légère IsisPharma giúp giữ ẩm và làm giảm kích ứng da (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-sensylia-24-h-legere-isispharma-hop-40-ml.html
+420,"Kem Canova Sensive P22 Sifarma làm dịu da, dưỡng ẩm cho da nhạy cảm (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/canova-sensiven-p22-soothing-cream-sifarma-50-ml-kem-lam-diu-da-duong-am-cho-da-nhay-cam.html
+421,"Gel Canova Rivescal DS Soothing gel Siflarma làm dịu da, ngăn ngừa tiết bã nhờn, giảm ngứa da (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/canova-rivescal-ds-soothing-gel-siflarma-50-ml-gel-lam-diu-da-ngan-ngua-tiet-ba-nhon.html
+422,Sữa rửa mặt CeraVe SA Smoothing Cleanser dịu nhẹ dành cho da nhạy cảm (236ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-diu-nhe-danh-cho-da-nhay-cam-cerave-sa-smoothing-cleanser-236-ml.html
+423,Sữa tắm dưỡng ẩm cho da khô Ato Wash MTGpharm 150ml Cocorang Palm (tuýp),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-duong-am-cho-da-kho-ato-wash-mtgpharm-150-ml.html
+424,Gel rửa mặt Eucerin Ance Oil Control Pro Acne Solution Cleansing Gel dành cho da mụn (75ml),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-rua-mat-cho-da-mun-eucerin-ance-oil-control-pro-acne-solution-cleansing-75ml-37717.html
+425,"Kem Secalia Balm IsisPharma giúp dưỡng da, tăng cường độ ẩm, chống khô da (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isispharma-secalia-balm-200-ml.html
+426,Dầu gội làm sạch gàu dạng dây Head And Shoulders bạc hà mát lạnh (12 gói x 5.7ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-tri-gau-bac-ha-mat-lanh-dang-day-head-and-shoulders-12-goi-x-5-7-g.html
+427,"Sữa rữa mặt và tắm toàn thân Liquid Face &amp; Body Wash Sebamed giúp làm sạch bụi bẩn, bã nhờn trên da (300ml)",https://nhathuoclongchau.com.vn/thuoc/sebamed-liquid-face-body-wash-ky-phong-chai-300ml-36858.html
+428,"Tinh chất ngăn ngừa thâm nám, đốm nâu Liftactiv Specialist B3 Serum 30ml Vichy",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-ngan-ngua-tham-nam-dom-nau-vichy-liftactiv-b3-serum-dark-spots-and-swrinkles-30-ml.html
+429,"Sữa rửa mặt Collagen Senka Perfect Whip Collagen IN loại bỏ bụi bẩn, bụi mịn và bã nhờn (120g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-senka-perfect-whip-collagen-in-120g-10170231201vn-36656.html
+430,"Sữa rửa mặt tạo bọt Senka Perfect Whip U loại bỏ bụi bẩn, bụi mịn và bã nhờn (120g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-tao-bot-senka-perfect-whip-u-120g-10170227201vn-36657.html
+431,"Kem dịu nhẹ ngừa mẫn đỏ Ziaja Med giúp làm dịu nhẹ kích ứng da, giảm mẫn đỏ da, dưỡng ẩm, làm đều màu da (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/ziaja-med-skin-relief-dermatological-formula-soothing-cream-anti-redness-50-ml-kem-ngua-man-do.html
+432,"Nhũ tương mềm da 3% Urê Ziaja Med Mocznik 3% làm mềm, dưỡng ẩm, giảm khô da (50ml)",https://nhathuoclongchau.com.vn/thuoc/ziaja-med-mocznik-3-nhu-tuong-mem-da-3-ure-bac-ninh-50ml-36329.html
+433,"Sữa tắm Secalia Shower Cream IsisPharma dưỡng da, giảm khô da, giảm ngứa (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-bao-ve-va-duong-da-secalia-shower-cream-isispharma-200-ml-1.html
+434,Dầu dưỡng tóc NNO Hair Serum Aplicapz MEGA We care không gây nhờn dính (3 vỉ x 5 viên),https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-duong-toc-nno-hair-serum-aplicapz-mega-3x5-34824.html
+435,Sữa dưỡng thể dưỡng trắng Nivea Extra White Repair &amp; Protect SPF30 giúp phục hồi và chống nắng (350ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-duong-the-nivea-extra-white-repair-protect-spf30-350ml-34728.html
+436,"Xịt khử mùi Nivea Anti-Perspirant Pearl And Beauty giảm tiết mồ hôi, ngăn mùi đến 48h (150ml) ",https://nhathuoclongchau.com.vn/duoc-my-pham/xit-khu-mui-nivea-anti-perspirant-pearl-beauty-150ml-34717.html
+437,"Xịt ngăn mùi Nivea Men Black &amp; White Invisible Ultimate Impact giảm vết ố vàng, mồ hôi và mùi trong 48h (150ml) ",https://nhathuoclongchau.com.vn/duoc-my-pham/xit-khu-mui-nam-nivea-anti-perspirant-black-white-invisible-ngan-vet-o-vang-150ml-34718.html
+438,Sữa rửa mặt Nivea Men Detox Mud giảm mụn và hư tổn da (100g) ,https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-nam-nivea-acne-damaged-skin-reduction-detox-mud-giam-mun-100g-34730.html
+439,"Sữa rửa mặt Nivea Men Deep Whitening Oil Clear với than đen giúp sạch nhờn, sáng da (100g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-nam-nivea-deep-whitening-oil-clear-than-den-hoat-tinh-100g-34729.html
+440,Sữa chống nắng dưỡng da kiềm dầu Anessa Perfect UV Sunscreen Skincare Milk SPF50+ PA++++ Shiseido (20ml),https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-dang-sua-anessa-perfect-uv-sunscreen-skincare-milk-n-spf50-pa-20ml-10118617201vn-33703.html
+441,"Tinh chất chống nắng vi điểm màng nước Bioré UV Aqua Rich SPF50+ PA++++ dưỡng ẩm cho mặt, cổ, vai (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-dung-cho-mat-co-vai-biore-tinh-chat-mang-nuoc-duong-am-aqua-rich-spf-50-50g-33591.html
+442,"Nước xịt khoáng La Roche-Posay Thermal Spring Water Sensitive Skin làm dịu, bảo vệ da cho da nhạy cảm (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-khoang-lam-sach-va-diu-da-la-roche-posay-211.html
+443,Dầu gội ngăn ngừa và giảm rụng tóc Vichy Dercos Energising (200ml) ,https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-vichy-tang-cuong-duong-toc-giam-gay-rung-621.html
+444,Dầu gội Azasun Gamma giúp sạch gàu cho da đầu hết ngứa (120ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-azasun-gamma-120ml-dau-goi-tri-sach-gau-762.html
+445,"Dầu gội Ducray Kertyol P.S.O Shampoo làm sạch tóc, loại bỏ gàu dạng mảng và vảy nến (125ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-sach-gau-ducray-kertyol-pso-125ml-948.html
+446,"Kem Sensylia 24h IsisPharma giúp da mềm mại, mịn màng và làm giảm kích ứng da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-da-isis-sensylia-24h-983.html
+447,"Sữa rửa mặt Fixderma Non Drying Cleanser làm sạch sâu bụi bẩn, dầu nhờn và vi khuẩn (60g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-non-drying-cleanser-60g21oz-unison-14213.html
+448,"Kem 18+ Active Manuka Honey And Propolis Skin Health Crème dưỡng ẩm, giảm kích ứng da, viêm da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/18-active-manuka-honeypropolis-skin-health-creme-40ml-14214.html
+449,Nước làm sạch sâu và tẩy trang La Roche-Posay Micellar Water Ultra Sensitive Skin dành cho da nhạy cảm (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/larocheposay-micellar-water-ultra-sensitikin-200ml-m0365702-14241.html
+450,"Dầu gội Fixderma Bioteez-S làm sạch gàu, giảm nhờn da đầu, duy trì độ ẩm cho tóc (75ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-bioteez-s-75g-15023.html
+451,"Dầu xả dưỡng tóc Kingphar giúp tóc suôn mượt, ngừa rụng tóc, phục hồi tóc hư tổn (200g)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-xa-duong-toc-kingphar-200g-duong-am-giam-gay-rung-15103.html
+452,Kem Blemish Control Jean D’Arce giúp làm giảm mụn nhanh (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/blemish-control-30ml-kem-lam-giam-mun-15298.html
+453,"Kem Ecze Stop hỗ trợ giảm ngứa, giảm dị ứng, giảm viêm sát khuẩn (35g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-lam-sach-da-ecze-stop-35g-15438.html
+454,"Nước tẩy trang La Roche-Posay Effaclar Micellar Water Ultra Oily Skin dịu nhẹ, không làm khô da (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-laroche-posay-200ml-m9054100-16016.html
+455,"Sữa tắm Cetaphil Pro AD Derma Skin Restoring Wash dành cho da khô, da cơ địa (295ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-body-wash-295ml-16087.html
+456,"Kem dưỡng da La Roche-Posay Lipikar Baume Ap+ dành cho da bị ngứa, mẩn đỏ cho bé (75ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/laroche-posay-lipikar-baume-ap-75ml-m9096800-16394.html
+457,Dung dịch tạo bọt ngăn ngừa mụn Acnes Foaming Wash Rohto sạch khuẩn (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-foaming-wash-150ml-17561.html
+458,Sữa dưỡng ẩm Fixderma Multi Active Moisturizing Lotion cân bằng độ ẩm cho da (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/moisturizing-lotion-150ml-fixderma-18677.html
+459,Kem dưỡng ẩm vô trùng A-Derma Exomega Control Emollient Cream giảm ngứa cho da mặt và toàn thân (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/aderma-exomega-control-emollient-cream-200ml-19066.html
+460,Kem dưỡng da Ducray Keracnyl PP anti-Blemish Soothing Cream giảm các đốm mụn và mờ vết thâm do mụn (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/ducray-keracnyl-pp-anti-blemish-soothing-cream-30ml-kem-lam-mo-vet-tham-19294.html
+461,Kem chống nắng Vichy Idéal Soleil Anti-Age SPF50 bảo vệ da khỏi tác động có hại của ánh nắng mặt trời (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-capital-ideal-soleil-anti-ageing-spf50-50ml-mb055000-kcn-ngan-ngua-lao-hoa-giup-da-dan-hoi-19327.html
+462,Nước làm sạch sâu và tẩy trang La Roche-Posay Micellar Water Ultra Sensitive Skin dành cho da nhạy cảm (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/lrc-posay-micellar-water-ultra-sensitive-skin-400ml-m0000206-nuoc-lam-sach-sau-va-tay-trang-danh-c-19797.html
+463,"Dầu gội Vichy Dercos Anti-Pelliculaire Anti-Dandruff Dry Hair giảm gàu, ngứa da đầu (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-dercos-anti-dandruff-advanced-action-shampoo-200ml-m0363602-dau-goi-giup-giam-gau-danh-cho-d-19846.html
+464,Tinh chất Neotone Serum IsisPharma điều trị nám cho da nhạy cảm (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/isis-neotone-serum-30ml-21218.html
+465,Kem dưỡng ẩm Gammaphil Moisturizing Cream dành cho mọi loại da (50g),https://nhathuoclongchau.com.vn/duoc-my-pham/gammaphil-moisturizing-cream-gamma-50g-kem-giu-am-28896.html
+466,Gel rửa da sinh lý Ziaja Lipid Dermatological Formula làm sạch làn da hiệu quả (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/ziaja-med-lipid-dermatological-formula-physioderm-cleansing-face-gel-200ml-gel-rua-da-sinh-ly-29196.html
+467,"Cao Starbalm Sports Balm White làm ấm cơ, giúp cơ thư giãn sau khi vận động (25g)",https://nhathuoclongchau.com.vn/duoc-my-pham/cao-starbalm-trang-25g-29222.html
+468,"Gel Fixderma FCL Alpha-Beta Acne dành chăm sóc da mụn, hạn chế mụn trứng cá, mụn đầu đen (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-fcl-alpha-beta-acne-gel-30ml-gel-cham-soc-da-mat-danh-cho-da-mun-trung-ca-va-mun-dau-den-30195.html
+469,"Gel chống nắng Fixderma Shadow SPF30+ PA+++ dành cho da nhờn, hỗn hợp, da ra nhiều mồ hôi (75g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-shadow-spf-30-75g-kem-chong-nang-dung-duoc-cho-tre-duoi-6-tuoi-30238.html
+470,Sữa rửa mặt làm giảm mụn Fixderma FCL Alpha-Beta Acne Cleanser (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-fcl-alpha-beta-acne-cleanser-200ml-sua-rua-mat-ngan-ngua-va-giam-mun-trung-ca-mun-dau-de-31264.html
+471,"Chai xịt Bestpeme Spray Quang Xanh điều trị ký sinh trùng, ghẻ (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/bestpeme-spray-150ml-31970.html
+472,"Kem Ceratop Body Care Cream 125ml Dr.EA dưỡng da, giữ ẩm, bảo vệ da",https://nhathuoclongchau.com.vn/duoc-my-pham/dr-ea-ceratop-body-care-cream-tim-kozmetik-125-ml.html
+473,"Sữa rửa mặt La Roche-Posay Mela B3 Gel Micro-Peeling Clarifying 200ml mờ thâm nám, dưỡng da sáng và đều màu",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-lam-sach-va-sang-da-la-roche-posay-mela-b3-gel-micro-peeling-clarifying-200-ml-1.html
+474,"Kem dưỡng La Roche-Posay Mela B3 Cream SPF 30 dưỡng da mềm mịn, mờ thâm nám, dưỡng da sáng và đều màu ",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-giam-va-ngan-ngua-tham-nam-la-roche-posay-mela-b3-spf-30-anti-dark-spots-corrective-protective-care-anti-recurrence-40-ml-1.html
+475,"Tinh chất La Roche-Posay Mela B3 Serum dưỡng da mềm mịn, mờ thâm nám, da sáng và đều màu",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-giam-tham-nam-lam-sang-va-duong-da-la-roche-posay-mela-b3-serum-intensive-anti-dark-spots-concentrate-anti-recurrence-30-ml-1.html
+476,Sữa rửa mặt Cetaphil Oily Skin Cleanser 125ml Cetaphil dành cho da dầu nhạy cảm,https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-cho-da-dau-nhay-cam-cetaphil-oily-skin-cleanser-125-ml-1.html
+477,"Dầu gội Dược liệu Nguyên Xuân Vàng Hoa Linh 275ml giảm gãy rụng, tóc khô và xơ ",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-nguyen-xuan-vang-hoa-linh-275-ml-giam-gay-rung-da-dau-nhieu-dau-1.html
+478,"Dầu gội Dược liệu Nguyên Xuân xanh lá 275ml dưỡng tóc và da đầu, giảm gãy rụng ",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-nguyen-xuan-xanh-la-275-ml-duong-toc-phuc-hoi-hu-ton.html
+479,"Serum Auvilys C Vitamin C 30ml Auvi Nature dùng ban ngày, dưỡng da, tăng cường độ ẩm, sáng da",https://nhathuoclongchau.com.vn/duoc-my-pham/auvilys-c-vitamin-c-day-serum-auvi-nature-30-ml.html
+480,"Gel Clear Face Anti-Pimple Sebamed pH 5.5 giúp làm giảm mụn,ngăn ngừa mụn, dưỡng ẩm (10ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sebamed-clear-face-anti-pimple-gel-ky-phong-10-ml.html
+481,"Kem ngừa mụn ban ngày Canova Acnell 50+ giúp chăm sóc và dưỡng ẩm cho da bị mụn, da kích ứng và da nhạy cảm (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/canova-acnell-50-replenishing-cream-50-ml-kem-ngua-mun-ban-ngay.html
+482,"Sữa dưỡng ẩm toàn thân cho bé Baby Sebamed Body Lotion ph 5.5 giúp da không bị khô ráp, dưỡng ẩm toàn thân (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/baby-sebamed-body-lotion-ph-5-5-ky-phong-200-ml.html
+483,Sữa tắm gội dịu nhẹ toàn thân Baby Sebamed Gentle Wash pH5.5 giúp làm sạch bụi bẩn bám trên da bé (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/baby-sebamed-gentle-wash-ph-5-5-ky-phong-200-ml.html
+484,"Dầu gội Canova Rivescal DS Soothing Shampoo Biomedico làm dịu da, ngăn ngừa tiết bã nhờn (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/canova-rivescal-ds-soothing-shampoo-sifarma-200-ml-dau-goi-lam-diu-da-ngua-tiet-ba-nhon-cho-da-kich-ung-da-gau.html
+485,"Gel Neotone IsisPharma làm sạch da êm dịu, giúp da trắng sáng (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/neotone-gel-isispharma-40-ml.html
+486,"Dung dịch vệ sinh phụ nữ Intimate Wash Foam Sebamed giúp làm sạch dịu nhẹ đa vùng kín, giúp ngăn mùi hôi (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/intimate-wash-foam-sebamed-ph-3-8-ky-phong-150-ml.html
+487,Kem mờ nám Canova 8+2 Sifarma điều trị tăng sắc tố da (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-mo-nam-canova-8-2-lightening-cream-50-ml.html
+488,"Serum dưỡng tóc K3 Beauty R.Hair giảm gãy rụng, kích thích mọc tóc (Chai 20ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-duong-toc-r-hair-serum-k3-beauty-20-ml.html
+489,"Sữa rửa mặt Hanko Foam Cleanser làm sạch da, cung cấp dưỡng chất và giữ ẩm cho da (150ml)",https://nhathuoclongchau.com.vn/thuoc/srm-hanko-foam-cleanser-150ml-thuy-moc-37005.html
+490,"Dầu gội Hanko Shampoo giúp loại bỏ gàu, nấm, ngứa (100ml)",https://nhathuoclongchau.com.vn/thuoc/hanko-shampoo-thuy-moc-lo-100ml-36690.html
+491,Kem dưỡng ẩm Xerolys 10 Thiên Nam dưỡng ẩm và cung cấp dưỡng chất cho da khô và da nhạy cảm (200 ml),https://nhathuoclongchau.com.vn/duoc-my-pham/xerolys-10-thien-nam-chai-200-ml.html
+492,"Gel rửa mặt K3 Aosacleanser Purifying giúp giảm nhờn, mụn, làm sạch da một cách dịu nhẹ (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-rua-mat-giam-nhon-k3-aosacleanser-purifying-gel-oily-skin-200-ml.html
+493,Tinh chất Auvihyal Hyaluronic Acid Solution giúp tăng cường độ ẩm và chống nhăn da (20ml),https://nhathuoclongchau.com.vn/duoc-my-pham/auvihyal-hyaluronic-acid-solution-auvi-20-ml.html
+494,Nước hoa hồng không cồn Neutrogena Alcohol-Free Toner Johnson And Johnson làm sạch da (150ml) ,https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-hoa-hong-khong-con-neutrogena-alcohol-free-toner-150ml-35678.html
+495,Gel trị sẹo Dermatix Ultra Scar Care For Kids Menarini phù hợp cho trẻ từ 3 tháng tuổi trở lên (5g),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-tri-seo-danh-cho-tre-em-dermatix-ultra-scar-care-for-kids-5g-35124.html
+496,"Dung dịch vệ sinh phụ nữ Intimate Wash pH3.8 Sebamed giúp làm sạch vùng kín, cân bằng độ pH, giảm mùi hôi (200ml)",https://nhathuoclongchau.com.vn/thuoc/dung-dich-ve-sinh-phu-nu-sebamed-ph38-ky-phong-200ml-34934.html
+497,Sữa tắm Baby Sebamed Bubble Bath pH5.5 giúp làm sạch bụi bẩn bám trên da bé (200ml),https://nhathuoclongchau.com.vn/thuoc/baby-sebamed-bubble-bath-ph55-200ml-34705.html
+498,Kem mờ sẹo C-Section Scars &amp; Stretch Marks Dr. Celine (15g),https://nhathuoclongchau.com.vn/duoc-my-pham/dr-celin-kem-mo-seo-mtv-healthcare-science-viet-nam-15-g.html
+499,"Tinh chất Eucerin Acne-Oil Control Pro Acne Solution Anti-Acne Mark giảm thâm mụn, dưỡng sáng da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-acne-oil-control-pro-acne-solution-anti-acne-mark-40ml-66862-tinh-chat-giup-giam-tham-mun-34190.html
+500,Sữa tắm gội trẻ em tinh chất hoa cúc Cetaphil Baby Wash And Shampoo With Organic Calendula (230ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-sua-tam-goi-tre-em-tinh-chat-hoa-cuc-baby-wash-and-shampoo-with-organic-calendula-230ml-33922.html
+501,"Sữa dưỡng thể Cetaphil Pro Ad Derma Skin Restoring Moisturizer dành cho da khô, da cơ địa (295ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-sua-duong-the-dac-tri-pro-ad-derma-skin-restoring-moisturizer-cho-da-kho-va-cham-da-295ml-33918.html
+502,Xịt chống nắng dưỡng da đa năng Anessa Perfect UV Sunscreen SkinCare Spray N SPF50+ PA++++ (60g),https://nhathuoclongchau.com.vn/duoc-my-pham/chong-nang-dang-xit-anessa-perfect-uv-sunscreen-skincare-spray-n-spf50-pa-60g-10118524201vn-33685.html
+503,"Kem dưỡng da mặt Eucerin AtoControl Face Cream giảm khô, ngứa và mẩn đỏ (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-da-mat-eucerin-ato-control-195.html
+504,"Kem dưỡng da mặt Eucerin AtoControl Acute Care Cream giảm khô, ngứa và mẩn đỏ (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-da-eucerin-ato-control-acute-care-cream-205.html
+505,Dầu gội cho da đầu nhạy cảm Eucerin Dermo Capillaire pH5 Mild Shampoo ngăn ngừa khô da đầu (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-eucerin-dermocapillaire-ph5-mild-207.html
+506,"Kem dưỡng môi La Roche-Posay Cicaplast Levres giảm tình trạng môi khô, nứt nẻ và kích ứng (7.5ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-moi-la-roche-posay-cicaplast-levres-563.html
+507,Gel tắm La Roche-Posay Lipikar Gel Lavant giúp da được làm dịu và làm sạch mọi độc tố (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-tam-la-roche-posay-lipikar-cho-da-nhay-cam-579.html
+508,"Sữa tắm không cần dùng nước NoRinse Body Bath thay thế cách tắm thông thường (236,6ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-khong-dung-nuoc-no-rinse-2366ml-601.html
+509,Kem ngăn ngừa lão hóa ban đêm Eucerin Hyaluron-Filler Night Cream (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-ngua-lao-hoa-da-ban-dem-eucerin-hyaluron-filler-632.html
+510,"Nước cân bằng Eucerin DermatoClean Clarifying Toner giữ ẩm, dịu nhẹ cho da (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-hoa-hong-lam-sach-da-eucerin-dermato-clean-884.html
+511,"Kem Fixderma Strallium Stretch Mark Cream cải thiện tính đàn hồi, làm mềm da, loại bỏ vết rạn da (75g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-lam-mo-vet-ran-da-fixderma-958.html
+512,Sữa chống rạn da Happy Event Anti-Stretch Mark Lotion giúp dưỡng ẩm tự nhiên (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-chong-ran-da-happy-event-961.html
+513,Kem chống nắng mặt Eucerin Sun Fluid Mattifying SPF50+ không nhờn rít dành cho mọi loại da (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-sun-fluid-mattifing-spf50+-50ml-63840-3816.html
+514,"Kem Ceradan Ceramide Diaper Cream hỗ trợ làm dịu da, chống hăm tã cho bé (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/ceradan-diaper-cream-10g-14565.html
+515,Dưỡng chất tăng cường khoáng Mineral 89 giúp da khỏe dành cho mọi loại da (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-duong-chat-tang-cuong-khoang-mineral-89-50ml-m9154700-15316.html
+516,Sữa tắm gội Eucerin Baby Wash &amp; Shampoo làm sạch dịu nhẹ mái tóc và làn da của bé (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-goi-diu-nhe-cho-be-eucerin-baby-wash-shampoo-400ml-69728-15595.html
+517,"Kem dưỡng da Eau Thermale Avène Xeracalm A.D làm dịu cảm giác ngứa, giảm rát da (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/avene-xeracalm-ad-200ml-16233.html
+518,"Kem làm sáng da Skarfix-Plus Cream Fixderma mờ vết thâm, đốm đen (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-skarfix-plus-15g-kem-giam-vet-tham-nam-tan-nhang-16379.html
+519,Kem dưỡng Eucerin Hyaluron-Filler Eye SPF15 ngăn ngừa lão hóa vùng mắt (15ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-hyluron-filler-eye-15ml-63536-16661.html
+520,"Dầu gội Ducray Kelual DS Shampoo làm sạch gàu, dịu da đầu và bớt ngứa (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/ducray-kelual-ds-100ml-16707.html
+521,"Lăn chăm sóc thâm quầng mất Emco UltraCream giảm vết nhăn nơi đuôi mắt, dưỡng da vùng mắt (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/emco-tham-quang-mat-12g-17321.html
+522,Kem chống nắng Cetaphil Daily Facial Moisturizer SPF15/PA++ dành cho mọi loại da (118ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-daily-facial-moisturizer-spf15-17450.html
+523,"Dung dịch Acnes C10 Rohto mờ sẹo, thâm, hỗ trợ giảm nám, tàn nhang (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-c10-15ml-rm-lo-17565.html
+524,Gel Eucerin Pro Acne A.I Clearing Treatment giảm mụn và nhờn (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-ai-clearing-treatment-40ml-87925-18619.html
+525,Kem che khuyết điểm Eucerin ProAcne Correct Cover Stick giảm mụn thâm (2g),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-correct-cover-stick-25g-88965-18631.html
+526,Nước tẩy trang Eucerin Pro Acne Acne And Make Up Cleansing Water giảm nhờn trên da (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-acne-oil-control-pro-acne-solution-200ml-87926-18722.html
+527,Sữa tắm Eucerin pH5 WashLotion Preserves Skin Resilience dành cho da nhạy cảm (1000ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-ph5-for-body-face-wash-lotion-1000ml-63075-18838.html
+528,"Nước hoa hồng Eucerin Acne-Oil Control ProAcne Solution Toner dành cho da mụn, da dầu (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-pro-acne-toner-200ml-88983-nuoc-can-bang-19240.html
+529,Gel tẩy tế bào chết Eucerin Acne-Oil Control Pro Acne Solution Scrub dành cho da mụn (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-dermo-purifyer-100ml-88984-grm-co-hat-19249.html
+530,Nước tẩy trang Eucerin DermatoClean Micellar 3 IN 1 dành cho mọi loại da (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-dermato-clean-micellar-cleansing-fluid-3in1-200ml-63997-nuoc-tay-trang-19257.html
+531,"Kem dưỡng Fixderma Epifager Regale giảm sắc tố melanin, mờ vết thâm, đốm đen, vết nám, tàn nhang (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-epifager-regale-30g-kem-duong-lam-giam-sac-to-melanin-lam-mo-vet-tham-tan-nhang-19313.html
+532,Kem Ellgy Plus Cracked Heel Cream HOE làm ẩm da gót chân (25g),https://nhathuoclongchau.com.vn/duoc-my-pham/ellgy-plus-cracked-heel-cream-hoe-25g-kem-lam-am-da-got-chan-19610.html
+533,Gel tắm gội 3 trong 1 cho trẻ từ 1 ngày tuổi Perfecta Baby Rohto dưỡng ẩm da (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/perfecta-baby-150ml-gel-tam-goi-3-trong-1-cho-tre-20736.html
+534,"Sữa rửa mặt Sebamed Clear Face Antibacterial Cleansing Foam kháng khuẩn, ngăn ngừa mụn (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sebamed-clear-face-antibacterial-cleansing-foam-50ml-srm-tao-bot-khang-khuan-giam-mun-21911.html
+535,Sữa rửa mặt dịu nhẹ Eucerin Ultra White+ Spotless Gentle Cleansing Foam dành cho mọi loại da (150g),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-ultrawhite-spotless-cleansing-foam-150g-63470-srm-tao-bot-23008.html
+536,Mặt nạ Dermal tinh chất Collagen dưa leo dưỡng ẩm da (23g),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-dermal-tinh-chat-collagen-dua-leo-23g-28671.html
+537,Mặt nạ Dermal Green Tea Collagen Essence Mask dưỡng da dành cho mọi loại da (23g),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-dermal-tinh-chat-collagen-tra-xanh-23g-28672.html
+538,"Dầu gội Sebamed Anti-Dandruff Shampoo sạch gàu, giảm rụng tóc, nấm da đầu (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-sebamed-anti-dandruff-shampoo-200ml-28700.html
+539,"Sữa rửa mặt Clear Face Antibacterial Cleansing Foam Sebamed giúp làm sạch bụi bẩn, bã nhờn và tế bào da chết (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sebamed-clear-face-antibacterial-cleansing-foam-150ml-srm-tao-bot-khang-khuan-giam-mun-28960.html
+540,"Cao Starbalm Sports Balm trắng làm ấm cơ, giúp cơ thư giãn sau khi vận động dành cho da nhạy cảm (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/cao-starbalm-trang-10g-29223.html
+541,"Cao đỏ Starbalm làm ấm cơ, giúp cơ thư giãn sau khi vận động (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/cao-starbalm-do-10g-29230.html
+542,Dầu dừa hoa bưởi Sense Rootie Sense Plus dưỡng tóc khỏe mượt (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-dua-sense-plus-rootie-hair-oil-treatment-hoa-buoi-duong-toc-50ml-29298.html
+543,Dầu dừa nghệ trắng da Sense Turmeric Sense Plus dưỡng ẩm cho da mặt và mắt vào buổi tối (10ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-dua-sense-plus-turmeric-nghe-trang-da-10-ml-29299.html
+544,Sữa rửa mặt dạng gel giúp làm sạch sâu và giảm bã nhờn trên da Vichy Normaderm Phytosolution Intensive Purifying Gel (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-normaderm-phytosolution-intensive-purifying-gel-200ml-mb158501-sua-rua-mat-dang-gel-giup-lam-29309.html
+545,Sữa tắm Corine De Farme Gel Douche Shower Gel dùng cho toàn thân và vùng sinh dục ngoài (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/corine-de-farme-shower-gel-2-in-1-sua-tam-lam-sach-mem-min-da-toan-than-va-vung-sinh-duc-ngoai-25-29805.html
+546,"Xà phòng Fixderma Moisturizing Bar làm sạch da, dưỡng da và giữ ẩm làm da mềm mịn (100g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-moisturizing-bar-100g-banh-xa-phong-duong-da-danh-cho-da-kho-da-nhay-cam-30189.html
+547,Sữa rửa mặt cho da nhạy cảm Eucerin PH5 Facial Cleanser Sensitive Skin (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-ph5-facial-cleanser-sensitive-skin-sua-rua-mat-cho-da-nhay-cam-400ml-30476.html
+548,"Tinh dầu tràm trà Rebirth Life Platinum Tea Tree Oil dưỡng da, giảm mụn (10ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/rebirth-life-platinum-tea-tree-oil-tinh-dau-tram-tra-tri-mun-10ml-30481.html
+549,Kem ngừa mụn ban đêm Canova Acnell Sifarma giúp ngăn ngừa hình thành mụn trứng cá và mụn đầu đen (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/canova-acnell-sifarma-50ml-kem-ngua-mun-ban-dem-31640.html
+550,Kem dưỡng giảm đốm nâu Eucerin Even Skin Spotless Brightening Spot Corrector (5ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-even-skin-spotless-brightening-spot-corrector-5ml-83507-kem-duong-giup-giam-dom-nau-32787.html
+551,Sữa rửa mặt dịu nhẹ sáng da Eucerin Spotless Brightening Gentle Cleansing Foam dành cho mọi loại da (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-even-skin-spotless-brightening-gentle-cleansing-foam-150ml-63470-sua-rua-mat-tao-bot-32788.html
+552,Sữa dưỡng thể trắng da Eucerin Even Skin Spotless Brightening Body Lotion SPF7 (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-even-skin-spotless-brightening-body-lotion-spf-7-250ml-63044-sua-duong-the-trang-da-32796.html
+553,"Kem dưỡng sáng da ban đêm Eucerin Even Skin Spotless Brightening Night giảm vết thâm nám, đốm nâu (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-even-skin-spotless-brightening-night-50ml-83506-kem-duong-sang-da-ban-dem-32799.html
+554,"Serum tế bào gốc Rebirth Cellular B Plavenom Nhau thai cừu và Nọc Ong dưỡng ẩm da, se khít lỗ chân lông (10ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/rebirth-cellular-b-plavenom-placenta-bee-venom-serum-te-bao-goc-nhau-thai-cuu-va-noc-ong-10ml-s-30480.html
+555,Dung dịch tắm gội khô Alfasept Cleansing Foam phù hợp với da nhạy cảm (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-tam-goi-kho-alfasept-150ml-37448.html
+556,Dầu gội Biorga Cystiphane Reducing Hair Loss Shampoo ngăn ngừa rụng tóc (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/biorga-cystiphane-reducing-hair-loss-shampoo-200ml-36085.html
+557,"Sữa dưỡng dạng nhũ tương Vichy Ideal White Meta Whitening Emulsion làm đều màu da, giảm thâm nám sau 8 tuần (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-trang-da-tu-sau-ben-trong-vichy-225.html
+558,Kem chống nắng La Roche-Posay Anthelios SPF50+ bảo vệ da bé khỏi các tia UVA/UVB (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-cho-tre-em-la-roche-posay-spf-50-547.html
+559,"Kem dưỡng La Roche-Posay Effaclar K(+) hỗ trợ làm giảm bóng nhờn, hạn chế mụn đầu đen (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-giam-mun-dau-den-la-roche-posay-effaclar-k-548.html
+560,"Nước xịt khoáng La Roche-Posay Serozinc hỗ trợ chống oxy hóa, giảm sưng viêm (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-xit-khoang-la-roche-posay-150ml-553.html
+561,Sữa rửa mặt La Roche-Posay Toleriane Foaming Cream hỗ trợ làm sạch da nhẹ nhàng và dưỡng ẩm (125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-la-roche-posay-toleriane-purifying-125ml-560.html
+562,"Sữa dưỡng La Roche-Posay Toleriane Fluide Non-Oily Emulsion làm dịu, giảm nóng rát do da quá nhạy cảm (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-duong-da-la-roche-posay-toleriane-fluid-566.html
+563,Sữa rửa mặt La Roche-Posay Toleriane Foaming Cream hỗ trợ làm sạch da nhẹ nhàng và dưỡng ẩm (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-la-roche-posay-toleriane-purifying-50ml-582.html
+564,Kem chống nắng La Roche-Posay Anthelios XL Lotion SPF50+ ngăn ngừa tia UVB và UVA gây tác hại lên da (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-la-roche-posay-body-dang-sua-spf50-586.html
+565,Sữa rửa mặt La Roche-Posay Effaclar Foaming Cream hỗ trợ làm sạch sâu và nhẹ nhàng thanh tẩy làn da (125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-la-roche-posay-se-khit-lo-chan-long-587.html
+566,Dầu gội không dùng nước NoRinse Shampoo làm sạch tóc nhẹ nhàng (473.1ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-khong-dung-nuoc-no-rinse-4731ml-598.html
+567,Lotion Papulex ngăn ngừa mụn trứng cá lưng và ngực (125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/papulex-lotion-616.html
+568,"Dầu gội không dùng nước NoRinse Shampoo làm sạch tóc nhẹ nhàng (59,1ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-khong-dung-nuoc-no-rinse-591ml-622.html
+569,Gel khoáng dưỡng ẩm cho da nhạy cảm Vichy Aqualia Thermal Mineral Water Gel tới 48 giờ (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-aqualia-mineral-water-gel-50ml-m9119400-mb066000-gel-duong-am-giup-da-diu-mat-634.html
+570,Dưỡng chất dưỡng trắng da và giảm thâm nám Vichy Ideal White Meta Whitening Essence (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-duong-trang-sau-7-tac-dung-vichy-637.html
+571,Tinh chất dưỡng da trắng hồng căng mọng Vichy Idéalia Lumière Illuminating Moisture Essence (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-duong-da-trang-hong-cang-mong-vichy-640.html
+572,Tinh chất ngăn rụng tóc CG 210 Women Abbott dành cho nữ ,https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-ngan-rung-toc-nu-cg-210-665.html
+573,"Nước cân bằng làm săn da, loại bỏ độc tố Vichy Aqualia Thermal Hydrating Refreshing Water (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-can-bang-lam-san-da-loai-bo-doc-to-vichy-200ml-668.html
+574,Tinh chất ngăn rụng tóc CG 210 Women Abbott dành cho nam,https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-ngan-rung-toc-nam-cg-210-669.html
+575,Kem dưỡng trắng da ban đêm - mặt nạ ngủ Vichy Ideal White Sleeping Mask (75ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-trang-da-ban-dem-vichy-mat-na-ngu-670.html
+576,"Gel tẩy tế bào chết Vichy Pureté Thermale Skin Renewing Creamy Scrub loại bỏ bụi bẩn, mụn cám, lớp sừng già (75ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-cat-tay-te-bao-chet-vichy-691.html
+577,"Kem thảo dược ngừa mụn Azacné Spaphar dưỡng ẩm, giảm thâm, nám (25g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-thao-duoc-ngua-mun-azacne-701.html
+578,"Kem dược liệu Explaq Spaphar tẩy sạch vảy, làm thơm, dưỡng da và duy trì độ ẩm cho da (35g)",https://nhathuoclongchau.com.vn/duoc-my-pham/explaq-702.html
+579,"Sữa rửa mặt nghệ Thái Dương loại bỏ lớp trang điểm, chất nhờn, bụi bẩn trên da (90g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-nghe-thai-duong-90g-742.html
+580,Dầu gội trị gàu Otuna 2.5% giảm viêm da tiết bã nhờn ở da đầu (120ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-tri-gau-otuna-783.html
+581,"Dầu xả Thái Dương 3 hương lá suôn mềm, óng ả, tự nhiên (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-xa-duong-toc-thai-duong-3-789.html
+582,Gel tắm A-Derma Primalba Gentle Cleansing Gel sạch tóc và toàn thân dành cho bé (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-lam-sach-toc-toan-than-cho-em-be-a-derma-936.html
+583,"Nước xịt khoáng Avène Thermal Spring Water làm dịu, giảm kích ứng da (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/xit-khoang-avene-thermal-spring-water-150ml-940.html
+584,Gel rửa mặt không xà phòng cho da nhờn mụn Eau Thermale Avène (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-rua-mat-danh-cho-da-nhon-avene-cleanance-200ml-943.html
+585,"Kem A-Derma Skin Care Cream dưỡng ẩm và làm dịu da, giảm kích ứng da (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-danh-cho-da-de-kich-ung-a-derma-945.html
+586,Kem dưỡng da Ducray Melascreen Eclat Light Cream SPF15 giảm tăng sắc tố da và đốm nâu trên da (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-sang-da-ducray-melascreen-eclat-light-949.html
+587,Kem chống nắng Ducray Melascreen UV Light Cream SPF50+ giảm đốm nâu và lão hóa da (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-ducray-melascreen-spf50-950.html
+588,"Dầu gội Ducray Argeal Shampoo dạng kem giúp tóc hết nhờn, hết bết dính và xẹp tóc (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/ducray-argeal-shampoo-200ml-dau-goi-dang-kem-cho-da-dau-nhon-953.html
+589,Kem ISIS Pharma Bodytone Reveal giúp dưỡng trắng da toàn thân (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-trang-da-toan-than-isis-bodytone-reveal-966.html
+590,"Dầu gội Isis Pharma Ilcapil Kr Shampoo hỗ trợ giảm gàu, giảm nhờn, rụng tóc (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-ilcapil-kr-shampoo-150ml-dau-goi-tri-gau-969.html
+591,Tinh chất Uriage Eau Themale Dépiderm làm mờ và giảm kích thước của các đốm nâu trên da (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-ngan-ngua-va-giam-cac-dom-nau-uriage-spf15-973.html
+592,"Kem ISIS Pharma Unitone 4 Reveal sáng da, giảm nám, giảm vết thâm sau viêm (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-tri-nam-isis-pharma-unitone-4-reveal-30ml-989.html
+593,"Tinh chất SVR Liftiane Serum chống oxy hóa, làm mờ nếp nhăn và tái tạo độ săn chắc cho da (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/svr-liftiane-serum-30ml-14274.html
+594,Gel rửa mặt SVR Physiopure Gelee Moussante cho da nhạy cảm (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/svr-physiopure-gelee-moussante-200ml-14275.html
+595,Sữa tắm T3 Acne Body Wash ngăn ngừa mụn (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/t3-acne-body-wash-200ml-14294.html
+596,Sữa rửa mặt Eucerin Sensitive Skin White Therapy Clinical Gentle Cleansing Foam nhẹ nhàng làm sạch da (15g),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-sensitive-skin-white-therapy-clinical-15g-63473-tang-14351.html
+597,"Dầu tắm dưỡng ẩm Eucerin pH5 Shower Oil dành cho da khô, ngứa da, da dị ứng (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-ph5-skin-protection-shower-oil-200ml-63121-14507.html
+598,"Son dưỡng Lipice Lipbalm hương dâu hỗ trợ dưỡng ẩm, bảo vệ môi (4.3g)",https://nhathuoclongchau.com.vn/duoc-my-pham/lipice-lipbalm-strawberry-15066.html
+599,"Son dưỡng Lipice Lipbalm hương chanh hỗ trợ dưỡng ẩm, bảo vệ môi (4.3g)",https://nhathuoclongchau.com.vn/duoc-my-pham/lipice-lipbalm-lemon-15068.html
+600,"Son dưỡng LipIce Sheer Color Q Candy Rohto hỗ trợ dưỡng ẩm, bảo vệ môi (4.3g)",https://nhathuoclongchau.com.vn/duoc-my-pham/lipice-sheer-color-candy-15072.html
+601,"Gel rửa mặt Acnes 25+ Facial Wash sạch da, kháng khuẩn, ngăn ngừa mụn (100g)",https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-facial-wash-25-100g-adult-acne-15165.html
+602,Kem chống nắng La Roche-Posay Anthelios Xl Tinted Dry Touch SPF50+ bảo vệ khỏi các tia UVA/UVB (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kcn-laroche-posay-anthelios-xl-50ml-m9157900-15241.html
+603,"Kem Isis Pharma Urelia 10 dưỡng ẩm, giảm khô da, làm mềm da (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-pharma-urelia-10-150ml-15610.html
+604,Sữa tắm dưỡng ẩm cho trẻ em Cetaphil Baby Moisturising Bath And Wash (230ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-baby-moisturising-wash-shampoo-body-230ml-15631.html
+605,Sữa rửa mặt tẩy trang La Roche-Posay Toleriane Dermo-Cleanser làm sạch nhẹ nhàng bụi bẩn (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/la-roche-posay-sua-rua-mat-danh-cho-da-qua-nhay-cam-200ml-m8669000-15668.html
+606,"Kem chăm sóc da ban ngày ngăn ngừa nám, tàn nhang Uriage Depiderm SPF50 (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/uriage-depiderm-spf50-soin-de-jour-anti-taches-30ml-15690.html
+607,Nước xịt khoáng Eucerin Aquaporin Active Mist Spray dưỡng ẩm cho da nhạy cảm (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-aqua-porin-active-150ml-87968-15706.html
+608,"Gel La Roche-Posay Ultrafine Scrub Sensitive Skin hỗ trợ loại bỏ bã nhờn, tế bào chết (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/larocheposay-gel-lam-sach-te-bao-chet-50ml49g-m0365102-15726.html
+609,Xịt chống nắng La Roche-Posay Anthelios Invisible Fresh Mist SPF50 hỗ trợ kiểm soát bã nhờn và mồ hôi (75ml),https://nhathuoclongchau.com.vn/duoc-my-pham/larocheposay-xit-chong-nang-75ml-m9165700-15727.html
+610,Gel tắm La Roche-Posay Lipikar Gel Lavant giúp da được làm dịu và làm sạch mọi độc tố (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/larocheposay-gel-tam-lam-sach-va-bao-ve-cho-da-nhay-cam-400ml-m9546500-15728.html
+611,"Lotion asséchante, réparatrice Eau Thermale Avène Cicalfate làm dịu các kích ứng, vết thương trên da (40ml) ",https://nhathuoclongchau.com.vn/duoc-my-pham/avene-lotion-cicalfate-40ml-15745.html
+612,Mặt nạ dưỡng da Vichy Double Glow Peel Mask giúp làm sáng da (75ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-mat-na-duong-da-75ml-m9104000-15763.html
+613,Mặt nạ khoáng Vichy Quenching Mineral Mask giúp làm dịu da (75ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-mat-na-khoang-75ml-m9104500-15765.html
+614,"Gel nghệ Nano Cumargold CVI Pharma chống lão hóa, mờ thâm, sẹo do mụn, dưỡng da (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/cumar-gold-gel-100ml-15843.html
+615,"Sữa tắm A-Derma Dermalibour+ sạch da, cải thiện da hư tổn (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/aderma-dermalibour-250ml-15901.html
+616,Kem chống nắng Papulex UV High Protection Cream SPF45+ kiểm soát nhờn (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/papulex-cream-chong-nang-spf-45-50ml-15909.html
+617,Kem dưỡng trắng da hồng căng mọng ban ngày Vichy Idéalia Lumière ILLuminating Relumping Day Cream (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-kem-duong-da-trang-hong-cang-mong-ban-ngay-50ml-m9157700-16017.html
+618,Sữa dưỡng thể Cetaphil Restoraderm Body Moisturizer phục hồi yếu tố dưỡng ẩm tự nhiên của da (295ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-body-moisturier-295ml-16086.html
+619,"Kem Isis Pharma Unitone 4 Reveal Serum điều trị sạm da, mờ vết thâm (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isispharma-unitone-4-reveal-serum-15ml-16091.html
+620,Kem chống nắng trang điểm tông màu sán La Roche-Posay UVIDEA XL BB01 Cream SPF50+ PA++++ (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/larocheposay-uvidea-xl-bb01-m9062400-16147.html
+621,Sữa rửa mặt và tắm La Roche-Posay Innovation Lipikar Syndet AP+ làm sạch nhẹ nhàng da nhạy cảm (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/srmlipikar-syndetap-200ml-m9147100-16148.html
+622,"Kem dưỡng da Enat Natural Vitamin E Cream giữ ẩm, mờ vết nhăn, sẹo thâm trên da (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/enat-cream-30g-mega-16210.html
+623,"Dầu xả Thái Dương 7 suôn mềm, óng ả, tự nhiên (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-xa-thai-duong-7-200ml-danh-cho-toc-xo-gay-rung-che-ngon-16377.html
+624,"Kem Isis Pharma TeenDerm Hydra giúp dưỡng ẩm, giảm nhờn (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-pharma-teen-derm-hydra-40ml-16440.html
+625,Kem dưỡng Papulex Oil Free Cream giảm mụn trứng cá (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/papulex-oil-free-cream-16482.html
+626,"Tinh chất serum Kiều Xuân dưỡng da trắng sáng, mờ vết nám, chống lão hóa (30ml) ",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-kieu-xuan-16532.html
+627,Miếng dán mụn Derma Angel Acne Patch Miacare dùng cho ngày và đêm (12 gói),https://nhathuoclongchau.com.vn/duoc-my-pham/dan-mun-miacare-ngay-va-dem-16551.html
+628,"Kem bôi da EuroDan Cream giảm nhăn da, giữ ấm da, hạn chế khô nứt da (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/eurodan-16610.html
+629,"Kem Isis Pharma Secalia A.H.A giúp làm mềm, dưỡng ẩm và giảm khô da (10ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-pharma-secalia-aha-10ml-16650.html
+630,"Sữa rửa mặt Vichy Pureté Thermale Hydrating And Cleansing Foaming Cream sạch bụi bẩn, bã nhờn trên da (125ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-srm-lam-sach-da-thuong-hon-hop-125ml-m0369900-16758.html
+631,"Gel Scarz Solution Rohto giúp làm phẳng, mờ sẹo và đều màu da (12g)",https://nhathuoclongchau.com.vn/duoc-my-pham/scar-z-12g-16899.html
+632,Kem Saforelle Crème Apaisante Soothing Cream hỗ trợ làm mềm và dịu da (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/saforelle-soothing-cream-50ml-16906.html
+633,Gel Perio Kin sát khuẩn những vết loét (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/periokin-gel-30ml-16959.html
+634,"Kem chống nắng Uveblock 80 Invisible Cream SPF50+ ISIS Pharma giảm sạm da, ngăn ngừa nám da, lão hoá da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isispharma-uveblock-80-40ml-mau-trang-17194.html
+635,Dưỡng chất Foltène Pharma Foam Women Thinning Hair hỗ trợ giảm gãy rụng tóc cho nữ (70ml),https://nhathuoclongchau.com.vn/duoc-my-pham/foltene-foam-women-thinning-hair-70ml-duong-toc-giam-rung-toc-17282.html
+636,"Kem A-Derma Epitheliale A.H Duo Ultra-Repairing Cream phục hồi da tổn thương, liền sẹo (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/aderma-epitheliale-ah-duo-40ml-17389.html
+637,"Kem Palmer's Cocoa Butter Formula Nursing Butter ngừa nứt nẻ, giảm đau đầu ti (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/palmers-cocoa-butter-formula-nursing-butter-30g-17607.html
+638,"Kem dưỡng ẩm SVR Xérial 30 Crème nuôi dưỡng làn da mềm mịn, loại bỏ tình trạng kích ứng và khô ráp da (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/svr-xerial-30-creme-100ml-17676.html
+639,Kem bôi Nexamo Provides Whitening GAMMA hỗ trợ dưỡng ẩm và làm sáng da (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/nexamo-provides-whitening-30ml-17805.html
+640,"Kem Vin 21 Prozoft Cream làm sạch tế bào da chết, dưỡng ẩm chuyên sâu, làm lành vết nứt gót chân (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/vin-21-prozoft-cream-30g-17862.html
+641,"Kem SVR Clairial Peel loại bỏ các dấu hiệu nám, sạm da (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-lam-mo-vet-nam-nam-da-va-lam-trang-da-svr-clairial-peel-30ml-17885.html
+642,"Bơ đậm đặc Palmer's Cocoa Butter Formula Tummy Butter ngăn ngừa, giảm rạn da (125g)",https://nhathuoclongchau.com.vn/duoc-my-pham/palmers-cocoa-butter-formula-tummy-buter-125g-18064.html
+643,"Kem SVR Sebiaclear Mat And Pores điều hòa bã nhờn, dưỡng ẩm, thu nhỏ lỗ chân lông (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/svr-sebiaclear-mat-pores-40ml-kem-duong-da-lam-giam-mun-thong-thoang-lo-chan-long-va-loai-bo-dau-18122.html
+644,"Kem Uriage Pruriced Crème cung cấp độ ẩm cho da bị khô, kích ứng (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/uriage-pruriced-creme-100ml-kem-cham-soc-da-kho-kich-ung-18131.html
+645,"Kem SVR Clairial Concentré giảm đốm tối màu, làm mềm và cải thiện kết cấu da, dưỡng da sáng (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/svr-clairial-concentre-30ml-kem-lam-mo-vet-nam-da-va-lam-trang-da-18165.html
+646,"Kem SVR Clairial Creme SPF 50+ chống nắng, làm mờ và giảm kích thước các đốm sắc tố trên da (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/clairial-creme-spf50-50ml-svr-kem-lam-mo-vet-nam-va-chong-nang-18610.html
+647,Serum Eucerin Pro Acne Solution Super giảm nhờn mụn (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-super-serum-30ml-89751-18618.html
+648,"Kem Big1 Thái Dương cải thiện kích thước vòng 1, săn chắc, chống chảy xệ (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-big-1-50g-thai-duong-18699.html
+649,"Tinh chất SVR Clairial Serum làm mờ các vết sạm, nám và đốm nâu trên bề mặt da (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/svr-clairial-serum-30ml-sp-cham-soc-da-dang-long-lam-mo-vet-tham-nam-va-mem-min-da-18723.html
+650,"Kem dưỡng ban ngày Eucerin Pro Acne Solution Day Mat Whitening SPF30 dưỡng trắng da, ngăn ngừa mụn (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/euceriin-acne-oil-control-pro-acne-solution-50ml-89755-18755.html
+651,"Dầu gội dược liệu Thái Dương 7 sạch gàu, dưỡng tóc, không ngứa (40 gói x 7g)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-thai-duong-7-40-goi-x-7g-18958.html
+652,Tinh dầu nghệ Forny đặc trị mụn (10ml),https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-dau-nghe-forny-dac-tri-mun-10ml-18971.html
+653,Xà bông La Roche-Posay Effaclar Dermatological Bar loại bỏ bụi bẩn và bã nhờn trên da (80g),https://nhathuoclongchau.com.vn/duoc-my-pham/laroche-posay-effaclar-purifyng-dermatological-barfor-oily-and-sensitive-skin-80g-h1850800-thanh-ru-19081.html
+654,Kem chống nắng SVR Sebiaclear Crème SPF 50 điều tiết bã nhờn trên da (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/svr-sebiaclear-creme-spf50-50ml-kem-lam-giam-mun-va-chong-nang-ko-gay-nhon-19102.html
+655,Sữa tắm gội dịu nhẹ cho tóc và cơ thể em bé A-Derma Premalba Cleansing Gel 2 IN 1 (500ml),https://nhathuoclongchau.com.vn/duoc-my-pham/aderma-primalba-gentle-cleansing-gel-baby-500ml-sua-tam-goi-toan-than-danh-cho-em-be-19135.html
+656,Serum Isis Pharma Geneskin White dưỡng trắng da (28ml),https://nhathuoclongchau.com.vn/duoc-my-pham/isis-geneskin-white-28ml-kem-duong-trang-da-19214.html
+657,"Gel không chứa xà phòng SVR Topialyse Gel Lavant làm sạch, dưỡng ẩm da khô, da nhạy cảm cho mặt, toàn thân (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/svr-topialyse-gel-lavant-50ml-grm-va-toan-than-duong-am-va-lam-mem-cho-da-kho-nhay-cam-19221.html
+658,Kem dưỡng da ban ngày Eucerin Q10 Active Day Cream ngăn ngừa lão hoá cho da khô và da nhạy cảm (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-q10-active-day-cream-50ml-63413-kem-duong-da-ban-ngay-19265.html
+659,Kem Ceradan Ceramide Diaper Cream làm dịu da và chống hăm tã (50g),https://nhathuoclongchau.com.vn/duoc-my-pham/ceradan-diaper-cream-hyphens-50g-19306.html
+660,Kem SVR Clairial Crème 10 làm mờ nám da (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/clairial-creme-10-svr-40ml-kem-lam-mo-nam-da-va-lam-dong-nhat-nuoc-da-19346.html
+661,"Gel Kelo-Cote Alliance hỗ trợ làm mờ sẹo, giảm vết thâm (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kelo-cote-alliance-15g-19536.html
+662,Kem dưỡng trắng da ban đêm Oribe mờ thâm nám (20g),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-da-ban-dem-dan-khang-20g-19582.html
+663,Sữa rửa mặt ngừa mụn Hiruscar Anti-Acne Dermatological Acne Skin Care Medinova (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/hiruscar-acne-skin-care-medinova-100ml-sua-rua-mat-19608.html
+664,"Gel Hiruscar Spot Gel hỗ trợ kháng khuẩn, ngừa mụn trứng cá (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/hiruscar-acne-skin-care-medinova-10g-gel-cham-soc-mun-19611.html
+665,"Kem Vin 21 Anti-Melasma Cream giảm nám, tàn nhang, vết thâm (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/vin21-anti-melasma-cream-15g-19631.html
+666,Kem dưỡng da ban đêm Eucerin Q10 Active Night Cream giảm nếp nhăn và nuôi dưỡng làn da nhạy cảm (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-q10-active-night-cream-50ml-63416-kem-duong-da-ban-dem-19652.html
+667,"Dầu gội trị gàu, trị nấm Exitans Anti Dandruff Shampoo Lancopharm (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/exitans-anti-dandruff-shampoo-lancopharm-150ml-dau-goi-tri-gau-nam-19724.html
+668,"Kem dưỡng da Eucerin Aquaporin Active dành cho da nhạy cảm, da thường, da hỗn hợp (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-sensitive-skin-aquaporin-active-50ml-69779-kem-duong-cho-da-thuong-va-hon-hop-19757.html
+669,"Dầu tẩy trang Vichy Pureté Thermale Beautifying Cleansing Micellar Oil sạch bụi bẩn, lớp trang điểm cho da (125ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-purete-thermale-beautifying-cleansing-micellar-oil-125ml-m0529801-dau-tay-trang-toan-mat-19806.html
+670,"Gel rửa mặt SVR Sebiaclear Gel Moussant không chứa xà phòng, làm sạch, nhẹ nhàng làm thông thoáng làn da (50ml) ",https://nhathuoclongchau.com.vn/duoc-my-pham/sebiaclear-gel-moussant-svr-50ml-sua-rua-mat-khong-co-xa-phong-19832.html
+671,Gel rửa mặt SVR Physiopure Gelée Moussante cho da nhạy cảm (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/physiopure-gelee-moussant-svr-50ml-gel-rua-mat-danh-cho-da-nhay-cam-19833.html
+672,"Sữa tắm trị rôm, sẩy babylub Gamma (125ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/babylub-gam-ma-125ml-sua-tam-rom-say-19890.html
+673,"Tinh chất Medidao Phúc Lâm hỗ trợ lưu thông khí huyết, phục hồi sức khỏe (2 lọ x 200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/medidao-phuc-lam-2-lo-x-200ml-20116.html
+674,"Gel tẩy trang ISIS Pharma Sensylia Gelee hỗ trợ làm sạch sâu bụi bẩn, lớp trang điểm trên da (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isispharma-sensylia-gelee-250ml-nuoc-tay-trang-danh-cho-da-nhay-cam-va-da-thuong-20210.html
+675,Dầu gội cho bé Cetaphil Baby Shampoo With Natural Chamomile (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-baby-shampoo-hair-200ml-dau-goi-dau-tre-em-20211.html
+676,Dưỡng chất Vichy Liftactiv Vitamin C Brightening Skin Corrector ngăn ngừa và cải thiện các dấu hiệu lão hóa (10ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-liftactiv-vitamin-c-brightening-skin-corrector-10ml-mb006320-serum-15-vitamin-c-nguyen-chat-20307.html
+677,Dầu dưỡng da Eucerin Elasticity And Filler Facial Oil ngăn ngừa lão hóa (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-anti-age-elasticityfiller-facial-oil-30ml-87971-dau-duong-da-giup-ngan-ngua-lao-hoa-20358.html
+678,"Gel tắm gội rôm sảy thảo dược Mediher giảm mụn nhọt, cứt trâu (180ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/mediher-gel-tam-goi-rom-say-thao-duoc-phuong-nam-180ml-20416.html
+679,Kem dưỡng da ban đêm Eucerin Hyaluron-Filler And Elasticity Night Cream ngăn ngừa lão hóa (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-anti-age-hyaluron-fillerelasticity-night-cream-50ml-69678-kem-duong-da-ban-dem-giup-ngan-20453.html
+680,Thanh kem rửa mặt và tắm Avène Cold Cream Ultra Rich Cleansing Bar dành cho da nhạy cảm (100g),https://nhathuoclongchau.com.vn/duoc-my-pham/avene-eau-thermale-cold-cream-ultra-rich-cleansing-bar-100g-20505.html
+681,Dầu gội nâu thảo mộc Ohbama không hư tổn tóc (10 gói x 5g),https://nhathuoclongchau.com.vn/duoc-my-pham/ohbama-goi-la-nau-nano-california-10-goi-nau-hat-de-20603.html
+682,Kem Isis Pharma Keloplast Scars SPF50 phòng ngừa sẹo lồi và tăng sắc tố (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/isis-keloplast-scars-spf50-40ml-21083.html
+683,"Kem chống nắng Uveblock SPF50+ Mineral ISIS Pharma Nâu hỗ trợ giảm sạm da, ngăn ngừa nám da, lão hoá da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-uveblock-50-mineral-40ml-nau-21219.html
+684,"Kem chống nắng Uveblock SPF50+ Mineral ISIS Pharma Trắng giảm sạm da, ngăn ngừa nám da, lão hoá da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-uveblock-50-mineral-40ml-trang-21221.html
+685,"Dầu dưỡng da Eucerin Peau Sensible Huile De Soin Natural Caring Oil giảm rạn da, săn chắc da (125ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-peau-sensible-huile-de-soin-natural-caring-oil-125ml-63178-dau-duong-da-21532.html
+686,Serum Vichy Mineral 89 tăng cường khả năng phòng vệ của da cho da mềm mịn và căng mướt (1.5ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-mineral-89-skin-portifying-daily-booster-15ml-mb033500-serum-giup-sang-da-va-cang-muot-21939.html
+687,Kem chống nắng Vichy Idéal Soleil Mattifying Face Fluid Dry Touch SPF50 (3ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-ideal-soleil-mattifying-face-fluid-dry-touch-spf50-uvb-uva-3ml-m5960920-kem-chong-nang-da-21940.html
+688,"Dầu gội sạch gàu Anti Dandruff Shampoo Gamma ngừa rụng tóc, dưỡng tóc (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/anti-dandruff-shampoo-gamma-150ml-dau-goi-sach-gau-22025.html
+689,"Tinh chất La Roche-Posay Hyalu B5 Serum hỗ trợ tái tạo da, giúp da đàn hồi, săn chắc hơn (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/la-roche-posay-hyalu-b5-serum-30ml-mb049200-duong-chat-ho-tro-tai-tao-lan-da-giup-da-san-chac-va-d-22338.html
+690,"Dầu gội thảo dược đen tóc Tosmedy Mediplantex giúp tóc đen tự nhiên, bóng đẹp và khỏe tóc (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tosmedy-mediplantex-dau-goi-thao-duoc-den-toc-22468.html
+691,Dầu gội đen nhân sâm Tigi gội là đen chỉ 5 phút (23ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-den-nhan-sam-tigi-23ml-22471.html
+692,"Kem chống nắng Isis Pharma Neotone Prevent SPF50+ giảm sạm da, ngăn ngừa nám, lão hóa (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-neotone-prevent-spf-50-30ml-22768.html
+693,"Kem IsisPharma Neotone Eyes giúp giảm quầng thâm, bọng mắt, dưỡng ẩm (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-neotone-eyes-15ml-22777.html
+694,"Serum dưỡng tóc Thorakao giảm rụng tóc, mái tóc óng mượt (75ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/serum-duong-toc-thorakao-75ml-23098.html
+695,Kem Isis Pharma Geneskin Lift làm mờ nếp nhăn ban ngày (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/isis-geneskin-lift-50ml-23114.html
+696,Kem IsisPharma Neotone Sensitive điều trị nám cho da nhạy cảm (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/isis-neotone-sensitive-30ml-dieu-tri-nam-cho-da-nhay-cam-28738.html
+697,"Kem dưỡng ẩm Aderma Exomega Control Emollient Cream dành cho da khô, da dị ứng (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/aderma-exomega-control-emollient-cream-50ml-28844.html
+698,"Serum Lanopearl White Swan Whitening tinh chất nhau thai cừu dưỡng trắng da trắng sáng, rạng ngời (25ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/lanopearl-white-swan-whitening-serum-nhau-thai-cuu-duong-trang-da-25ml-30479.html
+699,Kem dưỡng sáng da ban ngày Eucerin Even Skin Spotless Brightening Day SPF30 (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-even-skin-spotless-brightening-day-spf30-50ml-83505-kem-duong-sang-da-ban-ngay-32786.html
+700,Gel tẩy tế bào chết Rosette Gommage dành cho mọi loại da (180g),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-tay-te-bao-chet-rosette-gommage-180g-30055.html
+701,Gội là nâu phủ bạc thảo dược Lucky Star (10 gói x 25ml),https://nhathuoclongchau.com.vn/duoc-my-pham/goi-la-nau-phu-bac-thao-duoc-lucky-star-10-goi-x-25-ml.html
+702,Gội là đen phủ bạc thảo dược Lucky Star (10 gói x 25ml),https://nhathuoclongchau.com.vn/duoc-my-pham/goi-la-den-phu-bac-thao-duoc-lucky-star-10-goi-x-25-ml.html
+703,"Kem tẩy trang Transino Clear Cleansing hỗ trợ làm sạch lớp trang điểm, bụi bẩn trên da (120g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-tay-trang-transino-clear-cleansing-120g-37890.html
+704,"Tinh chất bí đao Winter Melon Serum Cocoon cải thiện tình trạng mụn, kiểm soát bã nhờn, mờ vết thâm (70ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-bi-dao-cocoon-70ml-36688.html
+705,"Dầu gội đầu thảo dược Kingphar sạch gàu, tóc chắc khỏe, hạn chế gãy rụng (200g)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-dau-thao-duoc-kingphar-200g-16150.html
+706,"Gel ngừa mụn Nano Curcumin Decumar Advanced làm mờ các vết sẹo, vết thâm do mụn (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-nghe-nano-decumar-advanced-20g-29141.html
+707,Nước nhuộm phủ bạc thảo dược Gội là Nâu Lucky Star (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/goi-la-nau-phu-bac-thao-duoc-lucky-star-250-ml.html
+708,Gội là đen phủ bạc thảo dược Lucky Star (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/goi-la-den-phu-bac-thao-duoc-lucky-star-250-ml.html
+709,"Sáp dưỡng ẩm Vaseline Vitamin E sáp ong làm mềm da, dịu da khi bị ngứa ngáy, khô rát, nứt nẻ (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sap-duong-am-vaseline-vitamin-e-sap-ong-50g-36863.html
+710,Dung dịch vệ sinh Sensure' Detergente Intimo giúp làm sạch và giảm mùi hôi cơ quan sinh dục ngoài (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/intimo-sensure-250ml-nuoc-rua-phu-khoa-20289.html
+711,"Tinh dầu Vỏ Cam Thảo Nguyên dùng để xông hơi, giúp sảng khoái tinh thần, thải độc cho da (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-dau-vo-cam-thao-nguyen-50ml-29487.html
+712,"Gel SVR Sebiaclear Gel Moussant làm sạch không chứa xà phòng, loại bỏ tế bào da chết (55ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/svr-sebiaclear-gel-moussant-gel-lam-sach-va-loai-bo-te-bao-chet-khong-chua-xa-phong-55ml-30134.html
+713,"Xà phòng Fixderma Salyzap Soap làm sạch da, giảm mụn trứng cá, mụn đầu đen (75g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-salyzap-soap-75g-banh-xa-phong-dac-tri-mun-giam-vet-tham-do-mun-trung-ca-va-mun-dau-den-30186.html
+714,"Mặt nạ Banobagi Vita Genic Jelly Mask Pore Tightening hỗ trợ se nhỏ lỗ chân lông, duy trì độ ẩm (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-pore-tightening-anti-sebum-p-se-nho-lo-chan-long-30452.html
+715,"Mặt nạ Banobagi Vita Genic Jelly Mask Cica sáng da, mờ nếp nhăn, giảm mụn (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-cica-sang-da-mo-nep-nhan-giam-mun-30453.html
+716,Mặt nạ Banobagi Vita Genic Jelly Mask Vitalizing duy trì sự đàn hồi và săn chắc da (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-vitalizing-collagen-duy-tri-su-dan-hoi-va-san-chac-da-30460.html
+717,"Mặt nạ Banobagi Vita Genic Jelly Mask Lifting hỗ trợ nâng cơ, duy trì sự đàn hồi da (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-lifting-vitamin-a-nang-co-duy-tri-su-dan-hoi-da-giam-chay-30461.html
+718,"Mặt nạ Banobagi Vita Genic Jelly Mask Whitening hỗ trợ làm mờ vết thâm, trắng sáng da (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-whitening-vitamin-c-lam-mo-vet-tham-trang-sang-da-min-man-30462.html
+719,"Mặt nạ Banobagi Vita Genic Jelly Mask Relaxing hỗ trợ thư giãn, phục hồi và trẻ hóa da (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-relaxing-vitamin-b-thu-gian-phuc-hoi-va-tre-hoa-da-30463.html
+720,"Mặt nạ Banobagi Vita Genic Jelly Mask Hydrating dưỡng ẩm, cung cấp nước, căng da mặt (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-banobagi-vita-genic-jelly-mask-hydrating-vitamin-e-duong-am-cung-cap-nuoc-cang-da-mat-30464.html
+721,"Sáp dưỡng ẩm Vaseline Love Line dưỡng ẩm da, làm mềm da (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sap-duong-am-vaseline-loveline-bo-sung-dau-dua-va-vitamin-e-50g-33356.html
+722,"Kem bôi da D79 GSV Cream 15g hỗ trợ điều trị mụn đầu trắng, đầu đen, sẩn và mụn mủ",https://nhathuoclongchau.com.vn/duoc-my-pham/d79-gsv-cream-15g-hop-1-tuyp-33121.html
+723,"Son dưỡng môi Stick Levres Hydratant Uriage chăm sóc, bảo vệ môi khô (4g)",https://nhathuoclongchau.com.vn/duoc-my-pham/son-duong-lam-mem-moi-uriage-stick-levres-hydratant-959.html
+724,Gel làm mờ sẹo mụn và thâm mụn Hiruscar Post Acne (10g),https://nhathuoclongchau.com.vn/duoc-my-pham/hiruscar-post-acne-10g-17220.html
+725,"Mặt nạ nghệ Hưng Yên Cocoon cải thiện bề mặt, giúp da trở nên mịn màng (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-nghe-hung-yen-cocoon-30-ml.html
+726,Gel rửa mặt bí đao Cocoon giúp làm sạch sâu lỗ chân lông (310ml),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-rua-mat-bi-dao-cocoon-310-ml.html
+727,Kem chống nắng bí đao Cocoon giúp chống nắng với khả năng bảo vệ cao (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-bi-dao-cocoon-50-ml.html
+728,"Sữa chống nắng bí đao Cocoon giúp bảo vệ da trước tia UVA, UVB (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-chong-nang-bi-dao-cocoon-50-ml.html
+729,"Nước dưỡng tóc tinh dầu bưởi Cocoon giảm gãy rụng, nuôi dưỡng da đầu (310ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-duong-toc-tinh-dau-buoi-cocoon-310-ml.html
+730,Dầu gội nâu thảo mộc Ohbama không hư tổn tóc (5 gói),https://nhathuoclongchau.com.vn/duoc-my-pham/ohbama-goi-la-nau-thao-moc-5-goi.html
+731,"Sữa rửa mặt tạo bọt Rosette Acne Face Wash hỗ trợ làm sạch bụi bẩn, bã nhờn (130g)",https://nhathuoclongchau.com.vn/duoc-my-pham/rosette-acne-face-wash-130g-sua-rua-mat-tao-bot-danh-cho-da-mun-32921.html
+732,Sữa rửa mặt ngăn ngừa mụn dành cho nam Rosette Men's Acne Foam (120g),https://nhathuoclongchau.com.vn/duoc-my-pham/rosette-mens-acne-foam-120g-sua-rua-mat-ngan-ngua-mun-danh-cho-nam-32924.html
+733,"Sữa rửa mặt tạo bọt ngăn ngừa và giảm mụn trứng cá, mụn mủ Rosette Acne Refresh Foam (120g)",https://nhathuoclongchau.com.vn/duoc-my-pham/rosette-acne-refresh-foam-120g-sua-rua-mat-tao-bot-ngan-ngua-va-giam-mun-trung-ca-mun-mu-32918.html
+734,"Kem La Roche-Posay Cicaplast Baume B5 phục hồi và làm dịu các vùng da khô, da kích ứng cho bé (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-la-roche-posay-cicaplast-baume-b5-561.html
+735,Kem dưỡng da La Roche-Posay Effaclar Duo (+) hỗ trợ giảm viêm và giảm mụn đỏ tấy trong vòng 12 giờ (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/laroche-posay-effaclar-duo-40ml-m6940501-14466.html
+736,"Kem Avène Cicalfate Restorative Cream phục hồi da, lành sẹo, chống nhiễm khuẩn (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/avene-cicalfile-40ml-15646.html
+737,"Nacurgo Gel ngừa mụn, mờ sẹo thâm, mờ rạn, nám (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/nacurgo-gel-20g-15647.html
+738,Tinh chất Radical Med Anti-Hair Loss ngừa rụng tóc cho nam (3 ống),https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-ngua-rung-toc-radical-med-anti-hair-loss-3-ong-men-27812.html
+739,Gội là đen thảo mộc Ohbama (10 gói),https://nhathuoclongchau.com.vn/duoc-my-pham/ohbama-goi-la-den-thao-moc-20ml-10-goi-29046.html
+740,Xịt dưỡng ẩm Eucerin Hyaluron Mist Spray cho da nhạy cảm (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-hyaluron-mist-spray-50ml-66858-xit-khoang-29121.html
+741,Dầu gội nâu thảo mộc Ohbama không hư tổn tóc (10 gói x 5g),https://nhathuoclongchau.com.vn/duoc-my-pham/ohbama-goi-la-nau-thao-moc-10-goi-30049.html
+742,Gel rửa mặt SVR Physiopure Gelee Moussante cho da nhạy cảm (55ml),https://nhathuoclongchau.com.vn/duoc-my-pham/svr-physiopure-gelee-moussante-gel-rua-mat-cho-da-nhay-cam-55ml-30135.html
+743,"Sữa chống nắng bí đao Cocoon giúp bảo vệ da trước tia UVA, UVB (5ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-chong-nang-bi-dao-cocoon-5-ml.html
+744,"Kem dưỡng da toàn thân Hydra Bébé Body Lotion 300ml Mustela dưỡng ẩm cho trẻ sơ sinh, trẻ nhỏ",https://nhathuoclongchau.com.vn/duoc-my-pham/mustela-hydra-bebe-body-lotion-300-ml.html
+745,"Kem dưỡng da La Roche-Posay Effaclar Duo+ hỗ trợ giảm mụn, thông thoáng lỗ chân lông, ngăn ngừa thâm (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-ho-tro-dieu-tri-mun-la-roche-posay-effaclar-duo-15-ml.html
+746,"Gel tắm cho bé Dr. Celin Baby Gentle wash shampoo 180ml ngăn ngừa rôm sảy, hăm da ",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-tam-cho-be-dr-celin-healthcare-science-180-ml.html
+747,"Gel bôi trĩ Tottri Gel Traphaco giảm sưng, đau rát, làm dịu mát (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-boi-tri-tottri-traphaco-30-g.html
+748,"Nước tẩy trang Loreal Micellar Water Moisturizing dành cho da khô, da thường, da nhạy cảm (400ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/loreal-micellar-water-moisturizing-400ml-nuoc-tay-trang-danh-cho-da-kho-va-da-thuong-36929.html
+749,Tinh chất trắng da giảm thâm Balance Vitamin C Brightening Serum Glow &amp; Radiance (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-lam-trang-da-giam-tham-balance-vitamin-c-brightening-serum-glow-randiance-30ml-35276.html
+750,Sữa dưỡng ẩm da toàn thân chuyên biệt Bio-Oil Body Lotion (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/bio-oil-body-lotion-250ml-sua-duong-da-toan-than-sua-duong-da-toan-than-34731.html
+751,Sữa dưỡng ẩm da toàn thân chuyên biệt Bio-Oil Body Lotion (175ml),https://nhathuoclongchau.com.vn/duoc-my-pham/bio-oil-body-lotion-175ml-sua-duong-da-toan-than-34732.html
+752,Sữa rửa mặt dịu nhẹ Cetaphil Gentle Skin Cleanser bổ sung độ ẩm dành cho mọi loại da (473ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-gentle-cleanse-473ml-sua-rua-mat-diu-nhe-34544.html
+753,"Sữa dưỡng ẩm Body Milk Bebble hỗ trợ điều trị viêm da cơ địa, vảy nến, an toàn cho trẻ sơ sinh (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/bebble-body-milk-sua-duong-am-toan-than-diep-an-200-ml.html
+754,"Dung dịch vệ sinh phụ nữ Lactacyd Pearly Intimate hỗ trợ làm sạch dịu nhẹ, duy trì cân bằng pH (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/lactacyd-pearly-intimate-150ml-dung-dich-ve-sinh-phu-nu-giup-duong-sang-34512.html
+755,Tinh chất cấp ẩm Hyaluronic Deep Moisture Serum Intense Hydration 30ml Balance hạn chế tiết dầu,https://nhathuoclongchau.com.vn/duoc-my-pham/balance-hyaluronic-deep-moisture-serum-royal-london-30ml-33368.html
+756,"Tinh chất Gold+ Marine Collagen Rejuvenating Serum 30ml Balance tăng đàn hồi cho da, mờ nếp nhăn ",https://nhathuoclongchau.com.vn/duoc-my-pham/balance-gold-marine-collagen-rejuvenating-serum-royal-london-30ml-33372.html
+757,"Nước hoa hồng dưỡng ẩm, làm sạch da Simple Soothing Toner (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-hoa-hong-simple-cho-da-nhay-cam-200ml-33117.html
+758,Nước tẩy trang da nhạy cảm Simple Micellar Cleansing Water (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-simple-cho-da-nhay-cam-200ml-33119.html
+759,"Sữa rửa mặt Simple Refreshing Facial Wash Gel loại bỏ bụi bẩn, dầu nhờn cho da nhạy cảm (150ml)  ",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-dang-gel-simple-cho-da-nhay-cam-150ml-33124.html
+760,"Mặt nạ đất sét Tsururi Ghassoul Mineral Clay Pack tẩy tế bào chết trên da, kiềm dầu, trị mụn đầu đen (150g)",https://nhathuoclongchau.com.vn/duoc-my-pham/tsururi-ghassoul-mineral-clay-pack-150g-mat-na-dat-set-32922.html
+761,Mặt nạ lột mụn đầu đen Tsururi Peel-Off Pack hỗ trợ lấy đi hết mọi tạp chất cứng đầu (55g),https://nhathuoclongchau.com.vn/duoc-my-pham/tsururi-peel-off-pack-55g-mat-na-lot-mun-dau-den-32920.html
+762,Lăn khử mùi đá khoáng Deonatulle Soft Stone Double Color Control dạng sáp giúp sáng da (20g),https://nhathuoclongchau.com.vn/duoc-my-pham/deonatulle-soft-stone-double-color-control-20g-lan-khu-mui-da-khoang-dang-sap-giup-sang-da-32916.html
+763,"Sữa dưỡng thể Eucerin AtoControl Body Care Lotion giảm khô, nứt ngứa và mẩn đỏ (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-duong-the-eucerin-ato-control-body-care-lotion-178.html
+764,"Nước hoa hồng Eucerin Dermo Purifyer Toner thông thoáng lỗ chân lông, loại bỏ chất nhờn dư thừa (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-hoa-hong-eucerin-dermo-purifyer-cho-da-mun-200.html
+765,"Kem dưỡng trắng da ban đêm Eucerin White Therapy Night Fluid hỗ trợ phục hồi da, cải thiện sạm da (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dung-dich-lam-sang-da-ban-dem-eucerin-night-fluid-201.html
+766,Sữa dưỡng thể Eucerin Ultrawhite Therapy Whitening Body Lotion SPF7 làm sáng da hiệu quả (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-duong-the-trang-da-eucerin-white-therapy-spf-7-204.html
+767,"Sữa rửa mặt Eucerin Dermo Purifyer Cleanser loại bỏ bụi bẩn, chất nhờn cho da mụn (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-eucerin-dermo-purifier-danh-cho-da-mun-208.html
+768,"Nước xịt khoáng La Roche-Posay Thermal Spring Water Sensitive Skin làm dịu, bảo vệ da cho da nhạy cảm (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-xit-khoang-la-roche-posay-300ml-209.html
+769,"Sữa rửa mặt Eucerin White Therapy Clinical Gentle Cleansing Foam sạch sâu, loại bỏ dầu thừa (150g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-eucerin-white-therapy-diu-nhe-sang-da-210.html
+770,Kem tẩy tế bào chết 3 tác dụng Vichy Normaderm 3In1 Scrub And Cleanser And Mask (125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-tay-te-bao-chet-3-tac-dung-vichy-245.html
+771,"Nước tẩy trang La Roche-Posay Effaclar Micellar Water Ultra Oily Skin dịu nhẹ, không làm khô da (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-cho-da-dau-la-roche-posay-100ml-555.html
+772,"Kem chống nắng dạng sữa lỏng nhẹ, không nhờn rít La Roche-Posay Anthelios Invisible Fluid SPF50+  (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-la-roche-posay-anthelios-xl-50-564.html
+773,"Kem dưỡng da La Roche-Posay Lipikar Baume Ap+ dành cho da bị ngứa, mẩn đỏ cho bé (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-da-la-roche-posay-lipikar-baume-ap-200ml-576.html
+774,Kem chống nắng La Roche-Posay Anthelios XL Tinted Fluid SPF 50+ bảo vệ da trước tia UVA/UVB (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-la-roche-posay-co-mau-spf50-584.html
+775,Sữa tắm dưỡng ẩm Ceradan Ceramide Moisturing Wash Face And Body dành cho mặt và toàn thân (280ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-ceradan-danh-cho-da-kho-va-nhay-cam-591.html
+776,"Kem dưỡng trắng da ban ngày Eucerin White Therapy Day Fluid UVA/UVB SPF30 chống nắng, cải thiện sạm da (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-ban-ngay-eucerin-white-therapy-uvauvb-spf30-600.html
+777,"Gel Papulex Moussant Soap Free Cleansing làm sạch da, ngăn ngừa mụn trứng cá (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/papulex-moussant-soap-free-cleansing-150ml-602.html
+778,"Kem dưỡng da ban đêm Eucerin Dermo Purifyer Active Night Care giảm nhờn, ngăn ngừa mụn (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-cham-soc-da-mun-ban-dem-eucerin-dermo-purifyer-603.html
+779,Tinh chất dưỡng da Eucerin Dermo Purifyer Active Concentrate ngăn ngừa và giảm mụn (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-duong-cho-da-mun-eucerin-dermo-purifyer-605.html
+780,"Kem Eucerin White Therapy Spot Corrector làm mờ tàn nhang, thâm nám (5ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-lam-mo-tham-nam-eucerin-white-therapy-607.html
+781,Gội là đen thảo dược Ohbama Good Health (10 gói),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-ohbama-goi-la-den-608.html
+782,Xịt dưỡng ẩm Eucerin Aquaporin Active cho da nhạy cảm (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/xit-khoang-eucerin-aquaporin-active-cho-da-nhay-cam-610.html
+783,"Gel rửa mặt Eucerin DermatoClean Refreshing Cleansing Gel làm sạch bụi bẩn, lớp trang điểm (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-rua-mat-tuoi-mat-eucerin-dermatoclean-612.html
+784,Sữa rửa mặt kiểm soát dầu Cetaphil DermaControl Oil-Control Foam Wash (235ml),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-kiem-soat-nhon-cetaphil-618.html
+785,Kem dưỡng làm mờ và giảm rạn da Vichy Complete Action Anti-Stretch Cream (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-vichy-giup-giam-nguy-co-ran-da-620.html
+786,"Sữa tắm không cần dùng nước NoRinse Body Bath thay thế cách tắm thông thường (59,1ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-khong-dung-nuoc-591ml-624.html
+787,Xịt chống nắng lâu trôi Vichy Laboratoires Capital Soleil SPF50 UVB And UVA dành cho cơ thể (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-vichy-toan-than-dang-xit-spf50-629.html
+788,"Muối ngâm chân Crevil Foot Badesalz giảm chứng phong thấp, đau nhức xương khớp, mất ngủ (600g)",https://nhathuoclongchau.com.vn/duoc-my-pham/muoi-khoang-bien-chet-ngam-chan-crevil-630.html
+789,Xà phòng ngăn ngừa mụn và kháng khuẩn Acnes Washing Bar Rohto kiểm soát nhờn (75g),https://nhathuoclongchau.com.vn/duoc-my-pham/xa-phong-ngan-ngua-mun-va-khang-khuan-acnes-633.html
+790,"Kem chống nắng không nhờn rít Vichy Idéal Soleil SPF50 UVA And UVB dành cho da hỗn hợp, da dầu nhạy cảm (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-vichy-danh-cho-da-mat-spf50-638.html
+791,"Dầu dưỡng da ban đêm NNO Nourishing Night Oil ngăn ngừa các vết nhăn, vết nám (30 viên)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-duong-da-ban-dem-nno-nourishing-656.html
+792,"Xà phòng Acne-Acid Bar làm sạch và tẩy nhờn, loại bỏ dầu thừa từ da bị mụn trứng cá (100g)",https://nhathuoclongchau.com.vn/duoc-my-pham/xa-phong-danh-cho-da-nhon-va-da-mun-acne-aid-bar-658.html
+793,"Gel Nghệ Nano siêu hấp thu Decumar hết mụn, hết thâm, ngừa sẹo (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-nghe-tri-mun-giam-vet-tham-decumar-667.html
+794,Kem dưỡng ẩm giảm quầng thâm bọng mắt Vichy Aqualia Thermal Awakening Eye Balm (15ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-giup-giam-quang-tham-bong-mat-vichy-686.html
+795,"Tinh chất ngăn lão hóa tóc Megumi Rohto ngăn rụng tóc, dưỡng tóc chắc khỏe (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-ngan-rung-toc-megumi-699.html
+796,Xà phòng Oilatum Soap Bar Stiefel dành cho da khô (100g),https://nhathuoclongchau.com.vn/duoc-my-pham/xa-phong-rua-mat-va-tam-cho-da-kho-oilatum-714.html
+797,"Mặt nạ dưỡng da Tây Thi Sao Thái Dương giảm mụn, dưỡng ẩm, mờ vết sạm da (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-duong-da-tay-thi-730.html
+798,"Sữa rửa mặt Tây Thi Sao Thái Dương tẩy sạch lớp trang điểm, sạch nhờn, bụi bẩn, ngăn ngừa mụn (90g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-tay-thi-735.html
+799,"Sữa tắm Rocket For Men Sao Thái Dương phòng và chống viêm tắc lỗ chân lông, viêm da, dị ứng da (200g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-danh-cho-nam-rocket-764.html
+800,Dầu gội sạch gàu Alcoral Gamma hết ngứa da đầu (60ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-chong-gau-alcoral-778.html
+801,Nước tẩy trang La Roche-Posay Micellar Water Ultra Sensitive Skin hỗ trợ làm sạch sâu vượt trội (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-lam-sach-sau-da-nhay-cam-la-roche-posay-100ml-869.html
+802,"Serum Eucerin White Therapy Concentrate làm mờ các đốm sắc tố, dưỡng trắng da (6 tuýp x 5ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-chat-duong-trang-da-eucerin-white-therapy-882.html
+803,Dưỡng chất giúp ngăn ngừa quầng thâm và làm sáng da vùng mắt Vichy  Ideal White Eye Deep (15ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-lam-sang-da-vung-mat-vichy-15ml-927.html
+804,Kem dưỡng Eau Thermale Avène Cold Cream 100ml làm mềm dịu cho da nhạy cảm khô đến rất khô,https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-chong-kho-da-avene-cold-cream-100ml-939.html
+805,"Kem Palmer's Cocoa Butter Formula Tummy Butter ngăn ngừa, giảm rạn da (125g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-tri-ran-da-palmers-cocoa-butter-formula-125g-964.html
+806,Kem dưỡng giúp làm dịu và làm mềm da Uriage Bariéderm Cica-Cream (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-cham-soc-da-kho-nut-uriage-bariederm-967.html
+807,"Kem IsisPharma Neotone dưỡng trắng da, giảm sạm da, tàn nhang, tăng sắc tố sau viêm (25ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-trang-giam-sam-da-tan-nhang-isis-neotone-970.html
+808,"Kem chống nắng Isis Pharma NeoTone Radiance SPF 50+ hỗ trợ mờ vết nám, trắng sáng da (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-isis-neotone-radiance-spf-50-971.html
+809,"Kem Isis Pharma Secalia AHA dưỡng ẩm, làm mềm da, giảm khô da (75ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-lam-mem-da-secalia-aha-75ml-974.html
+810,"Kem Isis Pharma Secalia DS giúp làm mềm, giữ ẩm, dưỡng da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-va-lam-mem-da-secalia-ds-977.html
+811,"Kem chống nắng Uveblock 80 Tinted Cream SPF50+ ISIS Pharma Nâu giảm sạm da, nám da, lão hoá da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-isis-pharma-uveblock-80-40ml-981.html
+812,"Kem chống nắng Uveblock 50 Tinted Cream SPF 50+ ISIS Pharma giảm sạm da, ngăn ngừa nám da, lão hoá da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-isis-pharma-uveblock-50-40ml-982.html
+813,"Kem chống nắng Uveblock 30 ISIS Pharma hỗ trợ giảm sạm da, ngăn ngừa nám da, lão hoá da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-isis-pharma-uveblock-30-40ml-986.html
+814,Gel Hiruscar hỗ trợ ngăn ngừa hình thành sẹo và giúp làm giảm mờ sẹo (20g),https://nhathuoclongchau.com.vn/duoc-my-pham/hiruscar-20g-3476.html
+815,"Kem IsisPharma Unitone 4 Reveal SPF 20 làm mờ các đốm nám, tàn nhang (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isispharma-unitone-4-reveal-spf-20-30ml-14187.html
+816,Dung dịch cân bằng dưỡng da trắng hồng Vichy Idealia Lumiere Lotion (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-idealia-lumiere-100ml-m9157500-14202.html
+817,"Gel Medi Day giảm kích ứng da, cân bằng độ ẩm, tan máu bầm, giảm phù nề (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/medi-day-gel-50ml-14258.html
+818,Sữa dưỡng da La Roche-Posay Lipikar Fluide làm dịu và cấp ẩm cho da (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/larocheposy-lipikar-fluide-200ml-m0923301-14265.html
+819,Kem chống nắng dạng gel La Roche-Posay UVIDEA XL SPF 50 PA++++ hỗ trợ tăng cường chống tia UVA (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/larocheposay-kcn-uvidea-xl-30ml-m0514701-14296.html
+820,Combo sữa rửa mặt Acnes Soothing Lotion 90ml và Acnes Creamy Wash (25g),https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-soothing-lotion-90mlcreamy-wash-25g-14300.html
+821,Kem bôi da La Roche-Posay Effaclar A.I. 15ml giảm sưng viêm và ngăn ngừa vi khuẩn gây mụn,https://nhathuoclongchau.com.vn/duoc-my-pham/laroche-posay-effaclar-ai-15ml-m9097202-14482.html
+822,"Nước xịt khoáng La Roche-Posay Serozinc hỗ trợ chống oxy hóa, giảm sưng viêm (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/la-roche-posay-serozinc-zinc-sulfate-solution-cleansing-soothing-300ml-mb025800-nuoc-khoang-giup-lam-sach-va-lam-diu-da-14569.html
+823,"Lăn khử mùi Aquaselin Insensitive Women dùng cho vùng da nách nhạy cảm dành cho nữ giới, giảm mồ hôi (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/aquaselin-sensitive-women-50ml-14683.html
+824,"Sữa tắm Tây Thi Sao Thái Dương phòng và chống viêm tắc lỗ chân lông, viêm da, dị ứng da, mụn trứng cá (10 gói)",https://nhathuoclongchau.com.vn/duoc-my-pham/thai-duong-sua-tam-tay-thi-goi-14699.html
+825,Gel tắm gội Urelia Gel Isis Pharma làm sạch da và kháng khuẩn hiệu quả (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/isis-pharma-urelia-gel-tam-goi-dau-200ml-14760.html
+826,"Serum Pretty Aloe dưỡng trắng, giữ ẩm cho da (30 viên)",https://nhathuoclongchau.com.vn/duoc-my-pham/pretty-aloe-vien-be-duong-da-30-vien-14778.html
+827,Combo sữa rửa mặt Cetaphil Gentle Skin Cleanser dành cho mọi loại da (500ml + 125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/combo-cetaphil-gentle-skin-cleanser-500ml125ml-14849.html
+828,Kem chống nắng Sunplay Whitening UV SPF 50+ PA++++ cho mọi loại da (30g),https://nhathuoclongchau.com.vn/duoc-my-pham/sunplay-whitening-uv-50-pa-30g-14907.html
+829,"Kem Uriage Soin Ciblé Anti-Taches Uriage chăm sóc da nám, tàn nhang (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/uriage-depiderm-soin-cible-anti-taches-15ml-00015281.html
+830,"Son dưỡng Lipice Lipbalm hương táo hỗ trợ dưỡng ẩm, bảo vệ môi (4.3g)",https://nhathuoclongchau.com.vn/duoc-my-pham/lipice-lipbalm-apple-15067.html
+831,"Son dưỡng Lipice Lipbalm Rohto hương lựu hỗ trợ dưỡng ẩm, bảo vệ môi (4.3g)",https://nhathuoclongchau.com.vn/duoc-my-pham/lipice-lipbalm-pomegranate-15069.html
+832,"Gel chống nắng dưỡng da trắng mịn Sunplay Skin Aqua SPF 50+ PA++++ không chứa cồn, ngăn đen sạm (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sunplay-skin-aqua-50-silky-white-gel-30g-15073.html
+833,"Kem dưỡng ẩm Bioderma Atoderm Intensive Baume giảm sưng, ngứa cho da bị kích ứng (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/bioderma-atoderm-intensive-baume-200ml-15088.html
+834,"Kem giữ ẩm, làm đầy và mềm da Fixderma Cleovera Cream do hăm tã, thời tiết (60g)",https://nhathuoclongchau.com.vn/duoc-my-pham/cleovera-cream-60g-fixderma-15225.html
+835,"Kem bôi NS-8 Heel Balm hỗ trợ điều trị da bị nứt nẻ, vùng da dày, da khô thô ráp, chai da ở gót chân (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/heel-balm-ns-8-15230.html
+836,Sữa rửa mặt Vichy Ideal White Brightening Deep Cleansing Foam làm sạch sâu bên trong da (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-ideal-white-100ml-m9440601-15504.html
+837,Combo sữa rửa mặt Eucerin Dermo Purifyer Cleanser 100ml và kem dưỡng da Dermo Purifyer Day Mat,https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-combo-dermo-purifyer-cleanser-100ml-dermo-purifyer-day-mat-87956-93692-15527.html
+838,Combo sữa tắm Eucerin pH5 Skin - Protection WashLotion 400ml - Nước xịt khoáng Aquaporin Active 150ml,https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-sua-tam-ph5-400ml-xit-khoang-aquaporin-63073-87968-15529.html
+839,Kem chống nắng trang điểm Eucerin Sun Creme Face Tinted SPF50+ (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/kem-chong-nang-eucerin-sun-creme-face-tinted-50ml-69776-15596.html
+840,Kem Medi Night Creme phòng ngừa viêm tắc tĩnh mạch (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/medi-night-creme-150ml-15636.html
+841,"Kem Medi Night Creme điều trị vết bầm do chấn thương, té ngã (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/medi-night-creme-50ml-15637.html
+842,Nước xịt khoáng Vichy Eau Thermale Mineralizing Thermal Water cân bằng độ pH (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-xit-khoang-50ml-m5030803-15688.html
+843,Tinh chất ngăn ngừa và giảm rụng tóc cho nữ Vichy Dercos Aminexil Clinical 5 (12 ống x 72ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-duong-chat-ngan-ngua-va-giam-rung-toc-cho-nu-6ml-m9125200-15700.html
+844,"Kem chống nắng, dưỡng ẩm da dạng kem Sunplay Out Going SPF50+ PA+++ dành cho mặt và toàn thân (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sunplay-out-going-spf50-30g-15789.html
+845,Dầu gội nuôi dưỡng tóc Hairinger Gamma làm sạch tóc và da đầu (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-hairinger-150ml-15832.html
+846,"Kem ngừa mụn An Bảo Nam Dược sạch mụn, chống thâm, mờ sẹo (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/an-bao-cream-15g-15908.html
+847,Dầu gội Vichy Dercos Oil Control đặc trị kiểm soát nhờn da đầu (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-dau-goi-dac-tri-kiem-soat-nhon-200ml-m0861700-15926.html
+848,"Kem bôi da Em Bé CVI Pharma làm dịu mẩn ngứa, rôm sẩy, côn trùng đốt, ngăn ngừa thâm sẹo (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-em-be-20g-15989.html
+849,"Sữa tắm gội Lactacyd Milky Sanofi ngừa viêm da, rôm sẩy cho trẻ em (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/lactacyd-miklky-150ml-16004.html
+850,"Khăn tẩy trang và lau mặt Acnes Make Up Remover Sheet Rohto kháng khuẩn, ngừa mụn, dưỡng ẩm (20 miếng)",https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-khan-tay-trang-va-lau-mat-20m-16036.html
+851,"Gel tẩy trang Sensylia Gelee Isis Pharma giúp lấy sạch bụi bẩn, bã nhờn, phấn trang điểm (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isispharma-sensylia-gelee200ml-16092.html
+852,Kem chống nắng Isis Pharma Uveblock 50 Invisible Cream SPF 50+ cho da nhạy cảm (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/isispharma-uveblock-50-40ml-trang-16229.html
+853,"Kem ngừa nhăn Babolica giúp da căng mịn, chống nhăn nheo, chảy xệ (25g)",https://nhathuoclongchau.com.vn/duoc-my-pham/babolica-25g-16349.html
+854,Sữa tắm gội toàn thân Johnson's Baby top-to-toe không gây khô da cho bé (500ml),https://nhathuoclongchau.com.vn/duoc-my-pham/johnsons-bb-top-to-toe-wash-500ml-16450.html
+855,"Dầu gội Foltène Shampoo Women giảm rụng tóc, chẻ ngọn dành cho nữ (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/foltene-shampoo-women-200ml-16569.html
+856,"Dầu gội Foltène Shampoo Men giảm rụng tóc, chẻ ngọn dành cho nam (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-foltene-pharmamen-200ml-16573.html
+857,Kem dưỡng ẩm ban đêm Eucerin Dermo Purifyer Active Night Care giảm vết thâm sau 3 tuần (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-dermo-purifyer-active-87956-16662.html
+858,"Sữa chống nắng dưỡng da ẩm mịn Sunplay Skin Aqua UV Moisture Milk SPF 50+/PA++++ chống tia UV, ngăn đen sạm (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sunplay-skin-aqua-50-uv-moisture-milk-30g-16670.html
+859,"Serum Nno Vite Aplicapz MEGA We care dưỡng trắng da, đều màu da, ngăn ngừa lão hóa (30 viên)",https://nhathuoclongchau.com.vn/duoc-my-pham/nnovite-mega-16674.html
+860,"Bông tẩy trang Merilynn Bạch Tuyết mịn, thấm hút tốt, dễ dàng tách lớp (60 miếng)",https://nhathuoclongchau.com.vn/duoc-my-pham/bong-tay-trang-merilynn-60m-16686.html
+861,"Gel chống nắng Heliocare Advanced SPF50 ngăn ngừa đỏ da, sạm da, lão hóa da (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/heliocare-advanced-spf-50-fernblock-16695.html
+862,"Dầu gội Vichy Dercos Anti-Pelliculaire Anti-Dandruff Sensitive làm sạch gàu, giảm ngứa (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-dau-goi-dercos-200ml-m3533100-16761.html
+863,"Kem nghệ Thorakao ngăn ngừa các loại mụn, làm mờ các vết thâm, sẹo (7g)",https://nhathuoclongchau.com.vn/duoc-my-pham/thorakao-16831.html
+864,"Kem Tây Thi Sao Thái Dương hỗ trợ ngăn ngừa nám, sạm, thô da (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/thai-duong-kem-duong-da-tay-thi-30g-16838.html
+865,"Thuốc mỡ Softerin Phil Inter hỗ trợ điều trị chai gan bàn tay, bệnh vảy cá, dị ứng da (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/softerin-phil-50g-kem-boi-dieu-tri-sung-hoa-da-16865.html
+866,Gel tắm dịu nhẹ Saforelle Bébé Gel Lavant Douse cho làn da nhạy cảm của trẻ sơ sinh và trẻ nhỏ (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/saforelle-bebe-gel-lavant-douse-250ml-16909.html
+867,Kem làm mềm dịu da Saforelle Bébé Soothing Creamy Lotion cho làn da nhạy cảm và dễ bị kích ứng của bé (125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/saforelle-bebe-soothing-creamy-lotion-125ml-16910.html
+868,"Sữa rửa mặt hàng ngày Physiogel Cream làm sạch, mềm da dành cho da khô và nhạy cảm (75ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/physiogel-cream-75ml-16952.html
+869,"Gel Medi Day hỗ trợ điều trị các vết bằm do chấn thương, té ngã (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/medi-day-gel-150ml-17103.html
+870,"Kem IsisPharma Unitone 4 Reveal trắng sáng da, giảm sạm nám, giảm vết thâm sau viêm (5ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isispharmaunitone-4-reveal-5ml-17195.html
+871,Gel làm mờ sẹo mụn và thâm mụn Hiruscar Post Acne (5g),https://nhathuoclongchau.com.vn/duoc-my-pham/hiruscar-post-acne-5g-17219.html
+872,Kem chống nắng Heliocare Ultra SPF90 chống lão hóa và nám sạm hiệu quả (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/heliocare-ultr-spf90-50ml-17225.html
+873,Sữa chống rạn da Happy Event Antenatal Massage Lotion giúp dưỡng ẩm tự nhiên (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/happy-event-200ml-17227.html
+874,"Kem rửa mặt Hada Labo Pro Anti Aging giúp rửa sạch lớp tế bào chết, bụi bẩn, chống lão hóa (80g)",https://nhathuoclongchau.com.vn/duoc-my-pham/hada-labo-pro-anti-aging-80g-17231.html
+875,Dầu xả Foltène Pharma Revitalizing Conditioner giảm thiểu chẻ ngọn và rụng tóc (150ml),https://nhathuoclongchau.com.vn/duoc-my-pham/foltene-revitalizing-conditioner-150ml-17283.html
+876,Dưỡng chất Foltène Pharma Hair &amp; Sclap Solution Men giảm rụng tóc cho nam (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/foltene-pharma-hair-scalp-solution-men-17284.html
+877,Kem dưỡng ẩm Ezerra Cream More Than Moisturise giảm khô ngứa da (25g),https://nhathuoclongchau.com.vn/duoc-my-pham/ezerra-25g-17300.html
+878,"Dầu gội dược liệu Thái Dương 7 sạch gàu, không ngứa (90g)",https://nhathuoclongchau.com.vn/duoc-my-pham/thai-duong-dau-goi-duoc-lieu-7-90g-17406.html
+879,Sữa rửa mặt dịu nhẹ Cetaphil Gentle Skin Cleanser dành cho mọi loại da (500ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-gentle-skin-cleanse-500ml-17448.html
+880,Sữa rửa mặt Cetaphil Gentle Skin Cleanser dịu nhẹ cho da nhạy cảm (125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-gentle-skin-cleanse-125ml-17449.html
+881,Sữa rửa mặt dịu nhẹ Cetaphil Gentle Skin Cleanser dành cho mọi loại da (118ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-118ml-17452.html
+882,"Kem nghệ Nano Bạc Phương Đông mờ sẹo, vết thâm (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-nghe-nano-30g-17614.html
+883,"Kem CumarGold Kare hỗ trợ làm dịu vết bỏng, ngăn ngừa và làm mờ sẹo (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-cumargold-kare-30g-17631.html
+884,"Kem phục hồi da Ceradan Ceramide Skin Barrier Repair Cream dành cho da khô, kích ứng và nhạy cảm (80g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-duong-am-ceradan-80g-17714.html
+885,"Kem IsisPharma Glyco-A 12% trẻ hóa da, giảm nhăn, giảm nhân mụn, nám, dưỡng ẩm (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-pharma-glyco-a-12-30ml-17750.html
+886,"Kem rửa mặt ngăn ngừa mụn Acnes Creamy Wash sạch khuẩn mụn, da mịn màng (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-rua-mat-ngan-ngua-mun-khang-khuan-acnes-creamy-wash-3s-50g-17803.html
+887,"Sữa rửa mặt Hada Labo Perfect White Arbutin Cleanser giúp loại bỏ lớp tế bào chết, bụi bẩn (80g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-rua-mat-duong-trang-hada-labo-perfect-white-80g-17836.html
+888,"Kem rửa mặt Oxy Perfect Wash sạch nhờn, ngăn ngừa mụn cho nam (25g)",https://nhathuoclongchau.com.vn/duoc-my-pham/krm-oxy-perfect-wash-25g-rohto-18096.html
+889,Sữa tắm gội toàn thân Johnson's Baby top-to-toe dịu nhẹ cho bé (100ml),https://nhathuoclongchau.com.vn/duoc-my-pham/johnsons-baby-top-to-toe-baby-wash-100ml-18128.html
+890,"Nước xịt khoáng Uriage Eau Thermale 150ml bảo vệ da, ngăn ngừa mất nước, làm ẩm da ",https://nhathuoclongchau.com.vn/duoc-my-pham/uriage-thermal-water-nuoc-khoang-cham-soc-da-150ml-18335.html
+891,"Kem Vin21 4Zinc Anti-Acne Cream  làm sạch da nhờn và lỗ chân lông, giảm mụn bọc, mụn mủ (10ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/vin21-4zinc-anti-acne-cream-10ml-18406.html
+892,Kem Eucerin Pro Acne Solution A.I Matt Fluid kiểm soát dầu cho da mụn nhạy cảm (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-acne-oil-control-pro-acne-solution-50ml-69691-18459.html
+893,Combo bông tẩy trang và sữa rửa mặt Cetaphil Gentle Skin Cleanser (2 chai x 125ml),https://nhathuoclongchau.com.vn/duoc-my-pham/bong-tay-trang-centaphil-18476.html
+894,"Kem SVR Sebiaclear Active làm giảm mụn, loại bỏ dầu cho da (40ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sebiaclear-active-40ml-svr-18514.html
+895,"Dầu gội hoa bưởi Grapefruit Thorakao làm tóc mềm mại óng mượt, giảm khô da đầu (400ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-hoa-buoi-grapefruit-thorakao-400ml-18811.html
+896,"Dầu gội Hà Thủ Ô Thorakao phục hồi tóc đen mượt, đẩy lùi tóc bạc sớm (400ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-ha-thu-o-thien-nhien-thorakao-400ml-18817.html
+897,"Sữa rửa mặt Acne-Aid Liquid Cleanser dành cho da nhờn, mụn trứng cá (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/acne-aid-liquid-cleanser-stiefel-100ml-srm-18824.html
+898,Gel sạch mụn và kháng khuẩn Acnes Sealing Jell Rohto hạn chế sẹo thâm (2g),https://nhathuoclongchau.com.vn/duoc-my-pham/acnes-sealing-jell-2g-sach-mun-khang-khuan-18832.html
+899,"Gel rửa mặt IsisPharma Neotone Gel giúp trẻ hóa da, làm mờ vết nám, tàn nhang (150ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-neotone-gel-150ml-gel-rua-mat-trang-da-18865.html
+900,Combo nước tẩy trang Eucerin Pro Acne Solution (200ml) và Kem chống nắng Sun Gel Creme Oil Control (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cb-eucerin-pro-acne-solution-acnemake-up-cleansing-water-200ml-sun-gel-creme-oil-control-dry-touch-18946.html
+901,"Dầu gội dược liệu Thái Dương 3 hương lá sạch gàu, không ngứa, giảm rụng tóc (10 gói x 5ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-thai-duong-3-la-day-10-goi-18947.html
+902,Combo Nước Tẩy Trang Eucerin Pro Acne Solution (200ml) và Sun Protection SPF 50+ (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cb-eucerin-pro-acne-solution-acnemake-up-cleansing-water-200ml-sun-protection-spf-50-sun-creme-fac-18964.html
+903,"Kem Ellgy Plus Cracked Heel Cream hỗ trợ điều trị nứt gót chân, làm mềm các vết chai (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/ellgy-plus-cracked-heel-cream-10g-kem-lam-am-da-got-chan-18978.html
+904,"Kem dưỡng ẩm Bioderma Atoderm Intensive Baume làm dịu da khô, da chàm dị ứng (75ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/bioderma-atoderm-intensive-baume-75ml-18994.html
+905,"Dầu gội Ducray Anaphase+ Shampoo giảm rụng tóc, tăng cường sức bền cho tóc (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/ducray-anaphase-cong-shampooing-complement-antichute-200ml-dau-goi-19023.html
+906,"Kem dưỡng da chống hăm, chống nẻ, bảo vệ da trẻ em Crevil Baby Créme (125ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/crevil-baby-creme-125ml-kem-duong-da-chong-ham-chong-ne-bao-ve-da-tre-em-19030.html
+907,"Dầu gội làm sạch, ngăn ngừa gàu RADICALmed Anti Dandruff Shampoo Ideepharm (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/radicalmed-anti-dandruff-shampoo-ideepharm-100ml-dau-goi-lam-sach-va-ngan-ngua-gau-19033.html
+908,"Nước khoáng chăm sóc da Uriage EAU Thermale bảo vệ da, ngăn ngừa mất nước, làm ẩm da (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/uriage-thermal-water-50ml-nuoc-khoang-duong-da-19261.html
+909,Gel rửa mặt Ducray Keracnyl Foaming Gel cho da nhờn mụn (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/ducray-keracnyl-foaming-gel-innovation-myrtacine-200ml-grm-cho-da-nhon-mun-19289.html
+910,"Dầu gội chống gàu Haircare Bimex giúp sạch gàu, hết ngứa da đầu (50 gói x 6ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/haircare-50-goi-x-6ml-dau-goi-chong-gau-19497.html
+911,"Kem dưỡng thể Oribe chiết xuất hoa cúc dưỡng ẩm, sáng da (250g)",https://nhathuoclongchau.com.vn/duoc-my-pham/oribe-kem-duong-the-19592.html
+912,"Gel rửa mặt ngừa mụn Decumar Clean sạch khuẩn mụn, duy trì độ ẩm cho da (50g)",https://nhathuoclongchau.com.vn/duoc-my-pham/decumar-clean-cvi-50g-gel-rua-mat-ngua-mun-19685.html
+913,"Phấn nền Uveblock 50+ Tinted Compact ISIS Pharma chống nắng, chống tia cực tím (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/isis-uveblock-50-tinted-compact-10g-phan-nen-chong-nang-tia-cuc-tim-19745.html
+914,Combo Lactacyd Milky For Baby Sanofi 500ml - tặng 2 chai sữa tắm (60ml),https://nhathuoclongchau.com.vn/duoc-my-pham/combo-lactacyd-milky-baby-sanofi-500ml-tang-2-chai-sua-tam-60ml-19776.html
+915,Gel rửa mặt La Roche-Posay Effaclar Foaming Gel Oily Sensitive Skin kiểm soát dầu (400ml),https://nhathuoclongchau.com.vn/duoc-my-pham/lrc-posay-effaclar-purifying-foaming-gel-for-oily-sensitive-skin-400ml-m0715102-gel-rua-mat-tao-bo-19811.html
+916,Kem Ellgy H2O ARR Cream HOE dưỡng ẩm da (25g),https://nhathuoclongchau.com.vn/duoc-my-pham/ellgy-h2o-arr-cream-hoe-25g-kem-duong-am-19889.html
+917,"Kem Oillan Mama Actively Firming Body Lotion Làm săn chắc da, ngừa rạn da cho phụ nữ mang thai (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/oillan-mama-oceanic-200ml-kem-lam-san-chac-da-phong-ngua-ran-da-19950.html
+918,Tinh chất giúp khắc phục tình trạng rạn da Oillan Mama Stretch Marks Reducing Concentrate (40ml),https://nhathuoclongchau.com.vn/duoc-my-pham/oillan-mama-oceanic-40ml-tinh-chat-giup-khac-phuc-tinh-trang-ran-da-19964.html
+919,Serum dưỡng ẩm và cung cấp nước cho da ẩm mượt Vichy Aqualia Thermal Rehydrating Serum (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/vichy-aqualia-thermal-rehydrating-serum-30ml-mb065100-serum-duong-am-va-cung-cap-nuoc-cho-da-am-mu-20077.html
+920,"Tinh dầu tràm Linh Ứng - Hoàng Lịch dùng ngoài da, xoa bóp nâng cao sức khỏe (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-dau-tram-linh-ung-hoang-lich-30ml-20143.html
+921,"Gel bôi SwanElla Benostan phục hồi giãn tĩnh mạch chân, cải thiện tình trạng gân xanh (60ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/swanella-benostan-60ml-20231.html
+922,Dầu gội Fixderma Kairfoll Shampoo làm giảm rụng tóc và sạch gàu (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-kairfoll-shampoo-200ml-dau-goi-lam-giam-rung-toc-va-sach-gau-20251.html
+923,"Dầu gội Radicalmed Anti-Hair Loss Shampoo sạch gàu, ngừa rụng tóc (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/radicalmed-anti-hair-loss-shampoo-100ml-dau-goi-lam-sach-giup-ngan-ngua-rung-toc-20273.html
+924,"Sữa rửa mặt Fixderma Strawberry Face Wash dành cho da thường, da khô (60g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-strawberry-face-wash-60g-sua-rua-mat-20302.html
+925,"Tinh dầu Hyra Thăng Long chuyên trị hói đầu, rụng tóc, ngưng tóc bạc, gãy tóc, tóc thưa (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/tinh-dau-hyra-thang-long-100ml-20365.html
+926,Kem dưỡng da ban ngày Eucerin Hyaluron-Filler And Elasticity Day Cream SPF15 ngăn ngừa lão hóa (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-anti-age-hyaluron-fillerelasticity-day-cream-spf-15-30ml-69675-kem-duong-da-ban-ngay-giup-20366.html
+927,Combo sữa rửa mặt Eucerin Pro Acne Solution (200ml) và nước tẩy trang Acne And Make up Cleanssing Water (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/combo-eucerin-acne-oil-control-pro-acne-solution-acnemake-up-cleansing-water-200ml-pro-acne-solutio-20433.html
+928,"Kem dưỡng da Eucerin Whitening UltraWhite++ Spotless Spot Corrector giảm thâm nám, đốm nâu (5ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-whitening-ultrawhite-spotless-83507-5ml-kem-duong-giup-giam-dom-nau-20514.html
+929,"Kem dưỡng sáng da ban đêm Eucerin Whitening UltraWhite+ Spotless Night dành cho da nhạy cảm, sạm màu",https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-whitening-ultrawhite-spotless-night-83506-kem-duong-sang-da-ban-dem-20518.html
+930,Kem dưỡng trắng da ban ngày Eucerin UltraWHITE+ Spotless Day SPF30 (50ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-ultrawhite-spotless-day-spf30-83505-kem-duong-sang-da-ban-ngay-20551.html
+931,Combo Eucerin Whitening Ultrawhite Spotless Spot Corrector (5ml) &amp; Spotless Day (20ml),https://nhathuoclongchau.com.vn/duoc-my-pham/combo-eucerin-whitening-ultrawhite-spotless-spot-corrector-5ml-spotless-day-spf30-20ml-8350783503-20802.html
+932,"Dung dịch dùng ngoài Mango Care Spray Alcom hỗ trợ vệ sinh da, khử mùi hôi, khử khuẩn (100ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/mango-care-spray-alcom-100ml-dung-dich-dung-ngoai-21224.html
+933,"Gel Nghệ Nano siêu hấp thu Decumar ngừa mụn, ngừa thâm sẹo, kiểm soát bã nhờn (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/gel-nghe-nano-decumar-new-dai-bac-20g-21785.html
+934,"Gel rửa mặt ngăn ngừa mụn Exo Nano chống viêm, kháng khuẩn (60g) ",https://nhathuoclongchau.com.vn/duoc-my-pham/exo-nano-60g-gel-rua-mat-ngua-mun-21910.html
+935,"Tinh chất La Roche-Posay Pigmentclar Serum giúp giảm thâm nám, đốm nâu (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/la-roche-posay-pigmentclar-serum-30ml-m1041620-duong-chat-chuyen-biet-giup-giam-tham-nam-dom-nau-21992.html
+936,"Sữa rửa mặt bùn trắng Rosette White Clay Lift loại bỏ bụi bẩn, tế bào chết cho da sạch mịn (120g)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-bun-trang-chong-lao-hoa-rosette-white-clay-lift-120g-22351.html
+937,"Tinh Dầu Tràm Bé Thơ phòng và chữa ho, khò khè ở trẻ (50ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-tram-be-tho-50ml-22394.html
+938,Dầu gội thảo dược Hoa Đà nhuộm đen tóc (3 gói),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-nhuom-den-toc-thao-duoc-hoa-da-3-goi-22472.html
+939,Kem ngăn ngừa nứt nẻ da Vaseline hoa hồng (10g),https://nhathuoclongchau.com.vn/duoc-my-pham/vaselin-hoa-hong-10-gram-22477.html
+940,Kem dưỡng môi Vaseline Phương Liên giúp mịn môi nhanh chóng (7g),https://nhathuoclongchau.com.vn/duoc-my-pham/vaselin-sat-phuong-lien-7g-22483.html
+941,"Gel bôi côn trùng cắn Alpa After-Sting Gel làm dịu da kích ứng, mẩn ngứa (20ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/alpa-after-sting-gel-20ml-gel-boi-con-trung-can-22643.html
+942,Serum dưỡng trắng đẹp da Valentine Sao Thái Dương (10ml),https://nhathuoclongchau.com.vn/duoc-my-pham/serum-valentine-thai-duong-10ml-duong-trang-dep-da-22714.html
+943,"Dầu gội bồ kết sả chanh và hoa bưởi Kingphar sạch gàu, hạn chế gãy rụng, giúp tóc óng ả, mềm mượt (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-bo-ket-sa-chanh-hoa-buoi-kingphar-300ml-22757.html
+944,"Gel dược liệu Vietlife Skin Care Nano xoa dịu mụn viêm, sẹo thâm phai mờ (15g)",https://nhathuoclongchau.com.vn/duoc-my-pham/skin-care-nano-vietlife-15g-22971.html
+945,"Serum Eucerin UltraWhite+ Spotless Double Booster Serum giảm thâm nám, đốm nâu và dưỡng trắng da (30ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-ultrawhite-spotless-double-booster-serum-30ml-83500-tinh-chat-duong-trang-da-giam-tham-na-23046.html
+946,Tinh chất Eucerin Anti-Age Hyaluron-Filler Moisture Filler cấp ẩm ngăn ngừa lão hóa (30ml),https://nhathuoclongchau.com.vn/duoc-my-pham/eucerin-anti-age-hyaluron-filler-moisture-filler-30ml-83524-tinh-chat-cap-am-ngan-ngua-lao-hoa-27778.html
+947,"Serum chàm sữa Nhân Hưng dưỡng ẩm, mềm da, giảm ngứa (20ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/serum-cham-sua-nhan-hung-20ml-28502.html
+948,"Nước tẩy trang không cồn Nivea White Oil Clear sáng da, giúp sạch nhờn (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/nuoc-tay-trang-nivea-white-oil-control-sang-da-kiem-soat-nhon-mun-200ml-28655.html
+949,"Sáp dưỡng ẩm Vaseline dưỡng ẩm da, phục hồi da khỏi tình trạng khô, bong tróc, nứt nẻ hay bị cháy nắng (50g) ",https://nhathuoclongchau.com.vn/duoc-my-pham/sap-duong-am-vaseline-50g-28656.html
+950,Mặt nạ Dermal Aloe Collage Essence Mask dưỡng da dành cho mọi loại da (23g),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-dermal-tinh-chat-collagen-nha-djam-23g-28673.html
+951,"Mặt nạ Dermal Pearl Collagen Essence Mask giảm các vết nhăn, ngăn ngừa lão hóa (23g)",https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-dermal-tinh-chat-collagen-ngoc-trai-23g-28674.html
+952,Dầu gội Head And Shoulders mát lạnh bạc hà sạch gàu (350ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-head-shoulders-mat-lanh-bac-ha-350ml-28754.html
+953,"Dầu gội băng lạnh Head And Shoulders Sub Zero sạch gàu, nuôi dưỡng da đầu và tóc (300ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-head-shoulders-sub-zero-bang-lanh-300ml-28755.html
+954,Mặt nạ dưỡng trắng da Vedette Whitening Sheet Mask (22ml),https://nhathuoclongchau.com.vn/duoc-my-pham/mat-na-giay-vedette-nha-dam-22ml-28758.html
+955,"Kem rửa mặt Oxy Total Anti-Acne Rohto làm sạch và dịu da, cải thiện tình trạng mụn (100g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-rua-mat-ngua-mun-rohto-oxy-total-anti-acne-100g-28763.html
+956,"Gel Oatrum Gold kháng khuẩn, giảm viêm, liền da, sạch mụn (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/oatrum-gold-20g-28910.html
+957,"Kem bôi da Em Bé Đại Bắc làm dịu mẩn ngứa, rôm sẩy, côn trùng đốt, ngăn ngừa thâm sẹo (20g)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-em-be-new-20g-29122.html
+958,Gel rửa mặt Decumar Advanced giảm nhờn cho da mụn (50g),https://nhathuoclongchau.com.vn/duoc-my-pham/decumar-advanced-50g-gel-rua-mat-ngua-mun-29142.html
+959,Dầu gội ngăn rụng tóc 50 Megumi Hair Fall Control Shampoo dành cho da đầu yếu và tóc dễ rụng (250ml),https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-ngan-rung-toc-50-megumi-hair-fall-control-shampoo-250ml-29200.html
+960,"Kem xoa bóp Starbalm Massage Lotion hỗ trợ giảm đau cơ, khớp (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/kem-xoa-bop-starbalm-massage-lotion-200ml-29225.html
+961,Ống Starbalm Warm Stick giảm đau cơ bắp do vận động,https://nhathuoclongchau.com.vn/duoc-my-pham/ong-lam-nong-starbalm-warm-stick-50ml-29226.html
+962,Sữa rửa mặt thu nhỏ lỗ chân lông Rosette Face Wash Pasta Sea Clay Smooth (120g),https://nhathuoclongchau.com.vn/duoc-my-pham/sua-rua-mat-thu-nho-lo-chan-long-rosette-face-wash-pasta-sea-clay-smooth-120g-30054.html
+963,Gel tẩy tế bào chết Rosette Gommage Moist dành cho da khô (180g),https://nhathuoclongchau.com.vn/duoc-my-pham/gel-tay-te-bao-chet-danh-cho-da-kho-rosette-gommage-moist-180g-30056.html
+964,"Xà phòng Fixderma Epifager Soap  làm sạch da, làm mờ vết thâm, đốm nâu, vết nám, tàn nhang (75g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-epifager-soap-75g-banh-xa-phong-lam-mo-tham-nam-tan-nhang-30188.html
+965,"Sữa tắm Fixderma FCL Oatsilk Soap Free Body Wash làm sạch da, giảm kích ứng da, khô da (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/sua-tam-duong-am-danh-cho-da-kho-ngua-nhay-cam-fixderma-fcl-oatsilk-soap-free-body-wash-200ml-30192.html
+966,"Serum Fixderma Reticuram găn ngừa lão hoá, cải thiện độ đàn hồi của da (15ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-reticuram-serum-15ml-serum-duong-da-ngan-ngua-lao-hoa-da-30193.html
+967,"Dầu gội Fixderma FCL T-Shampoo làm sạch gàu, loại bỏ dầu cho da đầu (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-fcl-t-shampoo-200ml-dau-goi-djac-tri-gau-30194.html
+968,"Xà phòng Fixderma Salyzap Soap làm sạch da, giảm mụn trứng cá, mụn đầu đen (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-salyzap-for-acne-prone-skin-soap-30g-30243.html
+969,"Nước hoa hồng Lanopearl Porimizer Toner hỗ trợ làm sạch bã nhờn, cân bằng độ ẩm cho da (200ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/lanopearl-porimizer-toner-nuoc-hoa-hong-lam-sach-ba-nhon-can-bang-do-am-se-khit-lo-chan-long-20-30478.html
+970,"Dầu gội dược liệu Thái Dương 7 Plus không gàu, không ngứa, ngăn rụng tóc, giúp nhanh mọc tóc (250ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-duoc-lieu-thai-duong-7plus-chai-250ml-30791.html
+971,"Gel Cotripro hỗ trợ cho người bị trĩ, táo bón, nứt hoặc đau rát hậu môn (10g)",https://nhathuoclongchau.com.vn/duoc-my-pham/cotripro-gel-10g-kem-boi-tri-31216.html
+972,Kem dưỡng ẩm Fixderma Cosmetic Laboratories Oat Silk Body Lotion (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-fcl-oat-silk-body-lotion-200ml-lotion-duong-am-can-bang-do-am-cho-da-31284.html
+973,Sữa dưỡng ẩm Cetaphil Moisturizing Lotion dành cho mọi loại da (200ml),https://nhathuoclongchau.com.vn/duoc-my-pham/cetaphil-moisturizing-lotion-200ml-sua-duong-am-diu-nhe-31296.html
+974,"Bánh xà phòng Fixderma Epifager Soap làm sạch da, làm mờ vết thâm, đốm đen, vết nám, tàn nhang (30g)",https://nhathuoclongchau.com.vn/duoc-my-pham/fixderma-epifager-soap-30g-banh-xa-phong-lam-mo-tham-nam-tan-nhang-31885.html
+975,Bông tẩy trang mặt mịn Kotton Beauty Bạch Tuyết làm sạch da mặt hàng ngày (60 miếng),https://nhathuoclongchau.com.vn/duoc-my-pham/bong-tay-trang-chuyen-sau-kotton-beauty-goi-60-mieng-31997.html
+976,Serum trẻ hóa da Geneskin C Premium Isis Pharma (10ml),https://nhathuoclongchau.com.vn/duoc-my-pham/iris-geneskin-c-premium-10ml-32670.html
+977,"Dầu gội đầu OGX Thick And Full + Biotin And Collagen Shampoo dành cho tóc yếu, tổn thương, gãy, rụng (385ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-goi-ogx-biotin-va-collagen-lam-day-toc-385ml-32877.html
+978,"Dầu xả OGX Thick And Full And Biotin And Collagen Conditioner làm dày tóc, khỏe và óng mượt (385ml)",https://nhathuoclongchau.com.vn/duoc-my-pham/dau-xa-ogx-biotin-va-collagen-lam-day-toc-385ml-32878.html

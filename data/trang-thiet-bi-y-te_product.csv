@@ -1,0 +1,859 @@
+product_id,product_name,product_url
+878,Que thử rụng trứng Safefit Test dùng để xác định ngày rụng trứng (7 que),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-rung-trung-safefit-test-hop-7-cai.html
+879,Bút thử thai nhanh Safefit cho kết quả nhanh với độ chính xác cao,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/but-thu-thai-nhanh-safefit.html
+880,"Dung dịch vệ sinh mũi Fujisat i-on 70ml giảm đau, nhức, sưng đỏ ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-xit-mui-nano-bac-ion-fujisalt-70-ml.html
+881,"Dung dịch nước muối ưu trương Fysoline 5ml giảm ngạt mũi, khô mũi (20 ống)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/fysoline-hypertonique-solution-muoi-uu-truong-giam-ngat-mui-kho-mui-20-ong-x-5-ml.html
+882,"Marial Gel chống trào ngược dạ dày thực quản, bảo vệ, tái tạo và phục hồi niêm mạc họng (20 gói x 15ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/marial-gel-chong-trao-nguoc-da-day-thuc-quan-o-chua-kho-tieu-bao-ve-va-tai-tao-phuc-hoi-niem-mac-hong-20-goi-x-15-ml.html
+883,Kim Lancet lấy máu BL-28 (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-lay-mau-lancet-carefine-bl-28-g-100-cai.html
+884,Que thử thai nhanh Safefit Test (Hộp 1 que x 1 cốc nhựa),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-thai-safefit-pregnancy-test-kit.html
+885,"Xịt họng Otosan Spray Forte hỗ trợ điều trị viêm họng cấp, viêm hô hấp, giảm đau rát họng (30ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xit-hong-otosan-forte-dieu-tri-viem-hong-cap-tinh-viem-ho-hap-giam-dau-rat-hong-30-ml.html
+886,"Gel điều trị sẹo phì đại, sẹo lồi và mờ thâm Urgo Scarform 7g",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-scarform-gel-dieu-tri-seo-phi-dai-seo-loi-and-mo-tham-7-g.html
+887,Que thử đường huyết Nipro Premier (25 que),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-do-duong-huyet-nipro-premier-hop-25-que.html
+888,Nước mắt nhân tạo Easimist Eye Drops Indiana Ophthalmics giúp giảm khô và mỏi mắt (5ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nuoc-mat-nhan-tao-easimist-eye-drops-giam-kho-moi-mat-5-ml.html
+889,"Máy đo huyết áp bắp tay tự động Omron HEM 7143T1 cho kết quả chính xác, nhanh chóng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/omron-hem-7143-t1-may-do-huyet-ap-bap-tay-tu-dong.html
+890,Gel bôi trơn Kly tiệt trùng bổ sung lượng chất nhờn tự nhiên (82g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gel-boi-tron-kly-tiet-trung-82-g.html
+891,"Miếng dán Fobelife Kangdi loại mụn cóc trên da hiệu quả, không gây đau rát, chảy máu (6 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-mun-coc-kangdi-fobelife-6-mieng.html
+892,"Chai xịt giảm đau kháng viêm Safefit Jet Spray giảm đau, kháng viêm trong căng cơ, bong gân (110ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/chai-xit-giam-dau-khang-viem-safefit-jet-spray-110-ml-1.html
+893,"Khẩu trang 3D trẻ em quai vải Swan Mask ngăn giọt bắn, vi khuẩn, khói bụi (10 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-3-d-tre-em-quai-vai-swan-mask-3-lop-10-cai.html
+894,"Khẩu trang 3D trẻ em Dolphin Mask 4 lớp ngăn giọt bắn, vi khuẩn, khói bụi (10 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-3-d-tre-em-dolphin-mask-4-lop-10-cai.html
+895,"Dung dịch xịt mũi Otosan Nasal Spray Forte hỗ trợ điều trị viêm mũi, viêm xoang (30ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-xit-mui-nguoi-lon-otosan-dieu-tri-viem-mui-viem-xoang-30-ml.html
+896,"Băng cá nhân độ dính cao, co giãn tốt Urgo Family size 2cm x 6cm bảo vệ các vết thương nhỏ (10 miếng) ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-family-2-cm-x-6-cm-bang-ca-nhan-5-5-mieng.html
+897,"Miếng dán lạnh MDT chống say tàu xe, giảm nôn, buồn nôn (5 túi x 2 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-lanh-chong-say-tau-xe-mdt---hop-10-mieng-37982.html
+898,Dung dịch xịt Tooth Care hỗ trợ giảm đau nhức răng (20ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xit-giam-dau-nhuc-rang-viem-nuou-tooth-care-20ml-37983.html
+899,"Tinh dầu xoa bóp dược liệu Nhất Phong 50ml giảm đau nhức xương khớp, mỏi cơ bắp, làm ấm cơ thể",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tinh-dau-xoa-bop-duoc-lieu-nhat-phong-50ml-37743.html
+900,Miếng dán mụn ban ngày DermaAngel hút mụn nhanh chóng và làm lành vết thương sau mụn (12 miếng x 15g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-mun-ban-ngay-derma-angel-hop-12-mieng-37631.html
+901,"Kem bôi Procream giảm tình trạng chàm sữa, hăm tã, kích ứng, bỏng (30g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/procream-30g-kem-boi-dac-tri-cham-sua-ham-ta-kich-ung-bong-37612.html
+902,"Miếng dán Lion Hiepita For Baby giảm cơn sốt khó chịu, làm mát đến 8 giờ (6 gói x 2 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-ha-sot-lion-hiepita-for-baby-6-goi-x-2-mieng-0-2-tuoi.html
+903,Gel Otosan Throat Gel Forte 10ml điều trị viêm họng cấp tính (14 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gel-ngam-hong-otosan-throat-gel-forte-14-goi-x-10ml-37299.html
+904,"Chai xịt Aloclair Plus Spray giảm đau nhanh bệnh tay chân miệng, nhiệt miệng, chỉnh nha, nhổ răng (15ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/aloclair-plus-spray-15ml-chai-xit-nhiet-mieng-tay-chan-mieng-cho-moi-lua-tuoi-37209.html
+905,"Cao dán giảm đau Chỉ Thống Cao dùng trong đau cổ, đau mỏi vai gáy, đau lưng (20 gói x 5 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/cao-dan-giam-dau-chi-thong-cao-hop-20-goi-36673.html
+906,Chai xịt Hyalo4 Silver Spray hỗ trợ điều trị vết thương (50ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bot-phu-bao-ve-lam-lanh-vet-thuong-ho-dang-xit-hyalo-4-silver-spray-50-ml.html
+907,"Chai xịt lạnh Frigofast Spray giảm đau bong gân, căng cơ, giãn dây chằng (200ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/chai-xit-lanh-giam-dau-frigofast-spray-italia-200ml-36490.html
+908,Que thử thai Hello Baby Plus Humasis cho kết quả nhanh trong 3 phút (1 que) ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-thai-korea-hello-baby-dang-but-35670.html
+909,"Viên đặt Supposte Emoran giảm các triệu chứng của bệnh trĩ, viêm trực tràng (6 viên)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vien-dat-emoran-italy-6v-35613.html
+910,Khăn hạ sốt DR.Papie 0+ hỗ trợ hạ nhiệt giảm sốt (5 túi x 5 khăn),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khan-ha-sot-drpapie-0-starmed-hop-5-tui-x-5-khan-35581.html
+911,"Dung dịch xịt mũi xoang Hải Đằng làm sạch sâu, rửa trôi dịch nhầy, bụi bẩn trong mũi (15ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-xit-mui-xoang-hai-dang-15ml-35492.html
+912,Kem bôi Urgo Eczekalm 50ml dạng gel hỗ trợ điều trị viêm da và chứng khô da,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-eczekalm-50-ml-ho-tro-dieu-tri-viem-da-va-chung-kho-da-1.html
+913,"Nhiệt kế hồng ngoại MediUSA TP-336 đo không chạm, cho kết quả nhanh trong 3 giây",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-hong-ngoai-mediusa-tp-336n-34695.html
+914,"Khẩu trang 4D Kids Niva thoáng khí, ngăn chặn vi khuẩn, giọt bắn (25 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-niva-4d-kids-hop-25-cai-33778.html
+915,Dung dịch xịt vệ sinh mũi Nano Sea Spray 75ml làm sạch và thông mũi họng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xit-mui-muoi-bien-nano-sea-spray-nguoi-lon-75ml-33393.html
+916,Dung dịch xịt vệ sinh mũi Nano Sea Baby Spray 75ml làm sạch và ngừa sổ mũi,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xit-mui-muoi-bien-nano-sea-baby-spray-tre-em-75ml-33394.html
+917,Gạc răng miệng Dr.Papie làm sạch và bảo vệ răng miệng cho bé (30 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-rang-mieng-drpapie-30-goihop-starmed-33453.html
+918,"Khẩu trang y tế cao cấp 3Hmask Vĩnh Tiến 4D màu đen hỗ trợ ngăn khói, bụi, kháng khuẩn (20 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-cao-cap-vinh-tien-4d-3hmask-mau-den-33490.html
+919,"Gel Curiosin Gedeon làm lành vết loét ở chân, loét điểm tỳ, loét do tiểu đường (15g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/curiosin-15g-4125.html
+920,Máy đo huyết áp bắp tay tự động Omron HEM-7120 lưu 1 kết quả đo gần nhất,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-tu-dong-omron-hem-7120-14680.html
+921,Băng keo cá nhân in hình Pororo Kids Band 4 size Young Chemical bảo vệ vết thương dành cho trẻ nhỏ (20 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-ca-nhan-kids-band-pororo-4-size-20-mieng-21674.html
+922,Băng keo cá nhân in hình Pororo Kids Band 72mm x 18mm Young Chemical bảo vệ vết thương dành cho trẻ nhỏ (20 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-ca-nhan-kids-band-pororo-1-size-72mm-x-18mm-20-mieng-21675.html
+923,Chai xịt lạnh giảm đau sau chấn thương Starbalm Cold Spray (150ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/starbalm-cold-spray-novum-150ml-chai-xit-lanh-21815.html
+924,"Miếng dán Lion Hiepita For Child hạ sốt nhanh chóng, làm mát đến 8 giờ cho bé (8 gói x 2 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-ha-sot-lion-hiepita-for-child-8-goi-x-2-mieng-22035.html
+925,Băng keo cá nhân vải Elastic Fabric Ace Band-F 60mm x 19mm Young Chemical bảo vệ vết thương (100 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-ca-nhan-vai-plaid-60mm-x-19mm-100-mieng-22511.html
+926,"Muối rửa mũi xoang SinuFresh Cát Linh dùng cho khô mũi, ngạt mũi, chảy nước mũi (30 gói + 1 chai 180ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/muoi-rua-mui-xoang-sinufresh-cat-linh-30-goi-1-chai-180ml-22817.html
+927,Muối rửa mũi xoang SinuFresh làm sạch dịch nhầy (50 gói) ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/cham-soc-mui-xoang-sinufresh-cat-linh-50-goi-22818.html
+928,"Máy đo đường huyết tự động MediUSA GM3300 thiết kế gọn nhẹ, thao tác sử dụng đơn giản",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-duong-huyet-tu-dong-mediusa-gm3300-28936.html
+929,"Gel bôi Proctocare Bimex hỗ trợ điều trị trĩ nội, trĩ ngoại, nứt kẽ hậu môn, co búi trĩ (25g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/proctocare-bimex-gel-boi-tri-25g-29463.html
+930,Kem Panto Cream Nano Silver - ZinC đặc trị bỏng (30ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/panto-cream-nano-silver-zinc-dac-tri-bong-30ml-29464.html
+931,"Bình xịt Voltogel Spray 100ml Aero Chemie đau cơ, đau vai, bầm tím, bong gân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/voltogel-spray-xit-giam-dau-100ml-29468.html
+932,"Phun sương vệ sinh tai Spray-C Nano Bạc Aero Chemie làm sạch ráy tai, phục hồi cơ chế tự làm sạch ráy (15ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/spray-c-nano-bac-xit-ve-sinh-tai-15ml-29469.html
+933,"Gel bôi giảm đau VoltogelMass 30g Aero Chemie đau cơ, đau vai, bầm tím, bong gân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/voltogel-mass-gel-boi-giam-dau-30g-29470.html
+934,"Bông viên Niva YB2 dùng trong phòng khám, vệ sinh cá nhân, vệ sinh vết thương, tẩy trang (100 viên)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-vien-niva-100-vien-29841.html
+935,"Khẩu trang N95 Hamita ngăn bụi, kháng khuẩn (10 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-hamita-n95-hop-10-cai-30052.html
+936,Que thử thai nhanh HCG Allisa Pregnancy Test Kit Traphaco phát hiện 7 - 10 ngày sau khi thụ thai,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/allisa-pregnancy-test-kit-que-thu-thai-30132.html
+937,Gel Starbalm Cold Gel có tác dụng làm mát và ngăn ngừa chấn thương thể thao (25ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gel-lam-lanh-starbalm-cold-gel-25ml-30133.html
+938,"Cốc nguyệt san BeUCup siêu mềm, kiểm soát mùi hôi, hạn chế viêm nhiễm (45mm x 65mm) ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/coc-nguyet-san-sieu-mem-beu-cup-45mmx65mm-30180.html
+939,Băng keo cá nhân màu da Ace Band-S (Sheer) 72mm x 18mm Young Chemical bảo vệ vết thương hở (10 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-ca-nhan-mau-da-ace-band-ssheer-72x18mm-30272.html
+940,Băng keo cá nhân trong suốt Ace Band-S (Transparent) 72mm x 18mm Young Chemical bảo vệ vết thương (10 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-ca-nhan-trong-suot-ace-band-stransparent-72x18mm-30273.html
+941,Băng keo cá nhân vải Ace Band-F 72mm x 18mm Young Chemical bảo vệ vết thương (10 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-ca-nhan-vai-ace-band-f-72x18mm-30274.html
+942,Băng cá nhân không thấm nước Waterproof Plaster hỗ trợ bảo vệ vết thương (10 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-ca-nhan-khong-tham-nuoc-waterproof-plaster-30275.html
+943,"Bột nhuận tràng Constipass Wellcare bổ trợ nhuận tràng, khắc phục chứng táo bón (20 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/constipass-wellcare-20-goi-31108.html
+944,"Xịt mũi trẻ em Otosan Nasal Spray Baby làm sạch sâu các hốc mũi, thông thoáng mũi (30ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-xi-mui-tre-em-otosan-nasal-spray-bab-30ml-31411.html
+945,"Gạc tẩm cồn 6cm x 6cm Quick - Nurse sát trùng da, khử trùng dụng cụ (100 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-tam-con-quick-nurse-6x6cm-hop-100-mieng-31494.html
+946,Gạc tẩm cồn 6cm x 3cm Quick - Nurse làm sạch da và chống lại vi khuẩn (100 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-tam-con-quick-nurse-6x3cm-hop-100-mieng-31495.html
+947,"Siro ho Fortuss Otosan làm dịu cơn ho hiệu quả, bảo vệ niêm mạc (180g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/siro-ho-otosan-fortuss-cough-syrup-180g-31706.html
+948,Khăn hạ sốt Dr.Papie 3M0+ hỗ trợ hạ nhiệt giảm sốt (5 túi x 5 khăn),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khan-ha-sot-drpapie-5x5-32087.html
+949,"Dung dịch vệ sinh mũi ION Muối hỗ trợ sát khuẩn, kháng viêm, phòng ngừa sổ mũi (90ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-xit-mui-i-on-muoi-90ml-32342.html
+950,Dung dịch nhỏ tai Otosan Natural Ear Drops loại bỏ và ngăn ngừa sự hình thành của ráy tai (10ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/otosan-natural-ear-drops-dung-dich-nho-tai-32352.html
+951,"Dung dịch dùng ngoài Hãn Huyết Linh làm sạch da, kháng khuẩn và sát trùng nhẹ (15ml) ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-sat-khuan-han-huyet-linh-dang-xit-15ml-32579.html
+952,"Khẩu trang y tế cao cấp 3Hmask 4D Vĩnh Tiến màu trắng hỗ trợ ngăn khói, bụi, kháng khuẩn (20 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-cao-cap-vinh-tien-4d-3hmask-hop-20-cai-mau-trang-32806.html
+953,Que thử phát hiện ngày rụng trứng Bio Check cho kết quả trong 5 - 10 phút (7 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-rung-trung-biocheck-hop-7-test-medicon-32830.html
+954,Bột nhuận tràng Stipsipeg Baby Macrogol 3350 giảm táo bón cho trẻ từ 6 tháng tuổi (20 gói x 5g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/stipsipeg-baby-macrogol-3350-bot-nhuan-trang-giam-tao-bon-cho-tre-tu-6-thang-tuoi-20-goi-x-5-g-1.html
+955,Đầu kim tiêm tiểu đường PIC Insupen Original dùng để gắn vào đầu bút tiêm insulin (100 Cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/pic-insupen-original-32-gx-4-mm-dau-kim-tieu-duong-hop-100-cai.html
+956,Combo 3 hộp que thử đường huyết Easy Max (25 que - Tặng máy do đường huyết Easy Max Tag),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/combo-03-hop-que-easy-max-25-que-tang-may-do-duong-easy-max-tag.html
+957,"Dầu Hoa Trà Camellia Oil Hong Kong Zung Seon hỗ trợ điều trị cảm cúm, nghẹt mũi, chóng mặt, nhứt đầu (3.5ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-hoa-tra-camellia-35ml-hong-kong-zung-seon-37401.html
+958,Kem Hyalo4 Plus điều trị các tổn thương da (25g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kem-dac-tri-bong-vet-thuong-ho-loet-ti-de-nguy-co-nhiem-trung-cao-hyalo4-plus-cream-25g-36528.html
+959,"Bông y tế Quick Nurse 1kg dùng cho vết thương ngoài da, sát trùng, vệ sinh cho bé (Gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-y-te-quick-nurse-1kg-34872.html
+960,"Dung dịch xịt họng Afree 30ml Thái Minh giảm ho, sưng viêm, đau rát họng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xit-hong-afree-thai-minh-pharma-30ml-32913.html
+961,Máy đo huyết áp tự động Microlife B3 Basic hỗ trợ đo huyết áp,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-microlife-b3-basic-30175.html
+962,Băng gạc vô trùng Young Wound Dressing 6cm x 7cm Young Chemical hỗ trợ bảo vệ vết thương (50 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-gac-vo-trung-young-wound-dressing-6x7cm-30278.html
+963,Băng gạc vô trùng Young Wound Dressing 6cm x 10cm Young Chemical hỗ trợ bảo vệ vết thương hỗ trợ bảo vệ vết thương (50 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-gac-vo-trung-young-wound-dressing-6x10cm-30279.html
+964,Nước xịt khuẩn Steriplant 60ml làm sạch vết thương ngoài da và ngăn ngừa viêm loét,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nuoc-sat-khuan-steriplant-dang-xit-60ml-32665.html
+965,"Máy đo huyết áp điện tử bắp tay Yuwell YE610D bộ nhớ lưu trữ đến 80 lần, cho kết quả trung bình 3 lần đo",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-dien-tu-bap-tay-yuwell-ye-610-d.html
+966,Máy xung điện trị liệu Omron HV-F013 giảm đau cơ và khớp ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-xung-dien-tri-lieu-omron-hv-f013.html
+967,"Gel phụ khoa Tokyo Lady 3ml Tokyo Pharma hỗ trợ ngừa viêm, ngứa, duy trì độ ẩm, pH vùng kín (5 tuýp)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gel-phu-khoa-tokyo-lady-ngua-viem-ngua-huyet-trang-se-khit-lam-hong-am-dao-5-tuyp-x-3-ml.html
+968,"Máy mát xa bụng Fuji PG-2507 hỗ trợ làm ấm đều toàn thân, mang lại cảm giác dễ chịu cho cơ thể",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-mat-xa-bung-fuji-pg-2507.html
+969,Máy mát xa mắt Fuji PG-2404G15 giúp massage thái dương và các huyệt đạo khác ở vùng mắt,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-mat-xa-mat-fuji-pg-2404-g15.html
+970,Máy đo huyết áp bắp tay Fuji PG-800B18 hỗ trợ đo huyết áp,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-fuji-pg-800-b18-1.html
+971,Hộp phân liều thuốc 4 ngăn A31 Duy Thành màu xanh,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/hop-phan-lieu-thuoc-4-ngan-mau-xanh.html
+972,Hộp phân liều thuốc 4 ngăn A31 Duy Thành màu trà,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/hop-phan-lieu-thuoc-4-ngan-mau-tra.html
+973,Hộp phân liều thuốc 6 ngăn A31 Duy Thành màu xanh,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/hop-phan-lieu-thuoc-6-ngan-mau-xanh.html
+974,Hộp phân liều thuốc 6 ngăn A29 Duy Thành màu trà,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/hop-phan-lieu-thuoc-6-ngan-mau-tra.html
+975,"Vớ y khoa Compression I AD BioHealth tăng lưu thông máu, giảm tình trạng phù nề (Màu da - Size M)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-goi-y-khoa-chong-gian-tinh-mach-biohealth-compression-i-mau-da-size-m.html
+976,"Vớ y khoa Compression I AG BioHealth tăng lưu thông máu, giảm tình trạng phù nề (Màu da - Size M)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-dui-y-khoa-chong-gian-tinh-mach-biohealth-compression-i-mau-da-size-m.html
+977,"Dầu gội trị gàu Nazorel 50ml hỗ trợ điều trị mẩn ngứa da đầu do gàu và nấm, viêm da",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-goi-tri-gau-nazorel-shampoo-ciclopirox-olamine-50-ml.html
+978,Đầu kim tiểu đường PIC Insupen Original dùng để gắn vào đầu bút tiêm Insulin (100 Cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/pic-insupen-original-33-gx-4-mm-dau-kim-tieu-duong-hop-100-cai.html
+979,"Marial Gel chống trào ngược dạ dày thực quản, bảo vệ, tái tạo và phục hồi niêm mạc họng (150ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/marial-gel-chong-trao-nguoc-da-day-thuc-quan-o-chua-kho-tieu-bao-ve-va-tai-tao-phuc-hoi-niem-mac-hong-150-ml.html
+980,"Máy đo đường huyết Nipro Premier Alpha giúp đo đường huyết một cách an toàn, nhanh chóng, chính xác",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-duong-huyet-nipro-premier-alpha.html
+981,"Máy đo huyết áp cổ tay tự động AND UB-525  hỗ trợ đo huyết áp, cảnh báo đột quỵ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-co-tay-tu-dong-and-ub-525-afib-canh-bao-dot-quy.html
+982,"Máy đo huyết áp bắp tay tự động AND UA-1020 hỗ trợ đo huyết áp, cảnh báo đột quỵ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-and-ua-1020-afib-canh-bao-dot-quy.html
+983,"Máy đo huyết áp bắp tay tự động AND UA-611 Plus hỗ trợ đo huyết áp, cảnh báo đột quỵ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-and-ua-611-plus-afib-canh-bao-dot-quy.html
+984,"Máy đo huyết áp bắp tay tự động AND UA-651 Plus hỗ trợ đo huyết áp, cảnh báo đột quỵ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-and-ua-651-plus-afib-canh-bao-dot-quy.html
+985,"Chai xịt bạc Farmactive Silver Spray hỗ trợ điều trị bỏng, trầy xước, vết loét dưới da (125ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/chai-xit-bac-tri-bong-tray-xuoc-vet-loet-duoi-da-farmactive-silver-spray-125-ml.html
+986,Chai xịt Urgo Spray Lesions Buccales 15ml dùng cho vết thương ở miệng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-spray-lesions-buccales-5-ml-dang-xit-dung-cho-vet-thuong-o-mieng.html
+987,"Xịt xoa bóp phong thấp Bà Giằng 100ml giảm triệu chứng phong thấp, đau gân cơ khớp",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xit-xoa-bop-phong-thap-ba-giang-100ml-38024.html
+988,Máy đo huyết áp bắp tay cao cấp không dây Omron HEM-7600T,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-cao-cap-khong-day-omron-hem-7600-t-1.html
+989,"Dầu Nóng Medicated Oil Hong Kong Zung Seon hỗ trợ điều trị phong thấp, đau lưng nhức mỏi (50ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-nong-medicated-50ml-hong-kong-zung-seon-37395.html
+990,"Dầu Nóng Medicated Oil Hong Kong Zung Seon hỗ trợ điều trị phong thấp, đau lưng nhức mỏi (10ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-nong-medicated-10ml-hong-kong-zung-seon-37396.html
+991,"Dầu Song Thập Peppermint Oil Hong Kong Zung Seon hỗ trợ điều trị cảm lạnh, nghẹt mũi (30ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-song-thap-pepermint-oil-30ml-hong-kong-zung-seon-37397.html
+992,"Dầu Song Thập Peppermint Oil Hong Kong Zung Seon hỗ trợ điều trị cảm lạnh, nghẹt mũi (5ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-song-thap-pepermint-oil-5ml-hong-kong-zung-seon-37398.html
+993,"Dầu Khuynh Diệp Eucalyptus Oil Hong Kong Zung Seon hỗ trợ điều trị cảm cúm, nghẹt mũi, đau bụng, giữ ấm (30ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-khuynh-diep-30ml-hong-kong-zung-seon-37399.html
+994,"Dầu Hoa Trà Camellia Oil Hong Kong Zung Seon hỗ trợ điều trị cảm cúm, nghẹt mũi, chóng mặt, nhứt đầu (20ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-hoa-tra-camellia-20ml-hong-kong-zung-seon-37400.html
+995,"Nhiệt kế hồng ngoại đo trán Microlife NC200 không cần tiếp xúc, cho kết quả sau 1 giây",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-hong-ngoai-do-tran-microlife-nc200-37089.html
+996,Máy đo huyết áp bắp tay tự động Microlife B3 Comfort hỗ trợ đo huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-microlife-b3-comfort-37091.html
+997,"Dung dịch muối rửa mũi Otosan Nasal Wash làm sạch sâu và giảm chứng viêm mũi dị ứng, cảm lạnh (30 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/muoi-rua-mui-xoang-otosan-nasal-wash-30-goi---danh-cho-tre-tu-1-tuoi-tro-len-36874.html
+998,"Bộ rửa xoang mũi Otosan Nasal Wash làm sạch sâu, hồi phục chứng viêm mũi dị ứng (1 kít + 30 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-rua-xoang-mui-otosan-nasal-wash-kit-30-goi-danh-cho-tre-tren-6-tuoi-36875.html
+999,Gel Hyalo4 Skin hỗ trợ điều trị vết thương trên da (30g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gel-dac-tri-bong-vet-thuong-ho-loet-ti-de-hyalo4-skin-gel-30g-36529.html
+1000,Máy xông khí dung Yuwell M103 cầm tay hỗ trợ điều trị các bệnh về đường hô hấp,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-xong-khi-dung-cam-tay-yuwell-m103-36502.html
+1001,Máy xông khí dung Omron NE-C106 phòng và điều trị bệnh về đường hô hấp,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-xong-khi-dung-omron-ne-c106-35522.html
+1002,"Túi y tế 1life thiết kế nhỏ gọn, tiện lợi, dùng để mang theo hàng ngày mọi lúc (1 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-y-te-1life-100g-35329.html
+1003,Máy xông khí dung BioHealth Neb Pro hỗ trợ điều trị các bệnh về đường hô hấp,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-xong-khi-dung-biohealth-neb-pro-35114.html
+1004,"Máy xông khí dung Microlife NEB200 hỗ trợ các bệnh viêm mũi, viêm xoang",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-xong-khi-dung-microlife-neb200-34561.html
+1005,"Dung dịch xịt mũi Nasodren Hartington làm sạch mũi, xoang, giảm triệu chứng viêm xoang cấp tính và mãn tính (50mg)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-dieu-tri-viem-xoang-mui-nasodren-50mg-34387.html
+1006,"Khẩu trang y tế Hamita Advanced 4D Mask màu đen hỗ trợ ngăn khói, bụi, kháng khuẩn (5 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-hamita-advanced-4d-mask-mau-den-goi-5-cai-33788.html
+1007,Que thử đường huyết Easy Max cho kết quả trong 5 giây (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-easy-max-hop-25-cai-33399.html
+1008,"Máy đo huyết áp bắp tay tự động Omron JPN600 công nghệ IntelliWrap, hiển thị kết quả trung bình của 3 lần đo cuối",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-tu-dong-omron-jpn600-14186.html
+1009,Máy đo huyết áp bắp tay tự động MediUSA TP-33 hỗ trợ đo huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-mediusa-tp-33-17786.html
+1010,"Miếng dán nhiệt Starbalm Aqua Gel Warm Plaster Heat Patches hỗ trợ giảm đau nhanh, kháng viêm (4 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-nhiet-starbalm-aqua-gel-4-packs-29227.html
+1011,"Cao Starbalm đỏ 25g xoa bóp, làm nóng, thấm sâu vào cơ, hỗ trợ chấn thương",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/cao-starbalm-do-25g-29229.html
+1012,Khẩu trang Niva N95 hỗ trợ ngăn bụi và vi khuẩn (10 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-niva-n95-hop-10-cai-29847.html
+1013,Máy đo huyết áp bắp tay tự động Microlife BP A2 Basic hỗ trợ đo huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-microlife-bp-a2-basic-30177.html
+1014,"Khẩu trang y tế Hamita Advanced 4D Mask màu trắng hỗ trợ ngăn khói, bụi, kháng khuẩn (5 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-nguoi-lon-hamita-advanced-4d-mask-goi-5-cai-31110.html
+1015,Máy đo huyết áp điện tử Microlife W3 Comfort hỗ trợ đo huyết áp,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-co-tay-microlife-w3-comfort-31135.html
+1016,Máy đo huyết áp bắp tay tự động AND UA-651 hỗ trợ đo huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-and-ua-651-32028.html
+1017,Máy đo huyết áp bắp tay tự động AND UA-1020 hỗ trợ đo huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-and-ua-1020-32458.html
+1018,Men vi sinh kháng khuẩn dạng xịt BDFerm Bio - Spray 30ml ngăn ngừa các bệnh hô hấp,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xit-hong-sinh-hoc-bdferm-bio-spray-30ml-32485.html
+1019,Máy đo huyết áp cổ tay tự động AND&nbsp;UB-525 hỗ trợ đo huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-co-tay-tu-dong-and-ub-525-32604.html
+1020,Máy đo huyết áp bắp tay tự động AND UA-611 hỗ trợ đo huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-and-ua-611-32605.html
+1021,"Khẩu trang y tế Hamita Advanced 4D Mask hỗ trợ ngăn khói, bụi, kháng khuẩn (5 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-tre-em-hamita-advanced-4d-mask-goi-5-cai-32663.html
+1022,"Máy đo huyết áp bắp tay Microlife B3 AFIB Advanced hỗ trợ đo huyết áp, cảnh báo đột quỵ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-microlife-b3-advanced-afib-32842.html
+1023,"Dầu khuynh diệp con ó Eagle Brand Eucalyptus Oil Plus+ 25ml hỗ trợ điều trị cảm cúm, nghẹt mũi, đau bụng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/eagle-brand-eucalyptus-oil-plus-25-ml-dau-khuynh-diep-con-o-chong-muoi-8-tieng-1.html
+1024,Máy xông khí dung nén khí Yuwell 403M chuyển thuốc dạng dung dịch thành sương mù cho niêm mạc hô hấp,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-xong-khi-dung-nen-khi-yuwell-403-m-1.html
+1025,Máy mát xa đầu gối Fuji PG-2015F3 hỗ trợ cải thiện lưu thông máu và giảm bớt sự khó chịu của khớp gối,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-mat-xa-dau-goi-fuji-pg-2015-f3.html
+1026,"Máy mát xa lưng, bụng Fuji PG-2645L tác động sâu vào các vùng cơ và dây thần kinh bên trong",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-mat-xa-lung-bung-fuji-pg-2645-l.html
+1027,Vớ đùi y khoa Medical Compression Stocking size S BioHealth chống giãn tĩnh mạch,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-dui-y-khoa-chong-gian-tinh-mach-biohealth-compression-i-mau-da-size-s.html
+1028,"Máy massage Pangao PG-2601B51 xoa dịu đốt sống cổ, giúp thư giãn giảm căng thẳng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-massage-co-pangao-pg-2601-b51.html
+1029,"Dụng cụ massage ngón tay Duy Thành giảm thiểu lo lắng, căng thẳng trong cuộc sống (1 cái x 120gr)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-cu-massage-ngon-tay-duy-thanh-37721.html
+1030,"Dụng cụ điều hòa kinh mạch tay Duy Thành giảm các triệu chứng tê nhức ở bàn tay, ngón tay (1 cái x 110gr)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-cu-massage-dieu-hoa-kinh-mach-tay-duy-thanh-37722.html
+1031,"Dụng cụ massage bàn chân Duy Thành ngăn ngừa bệnh tật, phong thấp, thấp khớp (1 cái x 620gr)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-cu-massage-ban-chan-duy-thanh-37723.html
+1032,Máy đo huyết áp bắp tay tự động AND UA-767JP hỗ trợ đo huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-and-ua-767jp-32027.html
+1033,"Máy đo huyết áp bắp tay Microlife B2 Basic thế hệ mới cho độ chính xác cao, dễ sử dụng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-microlife-b2-basic-32847.html
+1034,"Nước súc miệng T-B Traphaco 500ml vệ sinh răng miệng, họng, ngừa viêm họng, thơm miệng, sạch răng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nuoc-suc-mieng-t-b-traphaco-500-ml-ve-sinh-rang-mieng-ngua-viem-hong-thom-mieng-sach-rang.html
+1035,"Dung dịch sát khuẩn xanh Methylen 1% Phương Nam dùng sát trùng ngoài da, điều trị chốc lở, viêm da (20ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-sat-khuan-xanh-methylen-phuong-nam-1-20-ml.html
+1036,Dung dịch nhỏ mắt Vismed TRB Chemedica dùng cho khô mắt hoặc tổn thương bề mặt nhãn cầu (20 ống x 0.3 ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-nho-mat-vismed-trb-chemedica-dieu-tri-kho-mat-20-ong-x-0-3-ml.html
+1037,Que thử đường huyết MediUSA TS3300 sử dụng cùng máy đo đường huyết MediUSA GM3300 (50 que),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-mediusa-ts-3300-50-cai-do.html
+1038,"Pin FuJitsu R06/2300(BP4) AA bền, an toàn cho sức khỏe (4 cục)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/pin-fujitsu-r06-2300-bp-4-aa-4-vien-vi.html
+1039,"Dung dịch sát khuẩn Xanh Methylen 1% HDpharma sát khuẩn, điều trị nhiễm virus ngoài da (20ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-sat-khuan-xanh-methylen-1-hdpharma-20-ml.html
+1040,"Dung dịch vệ sinh tai, mũi, họng Livespo Navax 5ml giảm sổ mũi, viêm tai, viêm xoang (5 ống và 1 bình nhỏ giọt)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/livespo-navax-livespo-5-ong-x-5-ml-va-1-binh-nho-giot.html
+1041,"Khẩu trang y tế Famapro Extra màu trắng 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-4-lop-trang-famapro-extra.html
+1042,"Khẩu trang y tế VTB màu trắng 3 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-3-lop-trang-vtb.html
+1043,"Nước muối Vĩnh Phúc Natriclorid 0.9% Smiles làm sạch răng, khử mùi hôi khoang miệng (600ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/natri-clorid-09-vinh-phuc-smiles-600ml-nuoc-muoi-37198.html
+1044,"Dung dịch nhỏ mắt V.Rohto Dryeye bôi trơn mắt, bổ sung nước mắt nhân tạo (13ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-nho-mat-vrohto-dryeye-13ml-ho-tro-boi-tron-mat-bo-sung-nuoc-mat-nhan-tao-36979.html
+1045,"Gạc tiệt trùng Vaseline Petrolatum Gauze Milovas đắp vào vết thương bỏng, da bị khô nứt (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-tiet-trung-vaseline-petrolatum-gauze-milovas-milopha-10-mieng-36836.html
+1046,Dung dịch muối ưu trương nhỏ mũi Buona Nebianax 3% làm loãng dịch nhầy ở mũi (20 ống),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nuoc-muoi-uu-truong-buona-nebianax-3-hop-20-ong-36809.html
+1047,Dung dịch nhỏ mắt V.Rohto Mineral Tear giữ ẩm và bổ sung khoáng chất (13ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-nho-mat-vrohto-mineral-tear-13ml-duong-am-bo-sung-khoang-chat-36710.html
+1048,"Khẩu trang y tế ILT Liworldco màu trắng 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-ilt-4-lop-trang-liworldco-36228.html
+1049,"Khẩu trang 5D Mask Nam Anh lọc khuẩn, mùi và bụi trên 99% (10 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-5-d-mask-nam-anh-hop-10-cai.html
+1050,"Khẩu trang Jomi 4D N95 lọc hơn 95% bụi PM2.5, chặn 99% vi khuẩn (5 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-jomi-n95-4d-goi-5-cai-35330.html
+1051,Que thử đường huyết Onetouch Ultra Plus Test Strips dùng để đo chỉ số đường huyết người bệnh tiểu đường (25 cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-onetouch-ultra-plus-hop-25-que-35294.html
+1052,"Khẩu trang y tế TLR màu trắng 3 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-3-lop-tlr-mau-trang-35262.html
+1053,"Bông y tế Quick Nurse 25g dùng cho vết thương ngoài da, sát trùng, vệ sinh cho bé ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-y-te-quick-nurse-25g-34869.html
+1054,"Bông y tế Quick Nurse 50g dùng cho vết thương ngoài da, sát trùng, vệ sinh cho bé ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-y-te-quick-nurse-50g-34870.html
+1055,"Bông y tế Quick Nurse 6cm x 6cm (50g) dùng cho vết thương ngoài da, sát trùng, vệ sinh cho bé",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-y-te-cat-mieng-quick-nurse-6x6-50g-34871.html
+1056,"Bông y tế Quick Nurse (100g) dùng cho vết thương ngoài da, sát trùng, vệ sinh cho bé",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-y-te-quick-nurse-100g-34873.html
+1057,"Khẩu trang y tế Naturecare màu trắng 3 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-naturecare-3-lop-mau-trang-34582.html
+1058,Bông cuộn thấm nước y tế Bông Bạch Tuyết dùng trong y tế và chăm sóc cá nhân (25g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-tham-nuoc-y-te-bach-tuyet-25gr-33679.html
+1059,"Khẩu trang y tế Safefit màu trắng 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-safefit-4-lop-mau-trang-33533.html
+1060,Dung dịch xịt Nacurgo Đại Bắc tạo màng sinh học tái tạo da tổn thương (30ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nacurgo-30ml-1440.html
+1061,Xịt mũi nước biển sâu Xisat 75ml xịt sạch thông mũi dùng cho người lớn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xisat-nguoi-lon-75ml-nuoc-bien-sau-sach-thong-mui-cho-nguoi-lon-1520.html
+1062,"Xịt mũi nước biển sâu Xisat 75ml thông mũi, dễ thở, hỗ trợ điều trị viêm mũi xoang",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xisat-viem-mui-1533.html
+1063,Dung dịch xịt mũi Stérimar Nose Hygiene And Comfor 50ml loại bỏ bụi bẩn niêm mạc mũi cho trẻ từ 3 tuổi - người lớn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sterimar-trace-element-1567.html
+1064,"Dung dịch xịt mũi Xypenat 75ml dùng trong nghẹt mũi, bị cảm, viêm xoang, viêm mũi dị ứng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xypenat-75ml-1716.html
+1065,Xịt mũi nước biển sâu Xisat 75ml xịt sạch thông mũi dùng cho trẻ em,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xisat-kid-75ml-1722.html
+1066,Dung dịch xịt mũi Stérimar Nose Hygiene Baby 50ml loại bỏ bụi bẩn niêm mạc mũi cho trẻ từ 0 - 3 tuổi,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sterimar-baby-50ml-2173.html
+1067,Gel Dermatix Ultra cải thiện hiệu quả sẹo lồi và sẹo phì đại (7g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dermatix-ultra-gel-7g-4042.html
+1068,"Miếng dán hạ sốt Aikido Gel Cool Patch chườm mát khi bị sốt nóng, say nắng, ngừa co giật ở trẻ (3 gói x 2 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-ha-sot-aikido-4100.html
+1069,Mặt nạ xông khí dung Aerosol Mask Greetmed size M,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mat-na-xong-khi-dung-aerrosol-mask-size-m-14291.html
+1070,"Băng thun y tế Bảo Thạch 0.1m x 3m dùng để băng nén ép cầm máu, cố định khớp (10 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-thun-y-te-1x3m-bao-thach-14311.html
+1071,"Kim luồn Braun 22 hỗ trợ truyền dịch, nước vào cơ thể (1 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-luon-22-braun-14686.html
+1072,Băng cuộn y tế 0.1m x 2m Bảo Thạch dùng để băng vết thương (5 cuộn),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-cuon-y-te-size-01x2m-bao-thach-14701.html
+1073,Băng cuộn y tế 0.15m x 2m Bảo Thạch dùng để băng vết thương (5 cuộn),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-cuon-y-te-size-015x2m-bao-thach-14702.html
+1074,Băng cuộn y tế (0.05m x 2m - 5 cuộn) Bảo Thạch dùng để băng vết thương,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-cuon-y-te-size-005x2m-bao-thach-14703.html
+1075,"Khẩu trang y tế Thiên Thủy 3 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-xanh-3-lop-thien-thuy-50-cai-14901.html
+1076,Que thử đường huyết On Call Plus (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-one-call-plus-25-que-15126.html
+1077,"Khẩu trang y tế Mask Virus Block Unicharm 3 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (5 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-3d-mask-virus-block-5-mieng-unicharm-15319.html
+1078,Băng cá nhân không thấm nước Urgo Waterproof bảo vệ vết thương khỏi nước và vi khuẩn (50 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-waterproof-50-mieng-15674.html
+1079,"Dung dịch xịt mũi Stérimar Blocked Nose Baby 50ml làm sạch, loại bỏ bụi bẩn niêm mạc mũi cho trẻ từ 3 tháng - 3 tuổi",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sterimar-baby-block-nose-50ml-hypertonic-15869.html
+1080,Bông y tế thấm nước Bạch Tuyết dùng trong chăm sóc cá nhân và y tế (45g) ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gon-bach-tuyet-45gr-15887.html
+1081,"Băng keo giấy y tế Urgopore 1.25cm x 5m thông thoáng cho da nhạy cảm, giúp kềm giữ nhanh, chắc chắn",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgopore-125cmx5m-16152.html
+1082,Túi chườm lạnh y tế Greetmed hỗ trợ chườm lạnh giảm đau vùng chấn thương (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-chuom-lanh-16361.html
+1083,Bông Zigzag y tế thấm nước Bạch Tuyết dùng trong chăm sóc cá nhân và y tế (100g) ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gon-bach-tuyet-cat-san-zigzag-16372.html
+1084,"Gạc y tế tiệt trùng 5cm x 6.5cm x 12 lớp Bảo Thạch sơ cứu vết thương, thấm máu và dịch tiết (100 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-bao-thach-nho-5cmx65cmx12-lop-16445.html
+1085,"Băng cá nhân vải độ dính cao Urgo Durable size 2cm x 6cm bảo vệ các vết thương nhỏ, vết trầy xước, rách da (102 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bcn-urgo-durable-102m-16456.html
+1086,Băng cá nhân ít thấm nước Urgo Washproof Large bảo vệ vết thương khỏi nước (30 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-washproof-30s-16480.html
+1087,Bơm tiêm sử dụng một lần Vinahankook 1ml/cc được khử trùng bằng khí E.O (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-1-vinahankook-100-cai-16490.html
+1088,Bơm tiêm sử dụng một lần Vinahankook 5ml/cc được khử trùng bằng khí E.O (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-5-16493.html
+1089,Túi chườm nóng y tế VGlove giúp chườm nóng lên các vùng đau trên cơ thể (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-chuom-nong-16498.html
+1090,"Băng cá nhân vải độ dính cao Urgo Durable size 2cm x 6cm bảo vệ các vết thương nhỏ, vết trầy xước, rách da (20 miếng)  ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-durable-20s-16593.html
+1091,Băng cá nhân ít thấm nước Urgo Washproof Assorted bảo vệ vết thương khỏi nước (20 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-washproof-assorted-20s-16596.html
+1092,"Băng cá nhân trong suốt Urgo Transparent Assorted bảo vệ các vết thương nhỏ, vết trầy xước, rách da (20 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-transparent-assorted-4-kich-co-16676.html
+1093,Băng keo lụa có độ dính cao Urgosyval Strong Adhessive size 1.25cm x 5m cố định băng gạc (1 cuộn),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosyval-125cm-x-5m-16778.html
+1094,Băng keo lụa có độ dính cao Urgosyval Strong Adhessive size 2.5cm x 5m cố định băng gạc (1 cuộn),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosyval-25cm-x-5m-16779.html
+1095,"Băng keo giấy y tế Urgopore size 2.5cm x 5m thông thoáng cho da nhạy cảm, giúp kềm giữ nhanh, chắc chắn",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgopore-25cm-x-5m-bang-keo-giay-16785.html
+1096,"Băng keo lụa Urgosyval size 5cm x 5m băng các vết thương trong phẫu thuật, cố định thiết bị y tế",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosyval-5cm-x-5m-16787.html
+1097,Nhiệt kế điện tử Omron MC-246 đo nhiệt độ cho trẻ khi sốt,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-dt-omron-mc246-17032.html
+1098,"Bông gòn viên y tế thấm nước Bảo Thạch dùng để làm sạch vết thương, thấm máu và dịch tiết (50g) ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gon-bao-thach-bong-vien-50g-17244.html
+1099,Găng tay cao su y tế trơn có bột VGlove Size M (10 hộp x 100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-vglove-m-17268.html
+1100,"Gạc y tế tiệt trùng 3 Con Nai Đông Pha thấm hút cao, sơ cứu vết thương nhỏ, thấm máu và dịch tiết (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-tiet-trung-dong-pha-17274.html
+1101,"Gạc y tế tiệt trùng 3 Con Nai Đông Pha thấm hút cao, sơ cứu vết thương nhỏ, thấm máu và dịch tiết (100 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-tiet-trung-dong-pha-17275.html
+1102,"Gạc rơ lưỡi Đông Fa 3 Con Nai vệ sinh, làm sạch lưỡi, răng miệng cho bé (250 hộp)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-ro-luoi-dong-pha-17277.html
+1103,Gel Dermatix Ultra cải thiện hiệu quả sẹo lồi và sẹo phì đại (15g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dermatix-ultra-15g-gel-tri-seo-17388.html
+1104,"Băng thun 3 móc Quang Mậu dùng để băng nén ép cầm máu, cố định khớp (12 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-thun-3-moc-17519.html
+1105,"Băng thun 2 móc Minh Quang dùng để băng nén ép cầm máu, cố định khớp (12 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-thun-2-moc-17520.html
+1106,Cồn 90 độ Vĩnh Phúc tiệt trùng các dụng cụ y tế (1000ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-90-do-vp-1000ml-18090.html
+1107,Cồn 90 độ Vĩnh Phúc tiệt trùng các dụng cụ y tế (500ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-90-do-vp-500ml-18093.html
+1108,"Khẩu trang y tế Thiên Thủy 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-thien-thuy-4-lop-hop-50-cai-18607.html
+1109,Que gòn Bảo Thạch dùng để rửa vết thương (20 que),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-gon-20-que-bao-thach-18665.html
+1110,"Băng thun 3 móc Urgoband hỗ trợ cầm máu, cố định khớp (10cm x 4.5m)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgoband-10cm-x-45m-bang-thun-3-moc-18759.html
+1111,"Cồn 70 độ Vĩnh Phúc dùng để diệt khuẩn dụng cụ y tế, bề mặt trong y tế (500ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-70-do-vp-500ml-18778.html
+1112,Găng tay phẫu thuật Surgical Gloves 7 VGlove tránh lây truyền bệnh trong quá trình khám (1 đôi),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-phau-thuat-7-vglove-18898.html
+1113,"Cồn 70 độ Vĩnh Phúc dùng để diệt khuẩn dụng cụ y tế, bề mặt trong y tế (1000ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-70-do-vp-1000ml-19181.html
+1114,Bông gạc đắp vết thương Bảo Thạch (8cm x 12cm),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-gac-dap-vet-thuong-bao-thach-8cm-x-12cm-19235.html
+1115,"Dung dịch nước muối sinh lý không chất bảo quản Fysoline Gifrer làm sạch mắt, mũi (40 ống)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/fysoline-dang-truong-gifrer-40-ong-dung-dich-lam-sach-mat-mui-19734.html
+1116,"Gạc y tế 8cm x 10cm x 12 lớp tiệt trùng Bảo Thạch làm sạch các vết thương nhỏ, thấm máu và dịch tiết (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-y-te-tiet-trung-bao-thach-8cmx10cmx12lop-bich-10-mieng-20138.html
+1117,Bông gạc đắp vết thương Bảo Thạch (8cm x 17cm) ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-gac-dap-vet-thuong-bao-thach-8-cmx-17-cm.html
+1118,"Viên đạn đặt hậu môn, trực tràng Healit Rectan VHPharma thúc đẩy nhanh quá trình lành vết thương (10 viên)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/healit-rectan-10-vien-vien-dat-hau-mon-truc-trang-20626.html
+1119,"Gel thảo dược Baifem K Herbapol làm dịu nhẹ, giảm cảm giác khó chịu do ngứa, kích ứng, mẩn đỏ da (15g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/baifem-k-herbapol-15g-gel-hoang-cam-bao-ve-diu-nhe-21513.html
+1120,Bông tẩm cồn Alcohol Swabs Liworldco làm sạch và khử trùng da trước khi tiêm (100 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/alcohol-pad-liworldco-21666.html
+1121,"Băng keo cuộn giấy Young Plaster-Paper 2.5cm x 5m Young Chemical cố định ống truyền dẫn, dán lên gạc cố định vết thương (1 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-cuon-giay-young-plaster-paper-25cm-x-5m-21670.html
+1122,"Băng keo cuộn lụa Young Plaster-Silk 2.5cm x 5m Young Chemical cố định ống truyền dẫn, dán lên gạc cố định vết thương (1 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-cuon-lua-young-plaster-silk-25cm-x-5m-21671.html
+1123,"Băng keo cuộn lụa Young Plaster-Silk 1.25cm x 5m Young Chemical cố định ống truyền dẫn, dán lên gạc cố định vết thương (1 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-cuon-lua-young-plaster-silk-125cm-x-5m-21672.html
+1124,"Nhiệt kế điện tử Microlife MT500 đo nhiệt độ nhanh trong 30 giây, chống thấm nước",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-dien-tu-microlife-mt500-21895.html
+1125,"Băng keo cuộn giấy Young Plaster-Paper 1.25cm x 5m Young Chemical cố định ống truyền dẫn, dán lên gạc cố định vết thương (1 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-cuon-giay-young-plaster-paper-125cmx-5m-22333.html
+1126,Nước oxy già VP 3% Vĩnh Phúc sát khuẩn vết thương (60ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nuoc-oxy-gia-vp-3-60ml-22367.html
+1127,Cồn trắng 90 độ Vĩnh Phúc hỗ trợ sát trùng vết thương ngoài (60ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-90-do-vp-60ml-trang-22368.html
+1128,Cồn Xanh 90 độ Vĩnh Phúc hỗ trợ sát trùng vết thương ngoài (60ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-90-do-vp-60ml-xanh-22369.html
+1129,Cồn trắng 70 độ Vĩnh Phúc trắng hỗ trợ sát trùng vết thương (60ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-70-do-vp-60ml-trang-22370.html
+1130,Dung dịch nước muối Fysoline 5ml không chất bảo quản kháng khuẩn (20 ống),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/fysoline-khang-khuan-gifrer-20-ong-x-5ml-new-hop-vang-22949.html
+1131,Khẩu trang Mayan 3D Mask Kids PM2.5 chống bụi PM2.5 và ngăn virus (5 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-mayan-3d-mask-kids-pm25-goi-5-cai-23083.html
+1132,Cồn 70 độ Ngân Hà hỗ trợ sát trùng vết thương (500ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-70-do-ngan-ha-500ml-23105.html
+1133,"Khẩu trang y tế 3D Mask Super Fit Unicharm size M hỗ trợ ngăn khói, bụi, kháng khuẩn (5 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-3d-mask-super-fit-unicharm-size-m-5-cai-28704.html
+1134,Kim lấy máu MediUSA MM3300 dùng cho máy đo đường huyết (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-lay-mau-mediusa-mm3300-25-cai-28939.html
+1135,"Khẩu trang than hoạt tính Hamita H80+ 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-than-hoat-tinh-hamita-h80-hop-50-cai-29300.html
+1136,"Khẩu trang y tế Safefit màu xanh 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-safefit-4-lop-50-cai-29306.html
+1137,"Kem bôi Sodermix giảm nhanh các triệu chứng ngứa, mẩn đỏ, mụn nước (15g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sodermix-cream-15g-30024.html
+1138,Bột pha hỗn dịch nhuận tràng PEGinpol 5g Buona cải thiện tình trạng táo bón cho trẻ (20 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/buona-peginpol-san-pham-cai-thien-tinh-trang-tao-bon-cho-tre-30145.html
+1139,Bộ dây truyền dịch AM An Phú,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-day-truyen-dich-am-an-phu-30810.html
+1140,Cồn xịt sát khuẩn Ethanol 70 độ OPC chuyên dùng để sát trùng ngoài da (60ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-xit-sat-khuan-ethanol-opc-70-do-60ml-31661.html
+1141,"Cồn Ngân Hà 90 độ hỗ trợ sát trùng dụng cụ y tế, làm dung môi, chất đốt (500ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-ngan-ha-90-do-500ml-31665.html
+1142,"Dung dịch xịt mũi Dr.Muối ngăn ngừa vi khuẩn, vi rút, viêm mũi, viêm xoang (100ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-xit-mui-drmuoi-100ml-31828.html
+1143,Găng tay cao su y tế không bột Polymer Latex Asap Powder Free Examination Gloves Size M (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-khong-bot-phu-polymer-latex-asap-powder-free-examination-gloves-size-m-hop-10-32594.html
+1144,Găng tay cao su y tế không bột Polymer Latex Asap Powder Free Examination Gloves Size S (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-khong-bot-phu-polymer-latex-asap-powder-free-examination-gloves-size-s-hop-10-32602.html
+1145,"Muối Y Tế Ích Nhân dùng pha nước súc miệng họng, rửa mũi (50 viên x 4.5g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/muoi-y-te-ich-nhan-50v-45g-32614.html
+1146,"Nước súc miệng T-B Fresh 500ml Traphaco làm sạch răng, miệng, họng, hỗ trợ ngăn ngừa viêm họng, viêm lợi",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nuoc-suc-mieng-t-b-fresh-traphaco-500-ml-ve-sinh-rang-mieng-ngua-viem-hong-thom-mieng-sach-rang.html
+1147,"Dụng cụ nghiền thuốc Pill Crusher Greetmed giúp nghiền thuốc đơn giản, nhanh chóng (1 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-cu-nghien-thuoc-greetmed.html
+1148,Nhiệt kế y khoa Aurora CRW-23 đo nhiệt độ cơ thể (12 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-y-khoa-do-than-nhiet-aurora-crw-23.html
+1149,Gel trị sẹo Bepanthen Anti-Scar ngăn ngừa hình thành sẹo đỏ và sẹo lồi (20g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gel-boi-tri-seo-bepanthen-anti-scar-20g-35614.html
+1150,Gel đặt âm đạo Papilocare Gel Vaginal 5ml hỗ trợ đào thải HPV (7 tuýp),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/papilocare-gel-vaginal-gel-dat-am-dao-35038.html
+1151,"Khẩu trang trẻ em 3D mask Kids Unicharm ngăn khói bụi, bụi mịn PM 2.5 (5 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-3d-mask-kids-unicharm-goi-5-cai-33038.html
+1152,Dung dịch xịt rửa mũi NeilMed Nasa Mist làm ẩm và làm trơn mũi bị khô (75ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/neilmed-nasamist-75-ml-dung-dich-xit-rua-va-ve-sinh-mui-1247.html
+1153,Gel bôi trĩ Hemoclin điều trị và phòng ngừa các khó chịu ở hậu môn (37g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/hemoclin-1611.html
+1154,"Bột Multidex Ref 46-701 DeRoyal hỗ trợ điều trị viêm nhiễm da, làm lành các vết loét mãn tính (45g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/multidex-45g-2961.html
+1155,"Nhũ tương nhỏ mắt Cationorm Santen dưỡng ẩm, bôi trơn, bảo vệ bề mặt mắt (30 ống x 0,4ml) ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/cationorm-4371.html
+1156,"Dung dịch Prontosan Wound Solution B.Braun sát khuẩn, làm mềm vết loét (350ml) ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/prontosan-solution-round-350ml-braun-14233.html
+1157,Găng tay phẫu thuật Surgical Gloves 7.5 VGlove tránh lây truyền bệnh trong quá trình khám (1 đôi),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-phau-thuat-75-vglove-14461.html
+1158,Băng tam giác (80cm x 80cm)/2 Bảo Thạch cố định vùng chấn thương (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-tam-giac-bao-thach-size-80x80cm2-14704.html
+1159,Bơm tiêm sử dụng một lần Vinahankook 50ml/cc phù hợp cho việc bơm thức ăn (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-cho-an-50cc-15402.html
+1160,"Dụng cụ cắt thuốc Medicine Cutter chia nhỏ những viên thuốc có kích thước lớn dễ dàng, nhanh gọn, hợp vệ sinh",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-cu-cat-thuoc-15993.html
+1161,Bơm tiêm sử dụng một lần Vinahankook 10ml/cc được khử trùng bằng khí E.O (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-10-16049.html
+1162,"Pen gắp thẳng không mấu Electro Bismed dùng kẹp bông băng, băng gạc rửa vết thương (1 cái x 16cm)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/pen-gap-vet-thuong-thang-16415.html
+1163,Gạc rốn Đông Fa 3 Con Nai bảo vệ vùng rốn và giữ ấm cho bé (100 hộp),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-ron-dong-pha-16514.html
+1164,Kim tiêm tiểu đường B.Braun Omnican 1ml/100 I.U màu cam dùng cho người tiểu đường (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-omnican-100iu1ml-vang-16576.html
+1165,"Miếng dán hạ sốt Sakura Tanaphar hạ nhiệt, hạ sốt, giảm đau (3 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/ha-sot-sakura-16591.html
+1166,"Băng cá nhân trong suốt Urgo Transparent 2cm x 7.2cm bảo vệ vết thương nhỏ, vết trầy xước (100 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-transparent-100s-16677.html
+1167,"Gạc lưới vô trùng chống dính UrgoTul size 10cm x 10cm băng các vết thương cấp tính, mãn tính (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgotul-10cmx10cm-16777.html
+1168,Que đè lưỡi gỗ Lạc Việt Balac Wood Sticks dùng để khám khoang miệng và cổ họng (100 cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-de-luoi-16923.html
+1169,Bộ dây truyền dịch AF/C Great World sử dụng một lần (10 dây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/day-truyen-long-an-17395.html
+1170,"Hộp phân liều thuốc 4-Hole Pillbox PT Medical 4 ngăn dài, nhỏ gọn, tiện dụng (1 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/chia-lieu-ngay-4-ngan-dai-nho-17446.html
+1171,"Nhiệt kế hồng ngoại Microlife FR1MF1 đo không chạm, nhanh, an toàn và chính xác",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-hong-ngoai-do-tran-fr1mf1-18606.html
+1172,Que thử đường huyết AccuChek Instant sử dụng cho các máy đo Roul-Chek Instant và Accu-Chek Instant S (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/accu-chek-instant-07819374020-25-que-thu-dung-tren-may-do-duong-huyet-18857.html
+1173,Bơm tiêm sử dụng một lần Vinahankook 3ml/cc được khử trùng bằng khí E.O (23g - 100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-3-23g-vinahankook-100-cai-19529.html
+1174,Gel Healit VHPharma thúc đẩy nhanh quá trình lành vết thương hở (5g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/healit-vhpharma-5g-gel-tri-vet-thuong-ho-20867.html
+1175,Miếng dán giữ nhiệt Salonpas Jikabari Hisamitsu làm ấm dễ chịu nơi đau và tê cứng kéo dài đến 6 giờ (8 miếng) ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/salonpas-jikabari-hisamitsu-84cmx13cm-8-mieng-mieng-dan-giu-nhiet-21103.html
+1176,Dây truyền dịch kim cánh bướm Greetmed 22g dùng để truyền dịch cho bệnh nhân,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/day-truyen-dich-kim-canh-buom-22079.html
+1177,"Khẩu trang Mayan 3D Mask Màu Trắng lọc không khí ô nhiễm, ngăn 99% vi khuẩn (5 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-3d-mask-medi-mayan-vpc-5-cai-22486.html
+1178,"Kéo thẳng 2 đầu nhọn Electro Bismed dùng để thay băng cho bệnh nhân, cắt gòn (16cm)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/keo-thang-nho-28236.html
+1179,"Gel bôi ngoài da Nociceptol Gel Anti-Douleur Polidis giảm đau, nhức, mỏi cơ (120ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nociceptol-gel-anti-douleur-polidis-120ml-29168.html
+1180,Găng tay cao su y tế có bột Latex ASAP Malaysia Size M (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-co-bot-latex-asap-malaysia-size-m-hop-100-cai-29849.html
+1181,"Khẩu trang y tế trẻ em Hamita ngăn bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-hamita-tre-em-meo-kitty-hop-50-cai-30050.html
+1182,"Kim bút BD Ultra - Fine Pro (4mm x 32g) xuyên qua da dễ dàng, không gây đau đớn khi tiêm (100 cây)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bd-ultra-fine-pro-4mmx32g-100-cai-kim-but-30062.html
+1183,"Khẩu trang y tế Naturecare màu xanh 3 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-naturecare-3-lop-hop-50-cai-30572.html
+1184,Dung dịch nhỏ mắt Clinitas 0.2% Farmigea giữ ẩm và ổn định màng nước mắt (30 ống x 0.5ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-nho-mat-clinitas-02-31292.html
+1185,"Dung dịch nhỏ giọt Comil PJ Pharma giảm rối loạn tiêu hóa, chướng bụng, đầy hơi, nôn trớ ở trẻ (20ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/comil-pj-pharma-20-ml-giam-roi-loan-tieu-hoa-non-tro-o-tre.html
+1186,Găng tay thăm khám dùng trong y tế Super Care Latex Powdered Examination Gloves Size M (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-y-te-co-bot-super-care-latex-powdered-examination-gloves-size-m-hop-100-cai-31749.html
+1187,"Cồn 70 độ Vĩnh Phúc có vòi xịt diệt khuẩn dụng cụ y tế, bề mặt trong y tế (500ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-70-do-vinh-phuc-co-voi-xit-500ml-32341.html
+1188,Găng tay cao su y tế không bột phủ Latex Powder Free Disposable Best Gloves size M (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-khong-bot-phu-latex-powder-free-disposable-best-gloves-size-m-hop-100-cai.html
+1189,Găng tay cao su y tế không bột phủ Latex Powder Free Disposable Best Gloves size S (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-khong-bot-phu-latex-powder-free-disposable-best-gloves-size-s-hop-100-cai.html
+1190,"Cồn BSI 2% Nam Việt điều trị nấm da, nấm móng, nấm tóc, lác, lang ben (chai)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-bsi-2-nam-viet-dieu-tri-nam-da-nam-mong-nam-toc-lac-lang-ben.html
+1191,"Pin Fujitsu R03/2400(BP4) AAA dùng được cho đồng hồ, remote, đèn pin (Vỉ 4 cục)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/pin-fujitsu-r03-2400-bp-4-aaa-4-vien-vi.html
+1192,Dung dịch tiêm Pagasys 180mcg/0.5ml Merck điều trị bệnh nhân tiểu đường (100 cái x 31g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-tiem-pencylcap-31-g-merck-1-x100.html
+1193,Gel đặt âm đạo Papilocare Procare Health phòng ngừa và điều trị tổn thương do HPV (21 tuýp) ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gel-dat-am-dao-papilocare-ho-tro-dieu-tri-hpv-procare-health-21-tuyp.html
+1194,"Băng gạc tiệt trùng Urgosterile 10cm x 20cm bảo vệ vết trầy xước, vết cắt, vết thương (20 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosterile-10cm-x-20cm-20-mieng-bang-gac-37389.html
+1195,"Máy đo đường huyết On Call Ez II ACON thiết kế gọn nhẹ, thao tác sử dụng đơn giản",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-duong-huyet-on-call-ez-ii-acon-37094.html
+1196,"Khẩu trang y tế Liworldco màu trắng 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (5 gói x 10 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-4-lop-trang-liworldco-35956.html
+1197,Que thử Axit Uric (Gout) FaCare FCM168 dùng để lấy máu (10 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-acid-uric-gut-facare-model-fcm-168-hop-10-que.html
+1198,Que thử đường huyết FaCare FC-M168 (TD-4216) kiểm tra nồng độ đường huyết trong máu (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-facare-model-fcm-168-hop-25-que.html
+1199,"Máy đo 5 in 1 FaCare+ FC-M168 (TD-4216) Bluetooth hỗ trợ đo Cholesterol, Acid Uric, Glucose ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-5-in-1-facare-td-4216-and-fc-m168-bluetooth.html
+1200,"Pen gắp cong không mấu Electro Bismed  dùng kẹp bông băng, băng gạc rửa vết thương (1 cái x 18cm)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/pen-gap-vet-thuong-cong-khong-mau-size-18cm-35277.html
+1201,"Pen gắp thẳng có mấu Electro Bismed dùng kẹp bông băng, băng gạc rửa vết thương (1 cái x 16cm)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/pen-gap-thang-co-mau-size-16cm-35278.html
+1202,"Kéo thẳng 1 tù 1 nhọn Electro Bismed dùng để thay băng cho bệnh nhân, cắt gòn (16cm)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/keo-thang-1-tu-1-nhon-size-16cm-35279.html
+1203,Bột nhuận tràng PEGinpol Buona cải thiện tình trạng táo bón cho trẻ (100g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bot-nhuan-trang-peginpol-buona-100-g.html
+1204,"Khẩu trang y tế 3D Mask Max Block Unicharm size M hỗ trợ ngăn khói, bụi, kháng khuẩn (5 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-unicharm-3d-mask-max-block-nep-mui-sieu-bao-ve-size-m-goi-5-cai-34124.html
+1205,Máy đo nồng độ oxy trong máu Jumper JPD 500E Led thiết kế nhỏ gọn và sử dụng dễ dàng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-nong-do-oxy-trong-mau-spo2-jumper-jpd-500e-led-33631.html
+1206,"Gạc răng miệng Dr. Care Quang Xanh làm sạch lưỡi, nướu, răng, miệng cho trẻ từ sơ sinh trở lên (30 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-rang-mieng-dr-care-quang-xanh-30-goi-33413.html
+1207,Bình xịt mũi Viraleze kháng virus gây bệnh đường hô hấp (10ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/binh-xit-mui-khang-virus-viraleze-10ml-33337.html
+1208,Máy đo nồng độ oxy trong máu Jumper JPD 500D Oled thiết kế nhỏ gọn và sử dụng dễ dàng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-nong-do-oxy-trong-mau-spo2-jumper-jpd-500d-oled-33335.html
+1209,Máy đo nồng độ oxy trong máu Jumper JPD 500D Led thiết kế nhỏ gọn và sử dụng dễ dàng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-nong-do-oxy-trong-mau-spo2-jumper-jpd-500d-led-33333.html
+1210,Que thử đường huyết Onetouch Select Plus (25 que),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/onetouch-select-plus-25-que-que-thu-duong-huyet-32971.html
+1211,"Dung dịch xịt mũi Xypenat 30ml dùng trong nghẹt mũi, bị cảm, viêm xoang, viêm mũi dị ứng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xypenat-30ml-1485.html
+1212,Gói hỗn hợp pha dung dịch rửa mũi NeilMed Sinus Rinse giảm và ngăn ngừa các chứng viêm mũi dị ứng (120 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/neilmed-sinus-rinse-all-natural-relief-120-goi-muoi-rua-mui-xoang-cho-tre-tu-10-tuoi-1510.html
+1213,Bộ vệ sinh mũi 1 bình + 30 gói NeilMed Sinus Rinse Kids vệ sinh mũi xoang cho trẻ ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/neilmed-pediatric-starter-kit-1-binh-30-goi-bo-rua-mui-xoang-cho-tre-4-10-tuoi-1511.html
+1214,"Dung dịch xịt mũi Stérimar Nez Bouché Blocked Nose 50ml làm sạch, loại bỏ bụi bẩn dành cho trẻ từ 3 tuổi - người lớn",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sterimar-cuivre-1566.html
+1215,Dung dịch xịt mũi Stérimar Allergic Nose 50ml hỗ trợ điều trị viêm mũi dị ứng cho trẻ từ 6 tháng - người lớn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sterimar-mn-1568.html
+1216,"Dung dịch xịt mũi Stérimar Nose Prone To Colds 50ml làm sạch, loại bỏ bụi bẩn niêm mạc mũi cho trẻ từ 6 tháng - người lớn",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sterimar-blocked-nose-cu-1569.html
+1217,Muối rửa mũi Neilmed Sinus Rinse Kids giảm và ngăn ngừa các chứng viêm mũi dị ứng cho trẻ (120 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nellmed-sinus-rinse-kids-120-goi-1579.html
+1218,Bộ dụng cụ 1 bình + 10 gói bột rửa mũi NeilMed Sinus Rinse làm sạch và ngăn ngừa chứng viêm mũi dị ứng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-cu-rua-mui-neilmed-kid10-1580.html
+1219,Dung dịch xịt mũi Humer 150 Nose Hygiene Urgo dùng để vệ sinh khoang mũi,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/humer-adulte-150ml-3454.html
+1220,"Băng thun y tế 0.075m x 3m Bảo Thạch dùng để băng nén ép cầm máu, cố định khớp (10 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-thun-y-te-bao-thach-0075x3m-10-cuon-14312.html
+1221,Hỗn hợp rửa mũi Rinorin chăm sóc và bảo vệ mũi xoang (30 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/rinorin-30-goi-14432.html
+1222,Kim luồn 18g Primaflon Lamed dễ dàng tiêm xuyên qua da và thành mạch (1 cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-luon-18-14619.html
+1223,"Miếng dán hạ sốt Bye Bye-Fever Hisamitsu hạ sốt, làm mát lạnh nhanh và mạnh, kéo dài đến 10 giờ (6 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bye-bye-fever-em-be-6-mieng-14684.html
+1224,Bộ dụng cụ 1 bình + 60 gói bột rửa mũi NeilMed Sinus Rinse làm sạch và ngăn ngừa chứng viêm mũi dị ứng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/neilmed-nguoi-lon-1-binh-60-goi-14903.html
+1225,"Kéo cong 2 đầu nhọn Electro Bismed dùng để thay băng cho bệnh nhân, cắt gòn (16cm)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/keo-cong-15139.html
+1226,"Bông băng mắt Bảo Thạch (5cm x 7cm) thấm hút cao, không gây kích ứng da (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-bang-mat-10-mieng5cmx7cm-15649.html
+1227,Kim luồn 24g Primaflon Lamed giúp hạn chế lệch vỡ vein khi dẫn truyền dịch (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-luon-24-15868.html
+1228,"Dung dịch xịt mũi Neilmed NasoGel For Dry Noses chống khô mũi, làm ẩm và làm dịu (30ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/neilmed-nasogel-for-dry-noses-30ml-15902.html
+1229,Bơm tiêm sử dụng một lần Vinahankook 3ml/cc được khử trùng bằng khí E.O (25g - 100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-3-16048.html
+1230,Ống thông tiểu 16 Greetmed (10 dây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/ong-thong-tieu-16-16363.html
+1231,Kim lấy máu thử đường huyết Accu-Chek FastClik (24 kim),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/accucheck-fastclik-24-16375.html
+1232,Gel Stratamed điều trị vết thương hở (5g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/stratamed-5g-16417.html
+1233,"Bộ giác hơi không dùng lửa Duy Thành chữa trị các chứng đau lưng, đau ở vai",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/giac-hoi-khong-dung-lua-16484.html
+1234,Bơm tiêm sử dụng một lần Vinahankook 50ml/cc được khử trùng bằng khí E.O (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-50-16491.html
+1235,Bơm tiêm sử dụng một lần Vinahankook 20ml/cc được khử trùng bằng khí E.O (50 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-20-16492.html
+1236,Hộp phân liều thuốc 4 ngăn vuông lớn giúp phân chia liều lượng thuốc trong 1 ngày (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/chia-lieu-ngay-4-vuong-ngan-lon-16502.html
+1237,"Máy đo huyết áp bắp tay tự động Omron HEM-8712 công nghệ IntelliWrap, lưu kết quả đo lần cuối",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-ha-td-omron-hem8712-16505.html
+1238,"Đầu kim 26g Vinahankook sử dụng một lần dùng để tiêm chích, lấy máu, pha thuốc (100 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-kim-26-16547.html
+1239,"Đầu kim 18g Vinahankook sử dụng một lần dùng để tiêm chích, lấy máu, pha thuốc (100 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-kim-18-16550.html
+1240,Kim tiêm tiểu đường B.Braun Omnican 1ml/40 I.U màu đỏ dùng cho người tiểu đường (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-omnican-1ml40iu-do-16577.html
+1241,"Băng keo thun co giãn Urgo Crepe size 8cm x 4.5m cố định phẫu thuật chỉnh hình, dự phòng chấn thương cơ khớp",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgocrepe-8x45-16595.html
+1242,Que thử đường huyết Accu-Chek Active dùng cho máy Accu-Chek Active (50 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/accu-chek-active-50-cai-que-thu-duong-huyet-16636.html
+1243,"Vớ đùi y khoa Medi Duomed size L hỗ trợ điều trị giãn tĩnh mạch, phù chân, đau nhức chân (1 đôi)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-vo-dui-l-16647.html
+1244,"Vớ đùi y khoa Medi Duomed size S hỗ trợ điều trị giãn tĩnh mạch, phù chân, đau nhức chân (1 đôi)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-vo-dui-s-16648.html
+1245,"Vớ gối y khoa Duomed size M hỗ trợ điều trị suy tĩnh mạch, phù chân, đau nhức chân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-vo-goi-m-16649.html
+1246,Băng cuộn co giãn không đan dệt Urgoderm size 10cm x 10m đảm bảo cố định chắc chắn bông gạc và các y cụ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgoderm-10x10-16672.html
+1247,"Vớ gối y khoa Duomed size S hỗ trợ điều trị suy tĩnh mạch, phù chân, đau nhức chân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-vo-goi-s-16736.html
+1248,"Vớ gối y khoa Duomed size L hỗ trợ điều trị suy tĩnh mạch, phù chân, đau nhức chân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-vo-goi-l-16737.html
+1249,"Vớ đùi y khoa Medi Duomed size M hỗ trợ điều trị giãn tĩnh mạch, phù chân, đau nhức chân (1 đôi)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-vo-dui-m-16740.html
+1250,"Gạc lưới vô trùng chống dính UrgoTul size 5cm x 5cm băng các vết thương cấp tính, mãn tính (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgotul-5cmx5cm-16775.html
+1251,"Gạc lưới vô trùng chống dính UrgoTul size 15cm x 20cm băng các vết thương cấp tính, mãn tính (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgotul-15cm-x-20cm-16776.html
+1252,"Băng keo thun co giãn Urgo Crepe size 10cm x 4.5m cố định phẫu thuật chỉnh hình, dự phòng chấn thương cơ khớp",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-crepe-10x45-16786.html
+1253,Túi đựng nước tiểu Urine Bag An Phú có van khoá (10 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-dung-nuoc-tieu-16800.html
+1254,"Xịt mũi Sinomarin Adults Nose Care rửa xoang mũi, nghẹt mũi, sung huyết mũi (125ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sinomarin-125ml-16874.html
+1255,Que thử đường huyết Accu-Chek Active dùng cho máy Accu-Chek Active (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/accu-chek-active-25s-que-thu-duong-huyet-16922.html
+1256,"Nước muối Vĩnh Phúc Natriclorid 0.9% làm sạch răng, khử mùi hôi khoang miệng (500ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/natriclorid-suc-mieng-500ml-vinh-phuc-17049.html
+1257,Kim truyền tĩnh mạch cánh bướm 23 Vinahankook giúp cho kim không bị dịch chuyển (50 cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-buom-23-17178.html
+1258,Kim lấy máu tiệt trùng Accu-Chek Softclix sử dụng cho thiết bị lấy máu Accu-Chek Softclix (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/accu-chek-softclix-25-lancets-kim-lay-mau-17179.html
+1259,"Kéo thẳng 2 đầu nhọn Electro Bismed dùng để thay băng cho bệnh nhân, cắt gòn (18cm)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/keo-thang-17191.html
+1260,Bông y tế thấm nước Bạch Tuyết 100g dùng trong chăm sóc cá nhân và y tế (50 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gon-bach-tuyet-100gr-17249.html
+1261,Bông y tế thấm nước Bạch Tuyết 500g dùng trong chăm sóc cá nhân và y tế (24 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gon-bach-tuyet-05kg-17250.html
+1262,"Dây truyền dịch Braun dùng để truyền dịch, truyền thuốc cho người bệnh (10 dây)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/day-truyen-braun-17396.html
+1263,Hộp phân liều thuốc uống dùng trong 1 tuần (7 hộp dài),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/chia-lieu-tuan-17445.html
+1264,"Miếng dán giảm sốt, hạ nhiệt nhanh Bye Bye Fever Hisamitsu kéo dài đến 10 giờ (8 gói x 2 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bye-bye-fever-16-mieng-17480.html
+1265,"Bộ rửa mũi xoang Rinorin giảm viêm mũi dị ứng, viêm xoang mạn, cảm cúm (1 bình + 30 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-rua-mui-xoang-rinorin-1-binh-30-goi-17848.html
+1266,"Gel đặt giữ ẩm âm đạo Regelle Kora Healthcare 6.5g cải thiện khô, đau âm đạo (6 tuýp)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gel-dat-giu-am-am-dao-regelle-hop-6-tuyp-17976.html
+1267,Dung dịch làm mềm vết thương Prontosan Wound Gel B.Braun (30ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/prontosan-wound-gel-bottle-west-gel-dd-lam-mem-vet-thuong-braun-30ml-18333.html
+1268,Găng tay phẫu thuật Surgical Gloves 6.5 VGlove tránh lây truyền bệnh trong quá trình khám (1 đôi),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-phau-thuat-65-vglove-18813.html
+1269,Kem bôi dạng gel Relactagel Kora điều trị và phòng ngừa viêm âm đạo (7 tuýp),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/relactagel-hop-7-tuyp-x-5ml-lactate-vaginal-gel-18945.html
+1270,Que đè lưỡi gỗ tiệt trùng Lạc Việt Balac Wood Sticks xanh lá dùng để khám khoang miệng và cổ họng (100 cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/de-luoi-go-tiet-trung-lac-viet-100s-xanh-la-balac-wood-sticks-19018.html
+1271,"Bông y tế 6cm x 6cm (500g) Bảo Thạch làm sạch vết thương, thấm máu và dịch tiết",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-y-te-bao-thach-6cmx6cm-500gr-19077.html
+1272,Que thử đường huyết MediUSA TS3300 dùng cho máy đo đương huyết GM3300 kiểm tra nồng độ đường trong máu (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/blood-glucose-test-strips-ts3300-mediusa-25s-que-thu-duong-huyet-19160.html
+1273,Đai thắt lưng Olumba Orbe Size L màu ghi dự phòng tổn thương cột sống,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-that-lung-olumba-orbe-size-l-mau-ghi-19183.html
+1274,"Gạc y tế 10cm x 10cm x 6 lớp Bảo Thạch làm sạch các vết thương nhỏ, thấm máu và dịch tiết (100 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-y-te-bao-thach-10cm-x-10cm-x-6-lop-100-mieng-19231.html
+1275,Găng tay phẫu thuật VGlove size S màu xanh không bột (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-phau-thuat-vglove-khong-bot-size-s-100-chiec-mau-xanh-35g-19328.html
+1276,"Dung dịch nhỏ mắt Gilan Comfort Solopharm 0.4ml điều trị khô mắt, hội chứng Stevens Johnson (30 ống)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gilan-comfort-solopharm-30-ong-x-04ml-dd-nho-mat-boi-tron-bao-ve-mat-19345.html
+1277,Mặt nạ xông khí dung Greetmed Aerosol Mask size L (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/aerrosol-mask-size-l-mat-na-xong-khi-dung-19423.html
+1278,"Túi chườm đa năng Medione chườm nóng, sưởi ấm, chườm lạnh",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-chuom-da-nang-22882.html
+1279,"Pen gắp cong không mấu Electro Bismed dùng kẹp bông băng, băng gạc rửa vết thương (1 cái x 16cm)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/pen-gap-cong-khong-mau-size-16-cm.html
+1280,Viên đặt Zenella Med ngăn ngừa vi khuẩn gây viêm âm đạo (14 Viên),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/zenella-med-natur-14v-22970.html
+1281,"Kem bôi Atopshield Forte bảo vệ da khỏi dị ứng, viêm da cơ địa và làm giảm ngứa, kích ứng da (40ml) ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/atopshield-crab-sinergy-40ml-23043.html
+1282,"Túi đựng nước tiểu Urine Bag Greetmed tiện dụng, sạch sẽ, dễ sử dụng (10 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-dung-nuoc-tieu-greetmed-10-cai-23045.html
+1283,Máy đo đường huyết On Call Plus ACON - không kèm que,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/on-call-plus-acon-may-do-duong-huyet-23094.html
+1284,Chai hít Starbalm Sports Inhaler Novum thông mũi,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/chai-hit-starbalm-sports-inhaler-novum-11g-28837.html
+1285,"Khẩu trang trẻ em Thiên Thủy hỗ trợ ngăn khói, bụi, kháng khuẩn (8 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-tre-em-thien-thuy-goi-8-cai-28959.html
+1286,"Que thử rụng trứng LH-Tana hỗ trợ phát hiện ngày rụng trứng nhanh chóng, đơn giản (12 que)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/lh-tana-tanaphar-ovulation-test-strip-que-thu-rung-trung-hop-12-que-29169.html
+1287,"Chai lăn làm nóng Starbalm giúp cơ, khớp thư giãn, tăng tuần hoàn máu (75ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/chai-lan-lam-nong-starbalm-75ml-29218.html
+1288,"Khẩu trang y tế Mask Superfit Unicharm size M hỗ trợ ngăn khói, bụi, kháng khuẩn (100 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-3d-mask-superfit-unicharm-100-cai-29289.html
+1289,"Túi chườm đa năng Thiên Thanh chườm nóng, sưởi ẩm, chườm lạnh, giữ ấm 4 - 6 tiếng ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-chuom-da-nang-thien-thanh-loai-nho-29473.html
+1290,"Miếng dán chườm nóng, sưởi ấm Thiên Thanh dùng để giữ ấm trong mùa lạnh (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-suoi-am-thien-thanh-29567.html
+1291,Găng tay cao su y tế có bột Latex ASAP Malaysia Size S (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-co-bot-latex-asap-malaysia-size-s-hop-100-cai-29848.html
+1292,Dung dịch xịt mũi Humer 150 Nasal Hygiene vệ sinh khoang mũi hàng ngày (150ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/humer-nasal-hygiene-children-150ml-29914.html
+1293,Băng gạc vô trùng Non-Woven Wound Dressing 9cm x 10cm Young Chemical hỗ trợ bảo vệ vết thương (50 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-gac-vo-trung-young-wound-dressing-9x10cm-30280.html
+1294,Băng gạc vô trùng Non-Woven Wound Dressing 9cm x 15cm Young Chemical hỗ trợ bảo vệ vết thương (50 miếng) ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-gac-vo-trung-young-wound-dressing-9x15cm-30281.html
+1295,Băng gạc vô trùng Non-Woven Wound Dressing 9cm x 20cm Young Chemical Vina hỗ trợ bảo vệ vết thương (50 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-gac-vo-trung-young-wound-dressing-9x20cm-30282.html
+1296,Máy đo đường huyết Accu-Chek Guide đo nhanh chóng chỉ với một nút bấm và an toàn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-duong-huyet-accu-chek-guide-mgdl-30441.html
+1297,Que thử đường huyết Accu-Chek Guide theo dõi đường huyết (25 que),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-accu-chek-guide-25-que-30454.html
+1298,Đai lưng hỗ trợ cột sống size M (68-85cm) Bonbone Pro Hard Slim màu đen hỗ trợ điều trị đau thắt lưng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-lung-ho-tro-cot-song-bonbone-pro-hard-slim-mau-den-size-m-68-85cm-30845.html
+1299,Đai lưng hỗ trợ cột sống size L Bonbone Pro Hard Slim màu đen hỗ trợ điều trị đau thắt lưng (80-100cm),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-lung-ho-tro-cot-song-bonbone-pro-hard-slim-mau-den-size-l-80-100cm-30846.html
+1300,Đai cố định đầu gối free size Bonbone Thin PF Cross Belts hỗ trợ điều trị bệnh xương khớp,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-co-dinh-dau-goi-bonbone-thin-pf-cross-belts-free-size-30850.html
+1301,"Kim lấy máu Onetouch Delica Plus trích máu nhanh, không gây đau (25 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/onetouch-delica-plus-30g-25-cay-kim-lay-mau-31251.html
+1302,"Viên đặt phụ khoa Cerviron Innate điều trị các bệnh lý âm đạo, viêm cổ tử cung (10 viên)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vien-dat-phu-khoa-cerviron-31326.html
+1303,"Cồn 70 độ Vĩnh Phúc có vòi xịt diệt khuẩn dụng cụ y tế, bề mặt trong y tế (1000ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-70-do-vinh-phuc-co-voi-xit-1000ml-32308.html
+1304,"Muối Súc Miệng Họng BBM Plus Cát Linh kháng khuẩn, khử mùi, làm dịu (30 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/muoi-suc-mieng-hong-bbm-plus-cat-linh-30-goi-32322.html
+1305,"Dung dịch xịt mũi Nebial 3% Buona hỗ trợ điều trị cảm lạnh, viêm mũi, viêm xoang (100ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/buona-dung-dich-xit-mui-nebial-3-32735.html
+1306,"Dầu nóng Trường Sơn 10ml hỗ trợ các trường hợp chóng mặt, đau bụng, ho, cảm cúm (10 chai)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-nong-truong-son-10-chai-x-10-ml.html
+1307,"Dầu gió Trường Sơn 6ml dùng hỗ trợ trường hợp cảm, ho, sổ mũi, nhức đầu (12 chai)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-gio-truong-son-12-chai-x-6-ml.html
+1308,"Dầu Phật Linh 1.5ml Trường Sơn dùng hỗ trợ trường hợp cảm cúm, cảm ho, nhức đầu, nghẹt mũi (10 chai)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-phat-linh-truong-son-10-chai-x-1-5-ml.html
+1309,"Dầu Phật Linh 5ml Trường Sơn dùng hỗ trợ trường hợp cảm cúm, cảm ho, nhức đầu, nghẹt mũi (12 chai)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-phat-linh-truong-son-12-chai-x-5-ml.html
+1310,"Dầu gió Trường Sơn 2.5ml dùng hỗ trợ trong trường hợp cảm, ho, sổ mũi, nhức đầu (20 chai)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-gio-truong-son-20-chai-x-2-5-ml.html
+1311,"Dầu gió xanh Thiên Thảo 12ml Trường Sơn dùng hỗ trợ trong trường hợp cảm, ho, sổ mũi, nhức đầu (12 chai)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-gio-xanh-thien-thao-truong-son-12-chai-x-12-ml.html
+1312,"Dầu Cù Là Phong Thấp Chỉ Thống Cao Thiên Thảo 30g Trường Sơn giảm đau thần kinh tọa, phong thấp, đau khớp (12 lọ)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/cao-xoa-thien-thao-truong-son-12-lo-x-30-g.html
+1313,"Dung dịch bôi da Mycophar 12ml Nam Việt dùng cho nấm da, lác, lang ben",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-boi-da-mycophar-nam-viet-12-ml-dieu-tri-lac-lang-ben-nam-da.html
+1314,"Dây hút nhớt Hoàng Sơn size 16 fr dùng để hút dịch đờm trong khoang mũi, miệng, họng (500 mm)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/day-hut-nhot-hoang-son-size-16-fr-500-mm.html
+1315,"Gel Sát Khuẩn Tay Clinhands Gel 500ml Opodis Pharma chống lại các vi khuẩn, vi nấm gây bệnh lây nhiễm",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gel-sat-khuan-tay-clinhands-gel-500-ml.html
+1316,"Dung dịch xịt Good Night hỗ trợ giảm tình trạng mất ngủ, khó ngủ (20ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-xit-thao-duoc-good-night-20-ml-giup-ngu-ngon-giam-cang-thang.html
+1317,Bút tiêm aluetta Merck điều trị bệnh tiểu đường bằng insulin,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/but-tiem-aluetta-merck-1-x1.html
+1318,Kim tiêm Serofine Needles 30g Merck điều trị bệnh tiểu đường bằng insulin (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-tiem-serofine-needles-30-g-merck-1-x100.html
+1319,Kim tiêm Serofine Needles 29g Merck dùng cùng bút tiêm tiểu đường trong điều trị tiểu đường (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-tiem-serofine-needles-29-g-merck-1-x100.html
+1320,"Băng dán có gạc Urgosterile size 5cm x 7cm băng các vết thương do phẫu thuật, khâu, chấn thương (50 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosterile-5cm-x-7cm-50-mieng-bang-gac-37390.html
+1321,"Băng gạc tiệt trùng Urgosterile 10cm x 10cm bảo vệ vết trầy xước, vết cắt, vết thương (50 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosterile-10cm-x-10cm-50-mieng-bang-gac-37391.html
+1322,"Dây hút nhớt Hoàng Sơn size 8 FR - 500mm dùng để hút dịch đờm trong khoang mũi, miệng, họng",https://nhathuoclongchau.com.vn/thuoc/suction-catheter-day-hut-nhot-hoang-son-8fr-500mm-36478.html
+1323,Que thử Cholesterol FaCare FC-M168 kiểm tra nồng độ cholesterol (10 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-cholesterols-facare-model-fcm-168-hop-10-que.html
+1324,"Bộ phụ kiện máy xông Nebpro BioHealth dùng cho máy xông model NEB PRO hỗ trợ viêm mũi, viêm xoang",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-phu-kien-may-xong-nebpro-biohealth-34570.html
+1325,Máy đo nồng độ oxy trong máu SpO2 Metech - PC - 60A hỗ trợ đo nhanh chóng và chính xác,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-nong-do-oxy-trong-mau-spo2-metech-pc-60a-33657.html
+1326,Bộ Kim Cánh Bướm Tanako Tanaphar truyền tĩnh mạch có cánh định vị (100 bộ),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-kim-canh-buom-tanako-tanaphar-100-bo-33095.html
+1327,Kim lấy máu Linkfar Lancets 28g hỗ trợ lấy máu (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bloob-lancets-100pcs-30g-14816.html
+1328,"Sát khuẩn tay nhanh Clincare Opodis Pharma tiêu diệt 99,99% vi khuẩn, sát khuẩn tay nhanh (500ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/clincare-opodis-500-ml-dung-dich-sat-khuan-tay.html
+1329,"Đầu kim 23g Vinahankook sử dụng một lần dùng để tiêm chích, lấy máu, pha thuốc (100 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-kim-23-15886.html
+1330,"Khẩu trang sợi hoạt tính Kissy For Kids size S cho bé giúp lọc sạch không khí, ngăn bụi, khí ô nhiễm",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-kissy-forkids-s-15895.html
+1331,"Máy xông khí dung Omron NE-C801 kiểm soát hen suyễn, viêm phế quản mãn tính (1 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-xong-omron-ne-c801-16430.html
+1332,Máy đo huyết áp bắp tay tự động Omron HEM-7121 lưu 30 kết quả đo gần nhất,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-ha-td-omron-hem-7121-16506.html
+1333,Nhiệt kế đo ở trán Omron Forehead Thermometer MC-720 cho kết quả tức thì,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-omron-mc720-16639.html
+1334,"Bột Multidex 25g DeRoyal hỗ trợ điều trị viêm nhiễm da, làm lành các vết loét mãn tính",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/multidex-bot-25g-17062.html
+1335,Kim tiêm tĩnh mạch 22g/25mm Primaflon Lamed hạn chế lệch vỡ vein khi dẫn truyền dịch (100 cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-luon-22-17176.html
+1336,Dung dịch vệ sinh mũi không bao gồm bình Rohto NoseWash làm sạch sâu và kháng khuẩn (400ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/rohto-nose-wash-400ml-khong-bao-gom-binh-ve-sinh-mui-18098.html
+1337,Túi hậu môn Proxima Drainable B. Braun dùng đựng chất thải trong điều trị ung thư trực tràng (30 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/proxima-drainable-bbraun-30-tui-tui-hau-mon-1-manh-loai-xa-19984.html
+1338,Máy đo huyết áp cổ tay tự động Omron HEM-6161 ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/omron-hem-6161-may-do-huyet-ap-co-tay-tu-dong.html
+1339,"Cao dán giảm đau Fujisip 5cm x 7,5cm Thiên Ân giảm đau vai, đau lưng, đau khớp (10 miếng )",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/cao-dan-giam-dau-fujisip-hop-20-goi-29857.html
+1340,"Cao dán Fujisip Cool Thiên Ân giảm đau cơ, đau khớp, đau vai gáy, đau lưng (10 túi)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/cao-dan-fujisip-cool-hop-10-tui-29858.html
+1341,"Băng keo cuộn co giãn Non-Woven Fix Roll Plaster 10cm x 10m Young Chemical cố định ống truyền dẫn, truyền dịch (1 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-cuon-co-gian-fix-roll-10cmx10m-30271.html
+1342,Băng gạc vô trùng không thấm nước Sterile Adflex (With-Pad) 6cm x 7cm Young Chemical hỗ trợ bảo vệ vết thương (50 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-gac-vo-trung-khong-tham-nuoc-sterile-adflexwith-pad-6x7cm-30276.html
+1343,Băng gạc vô trùng Non-Woven Wound Dressing 9cm x 25cm Young Chemical hỗ trợ bảo vệ vết thương (50 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-gac-vo-trung-young-wound-dressing-9x25cm-30283.html
+1344,Đai lưng hỗ trợ cột sống size S (58-73cm) Bonbone Pro Hard Slim màu đen hỗ trợ điều trị đau thắt lưng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-lung-ho-tro-cot-song-bonbone-pro-hard-slim-mau-den-size-s-58-73cm-30844.html
+1345,Đai nẹp khuỷu tay Bonbone Elbow Support Free trợ lực cho khuỷu tay khi bị chấn thương,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-nep-khuyu-tay-bonbone-elbow-support-free-size-30847.html
+1346,Đai nẹp cổ tay free size Bonbone Wrist Supporter hỗ trợ cố định cổ tay,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-nep-co-tay-bonbone-wrist-supporter-free-size-30848.html
+1347,Đai nẹp mắt cá chân phải Bonbone Dragon Fly Ankle Brace size M giảm rung và chấn động khi hoạt động liên tục,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-phai-size-m-30852.html
+1348,Đai nẹp mắt cá chân trái Bonbone Dragon Fly Ankle Brace size M giảm rung và chấn động khi hoạt động liên tục,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-trai-size-m-30854.html
+1349,"Máy xông khí dung Omron NE-C28 kiểm soát hen suyễn, viêm phế quản mãn tính",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/omron-ne-c28-may-xong-khi-dung-30937.html
+1350,Máy đo nồng độ oxy trong máu Microlife Oxy 200 hỗ trợ đo nhanh chóng và chính xác,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/microlife-oxy-200-may-do-nong-do-oxy-trong-mau-30996.html
+1351,"Nhiệt kế điện tử Beurer Medical FT65 hỗ trợ đo ở các vị trí tai, trán, cơ thể (1 chiếc)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/beurer-ft65-may-nhiet-ke-dien-tu-do-tai-tran-31084.html
+1352,Kem Dexem Eczema Repair Cream điều trị các triệu chứng của bệnh chàm và dị ứng da (30g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dexem-eczema-repair-cream-30g-31204.html
+1353,"Nhiệt kế điện tử Beurer Medical FT90 đo nhiệt độ trán không tiếp xúc, đo nhiệt độ của đồ vật và phòng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/beurer-ft90-nhiet-ke-hong-ngoai-do-khong-can-tiep-xuc-31771.html
+1354,Máy đo nồng độ oxy trong máu (SPO2) Pulse Fingertip Oximeter A4 Oromi hỗ trợ đo nhanh chóng và chính xác,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-nhip-tim-va-nong-do-oxy-trong-mau-spo2-fingertip-pulse-oximeter-oromi-a4-31939.html
+1355,"Nhiệt kế hồng ngoại đo tai, trán AND A&amp;D Medical UT-801 đo nhanh, chính xác chỉ sau 1 giây",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-hong-ngoai-do-tai-tran-and-ut-801-31958.html
+1356,Bơm tiêm sử dụng 1 lần Insulin Vinahankook (100 ống),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-insulin-vinahook-1ml100lu-100-ong-32486.html
+1357,Bơm tiêm MPV 5ml/cc sử dụng 1 lần (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-mpv-5mlcc-100-cai-32530.html
+1358,"Khẩu trang 5 lớp VG95 ngăn ngừa dị vật, bụi mịn và siêu mịn",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-cao-cap-5-lop-vg95-kn95-loc-khuan-quai-deo-dieu-chinh-linh-hoat-hop-30-cai-33656.html
+1359,"Dầu gió Kim Linh 6ml dùng hỗ trợ trường hợp cảm cúm, cảm ho nhức đầu, sổ mũi (12 chai)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-gio-kim-linh-12-chai-x-6-ml.html
+1360,"Dầu nóng Thiên Thảo Trường Sơn 50ml giảm cơn đau, phong thấp, trặc đả, đau thần kinh tọa",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-nong-thien-thao-truong-son-50-ml-new-1.html
+1361,"Dung dịch xịt ngoài da Skin Herbal hỗ trợ giảm mày đay, mẩn ngứa, sưng tấy, chàm và vết bỏng nhẹ (20ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-xit-ngoai-da-skin-herbal-20-ml-giam-me-day-man-ngua-cham-vet-bong-nhe.html
+1362,"Vớ y khoa Mediven Thrombexin 18 size L làm tăng tốc độ tuần hoàn máu, phòng ngừa huyết khối cho bệnh nhân nằm bất động lâu",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-y-khoa-mediven-thrombexin-18-size-l.html
+1363,Buồng đệm khí dung BH05 Biohealth,https://nhathuoclongchau.com.vn/thuoc/buong-dem-khi-dung-bh05-biohealth-38099.html
+1364,"Dung dịch nhãn khoa Taurine-Solopharm 4% điều trị loạn dưỡng giác mạc, viêm giác mạc (20 tuýp x 0,4ml) ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/taurine-solopharm-4-20-tuyp-x-04ml-dung-dich-nhan-khoa-35587.html
+1365,"Khẩu trang sợi hoạt tính Kissy size L 3 lớp giúp lọc sạch không khí, ngăn bụi, khí ô nhiễm",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-kissy-l-15894.html
+1366,"Băng keo thun co giãn Urgo Crepe size 6cm x 4.5m cố định phẫu thuật chỉnh hình, dự phòng chấn thương cơ khớp",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgocrepe-6x45-16374.html
+1367,Dung dịch vệ sinh mũi Humer Urgo hỗ trợ vệ sinh mũi trong các bệnh tai mũi họng (18 ống x 5ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/humer-185ml-16700.html
+1368,"Gel bôi nhiệt miệng Oralmedic Mouth Ulcer Gel giảm đau và điều trị viêm loét, nhiệt miệng (0,3ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/oralmedic-mouth-ulcer-gel-hop-1-vi-03ml-18831.html
+1369,Dụng cụ đo huyết áp cơ Microlife BP AG1-20,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-cu-do-huyet-ap-co-bpag1-20-microlife-19352.html
+1370,Gel Hiruscar Silicone Pro Medinova làm mờ và nhạt màu vết sẹo (4g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/hiruscar-silicone-pro-medinova-4g-19402.html
+1371,"Ống thở Oxy Nasal Oxygen Cannula Greetmed size L an toàn, mềm mại, dễ sử dụng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nasal-oxygen-cannula-greetmed-size-l-ong-tho-oxy-21388.html
+1372,Gel Healit VHPharma thúc đẩy nhanh quá trình lành vết thương (15g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/healit-vhpharma-15g-gel-tri-vet-thuong-ho-21792.html
+1373,"Sát khuẩn tay nhanh Clincare Opodis Pharma tiêu diệt 99,99% vi khuẩn, sát khuẩn tay nhanh (70ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/clincare-s-h-opodis-70-ml-xit-sat-khuan-tay.html
+1374,"Dung dịch muối ưu trương nhỏ mũi Buona Nebial 3% giảm khô mũi, chống sung huyết mũi (20 ống)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nebial-3-ong-29793.html
+1375,"Băng keo cuộn co giãn Non-Woven Fix Roll Plaster 10cm x 2.5m Young Chemical cố định ống truyền dẫn, truyền dịch (1 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-cuon-co-gian-fix-roll-10cmx25m-30269.html
+1376,Băng gạc vô trùng không thấm nước Sterile Adflex (With-Pad) (10cm x 12cm) Young Chemical hỗ trợ bảo vệ vết thương (50 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-gac-vo-trung-khong-tham-nuoc-sterile-adflexwith-pad-10x12cm-30277.html
+1377,Đai nẹp cổ thoáng khí size M Bonbone Breathable Neck Supporter hỗ trợ cố định cổ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-nep-co-thoang-khi-bonbone-breathable-neck-supporter-size-m-30842.html
+1378,Đai hỗ trợ cố định đầu gối free size Bonbone Free Knee Supporter KI,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-ho-tro-co-dinh-dau-goi-bonbone-free-knee-supporter-kl-free-size-30849.html
+1379,Đai nẹp mắt cá chân phải size S Bonbone Dragon Fly Ankle Brace giảm rung và chấn động khi hoạt động liên tục,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-phai-size-s-30851.html
+1380,Đai nẹp mắt cá chân Bonbone Dragon Fly Ankle Brace size S giảm rung và chấn động khi hoạt động liên tục,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-nep-mat-ca-chan-bonbone-dragon-fly-ankle-barce-chan-trai-size-s-30853.html
+1381,Vớ đùi y khoa Medical Compression Stocking Model Classis I size S Biohealth ngăn ngừa phù nề ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-dui-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-s-30855.html
+1382,Vớ đùi y khoa Medical Compression Stocking Model Classis I size M Biohealth ngăn ngừa phù nề ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-dui-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-m-30856.html
+1383,Vớ gối y khoa Medical Compression Stocking Model Classic I Biohealth màu da size M điều trị giãn tĩnh mạch chân,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-goi-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-m-30859.html
+1384,Băng cá nhân dạng lỏng Urgo Little Cuts 3.25ml hỗ trợ điều trị các vết thương nhỏ trên bề mặt da,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-filmogel-little-cuts-325ml-bang-ca-nhan-dang-long-31629.html
+1385,Máy đo nồng độ oxy trong máu (SPO2) Fingertip Pulse Oximeter A3 hỗ trợ đo nhanh chóng và chính xác,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-nhip-tim-va-nong-do-oxy-trong-mau-spo2-fingertip-pulse-oximeter-a3-31780.html
+1386,Nhiệt kế đầu mềm Beurer FT15 đo nhiệt độ nhanh trong khoảng 10 giây,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-dau-mem-beurer-ft15-31959.html
+1387,Băng gạc vô trùng Urgo Burns And Grazes size 10cm x 7cm dùng cho các vết bỏng và vết thương bề mặt (50 miếng) ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-burns-grazes-10x7cm-15642.html
+1388,"Viên nội tiết tố Heragest - 400 hỗ trợ dự phòng sảy thai, vô sinh nữ, hội chứng tiền kinh nguyệt (1 vỉ x 10 viên)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vien-noi-tiet-to-heragest-400-healthwise-pharma-1-x10-dieu-tri-cac-roi-loan-do-thieu-progesterone-tram-cam-sau-sinh-hoi-chung-tien-kinh-nguyet.html
+1389,Hỗn dịch uống Gamucid ACM điều trị trào ngược dạ dày thực quản (20 gói x 15ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gamucid-acm-chong-trao-nguoc-da-day-thuc-quan-ofi-20-goi-x-15-ml.html
+1390,"Khẩu trang y tế cao cấp 3Hmask KN95 Vĩnh Tiến màu trắng hỗ trợ ngăn khói, bụi, kháng khuẩn (10 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-cao-cap-vinh-tien-kn95-3hmask-31715.html
+1391,"Miếng dán hạ sốt Licokid hương bạc hà hỗ trợ hạ nhiệt, hạ sốt, giảm đau (3 gói x 2 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-ha-sot-licokid-huong-bac-ha-3-goi-x-2-mieng.html
+1392,"Khẩu trang y tế cao cấp KN95 3Hmask Vĩnh Tiến màu trắng hỗ trợ ngăn khói, bụi, kháng khuẩn (12 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-cao-cap-vinh-tien-kn95-3hmask-12c-33402.html
+1393,Dung dịch thụt trực tràng Microclismi Nova Argentia điều trị táo bón (6 túi x 1 tuýp x 9g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/microclismi-9-g-6-ong.html
+1394,"Băng cá nhân Johnson's Band-Aid ngừa nhiễm trùng, giúp vết thương mau lành (50 miếng) ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-ca-nhan-band-aid-johnson-50-mieng-17523.html
+1395,Ống thông tiểu 18 Greetmed (10 dây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/ong-thong-tieu-18-greetmed-10-cai-20544.html
+1396,"Bộ quần áo phòng, chống dịch Protective Coverall bảo vệ cơ thể khỏi các tác nhân độc hại",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/hamita-bo-phong-dich-an-toan-protective-coverall-31151.html
+1397,Máy tạo oxy CR-P5W tăng cường lượng oxy trong môi trường sống (5 lít),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-tao-oxy-5-lit-carer-medical-oxygen-concentrator-cr-p5w-31769.html
+1398,"Khẩu trang y tế Niva Cup Ac95 Healthcare hỗ trợ ngăn khói, bụi, kháng khuẩn (20 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-niva-cup-ac95-hop-20-cai-31937.html
+1399,"Vớ chống thuyên tắc huyết khối VenaPure size M giúp tăng vận tốc lưu thông máu trong tĩnh mạch, phòng ngừa hình thành huyết khối",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-chong-thuyen-tac-huyet-khoi-venapure-size-m-ngan-dui-ho-ngon.html
+1400,"Vớ chống thuyên tắc huyết khối VenaPure size L giúp tăng vận tốc lưu thông máu trong tĩnh mạch, phòng ngừa hình thành huyết khối",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-chong-thuyen-tac-huyet-khoi-venapure-size-l-ngan-dui-ho-ngon.html
+1401,Vớ y khoa Mediven Thrombexin 18 size S phòng ngừa huyết khối cho bệnh nhân nằm bất động lâu,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-y-khoa-mediven-thrombexin-18-size-s.html
+1402,"Vớ y khoa Mediven Thrombexin 18 size M làm tăng tốc độ tuần hoàn máu, phòng ngừa huyết khối cho bệnh nhân nằm bất động lâu",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-y-khoa-mediven-thrombexin-18-size-m.html
+1403,Que test Quick Test DOA Multi 5 Drug Amvi (MOP – MDMA – KET – MET – THC) phát hiện chất gây nghiện có trong nước tiểu (15 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/quick-test-doa-multi-5-drug-amvi-mop-mdma-ket-met-thc-15-cai-1.html
+1404,Quick test Heroin-Morphine-Opiates Strip 4.0 Amvi phát hiện nhanh chất gây nghiện trong nước tiểu (50 cái),https://nhathuoclongchau.com.vn/thuoc/quick-test-heroin-morphine-opiates-amvi-strip-40-50-cai-37968.html
+1405,"Xịt mũi Bảo Tín Xoang hỗ trợ làm sạch, kháng viêm, giảm sổ mũi, ngạt mũi, viêm VA (15ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/chai-xit-mui-bao-tin-xoang-15ml-34860.html
+1406,Que thử đường huyết SD Check Gold Blood Glucose Test Strip dùng để đo lượng đường trong máu (50 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sd-check-gold-blood-glucose-test-strip-50-que-33259.html
+1407,Gel Troxevasin 2% Actavis điều trị tại chỗ suy giãn tĩnh mạch (40g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/troxevasin-1910.html
+1408,Vớ gối Medi Doumed size II CCL1 hỗ trợ điều trị suy tĩnh mạch,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-goi-mediven-size-ii-ccl1-14743.html
+1409,"Băng cá nhân không thấm nước Urgo Waterproof bảo vệ vết thương nhỏ, vết trầy xước, rách da (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-waterproof-10s-14873.html
+1410,"Vớ đùi y khoa Medi Duomed size XS hỗ trợ điều trị giãn tĩnh mạch, phù chân, đau nhức chân (1 đôi)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-vo-dui-xs-14933.html
+1411,"Vớ đùi y khoa Medi Duomed size XXL hỗ trợ điều trị giãn tĩnh mạch, phù chân, đau nhức chân (1 đôi)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-vo-dui-xxl-15018.html
+1412,"Vớ gối y khoa Duomed size XXL hỗ trợ điều trị suy tĩnh mạch, phù chân, đau nhức chân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-vo-goi-xxl-15038.html
+1413,Nẹp gối Knee Support 602 size II Medi giảm phù nề do chấn thương,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-nep-goi-knee-support-602-size-ii-15474.html
+1414,"Đai lưng Lumbamed Men Duomed size III Medi chuyên dùng cho bệnh lý thoát vị đĩa đệm, thoái hóa đốt sống",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-dai-lung-lubamed-men-size-iii-15475.html
+1415,"Đai lưng Lumbamed Basic Women size II Medi chuyên dùng cho bệnh lý thoát vị đĩa đệm, thoái hóa đốt sống",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-dai-lung-lumbamed-women-size-ii-15479.html
+1416,Băng cá nhân Urgo Resistant Antiseptic size 1.9cm x 7.2cm bảo vệ vết thương hàng ngày (100 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-resistant-antiseptic-100-mieng-bang-ca-nhan-khang-khuan-16592.html
+1417,"Băng gạc y tế vô trùng Urgosterile size 25cm x 9cm băng các vết thương khâu, vết trầy xước, vết cắt (20 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosterile-25cm-x-9cm-20-mieng-bang-gac-16781.html
+1418,Găng tay cao su y tế trơn có bột VGlove Size S (10 hộp x 100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-vglove-s-17267.html
+1419,Buồng đệm hít Babyhaler Philips giảm thiểu hao hụt thuốc hỗ trợ bệnh nhân hen suyễn (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/babyhaler-buong-dem-buong-hit-hen-suyen-cho-tre-17526.html
+1420,"Đai lưng Lumbamed Men Duomed size IV Medi chuyên dùng cho bệnh lý thoát vị đĩa đệm, thoái hóa đốt sống",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-dai-lung-lubamed-men-size-iv-18121.html
+1421,"Vớ gối y khoa Duomed size XS hỗ trợ điều trị suy tĩnh mạch, phù chân, đau nhức chân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-vo-goi-size-xs-20426.html
+1422,Băng thun 2 móc Urgoband hỗ trợ băng nén ép cầm máu (7.5cm x 4.5m),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgoband-75x45-bang-thun-2-moc-20743.html
+1423,Vớ tay y khoa Mediven size VII hỗ trợ điều trị bệnh phù bạch huyết,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mediven-vo-tay-size-vii-20762.html
+1424,"Thông Xoang Eugica 15ml hỗ trợ điều trị viêm xoang, viêm mũi, viêm đường hô hấp trên, giảm nghẹt mũi",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/thong-xoang-eugica-15ml-mega-20839.html
+1425,"Gel Venocontract Benostan hỗ trợ điều trị rối loạn tuần hoàn chi dưới, suy giãn tĩnh mạch (75ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/venocontract-gel-benostan-75ml-21618.html
+1426,Cồn 90 độ VP màu xanh hỗ trợ tiệt trùng các dụng cụ y tế (1000ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-90-do-vp-1000ml-xanh-21691.html
+1427,Đai cố định cổ chân size M - L Bonbone Free Ankle Supporter AM,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-co-dinh-co-chan-bonbone-free-ankle-supporter-am-size-m-l-21891.html
+1428,"Gel Strataderm for professional scar therapy 20g hỗ trợ điều trị sẹo mổ, sẹo cũ lâu năm",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/strataderm-scar-therapy-gel-20g-22362.html
+1429,Dung dịch rửa xoang AquaMed Sinus Rinse hỗ trợ vệ sinh mũi (1 bình + 15 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-rua-xoang-aquamed-sinus-rinse-1-binh-15-goi-22864.html
+1430,Muối rửa xoang AquaMed Sinus Rinse hỗ trợ điều trị xoang mũi (35 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/muoi-rua-xoang-aquamed-sinus-rinse-hop-35-goi-22865.html
+1431,"Bông y tế Bảo Thạch làm sạch vết thương, thấm máu và dịch tiết (25g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-y-te-bao-thach-25gr-22980.html
+1432,"Phun sương vệ sinh tai Raystan sạch ráy, hết ngứa (12ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/xit-phun-suong-ve-sinh-tai-raystan-dai-bac-12ml-23065.html
+1433,"Gạc y tế 5cm x 5cm x 8 lớp Bảo Thạch làm sạch các vết thương nhỏ, thấm máu và dịch tiết (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-y-te-bao-thach-5cmx5cmx8lop-10-mieng-27796.html
+1434,Găng tay cao su y tế có bột HTC Gloves Latex Size L (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-htc-gloves-latex-co-bot-size-l-28715.html
+1435,"Miếng dán Betaplast Silver Betadine hỗ trợ băng vết thương, thấm hút nước và có tấm bạc sát khuẩn (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-vet-thuong-betaplast-silver-10-mieng-20cmx20cmx05cm-28812.html
+1436,Găng tay cao su y tế có bột SH Glove Size M (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-y-te-co-bot-size-m-29251.html
+1437,Găng tay cao su y tế có bột SH Glove Size S (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-y-te-co-bot-size-s-29252.html
+1438,Găng tay cao su y tế có bột SH Glove Size L (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-co-bot-shglove-l-29259.html
+1439,Gel nhỏ mắt Clinitas 0.2% Medicom hỗ trợ cung cấp độ ẩm cho mắt (10g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/clinitas-gel-02-medicom-10g-gel-nho-mat-30834.html
+1440,Đầu đọc cầm tay FreeStyle Libre Abbott kiểm tra nồng độ đường huyết,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-doc-cam-tay-freestyle-libre-flash-glucose-monitoring-reader-he-thong-do-va-theo-doi-duong-huyet-30838.html
+1441,Bộ cảm biến Freestyle Libre Flash Glucose Monitoring Sensor Abbott kiểm tra đường huyết trong một giây,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-cam-bien-freestyle-libre-flash-glucose-monitoring-sensor-he-thong-do-va-theo-doi-duong-huyet-30839.html
+1442,Đai nẹp cổ thoáng khí size L Bonbone Breathable Neck Supporter hỗ trợ cố định cổ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-nep-co-thoang-khi-bonbone-breathable-neck-supporter-size-l-30843.html
+1443,"Bộ trang phục phòng, chống dịch cấp độ 3 Hamita bảo vệ cơ thể khỏi các chất độc hại, sự xâm nhập của virus, vi khuẩn",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/hamita-bo-trang-phuc-phong-chong-dich-cap-do-3-32102.html
+1444,"Gel bôi ngoài da Nociceptol Gel giảm đau, nhức, mỏi cơ, xương, khớp, chấn thương, giảm bầm tím, sưng nề (60ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nociceptol-gel-anti-douleur-polidis-60-ml.html
+1445,"Bộ trang phục bảo hộ Phú Quý bảo vệ khỏi bụi, hóa chất, vi khuẩn, virus (7 món)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-trang-phuc-bao-ho-phu-quy-7-mon-32771.html
+1446,"Gel dùng ngoài Nazorel Shampoo Ketoconazol hỗ trợ điều trị mẩn ngứa da đầu do gàu và nấm, viêm da (50 gói x 6ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-goi-tri-gau-nazorel-shampoo-ketoconazol-hop-50-goi-x-6ml-32620.html
+1447,Nước xịt khuẩn Steriplant 200ml làm sạch vết thương ngoài da và ngăn ngừa viêm loét,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nuoc-sat-khuan-steriplant-dang-xit-200ml-32666.html
+1448,Màng phim tránh thai VCF Botania có khả năng diệt tinh trùng mỗi lần giao hợp (3 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vcf-danapha-3-films-mang-films-tranh-thai-16766.html
+1449,Kính bảo hộ Toàn Đức GB 25K bảo vệ mắt,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kinh-bao-ho-toan-duc-gb-25k-18331.html
+1450,Que Thử Đường Huyết Safe - Accu Sinocare (50 que),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/safe-accu-sinocare-50-que-que-thu-duong-huyet-20759.html
+1451,Máy đo huyết áp bắp tay tự động Microlife B3 BT Bluetooth hỗ trợ đo huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-bap-tay-tu-dong-microlife-b3-bt-bluetooth-37090.html
+1452,Que thử đường huyết Easy Max cho kết quả trong 5 giây (50 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-easy-max-hop-50-cai-33401.html
+1453,Bơm tiêm tiểu đường BD Ultra -Fine II 3/10cc Becton (100 cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-bd-ultrafine-ii-03ml-16508.html
+1454,Gạc tiệt trùng Đại Minh 30cm x 30cm thấm hút vết thương,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-tiet-trung-dai-minh-30cm-x-30cm-dat-22463.html
+1455,"Băng Cuộn Bảo Thạch 0.09 x 2m thấm hút cao và nhanh, không gây kích ứng da (5 cuộn lớn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-cuon-bao-thach-lon-0-09-x-2-m-5-cuon.html
+1456,"Bông y tế Bảo Thạch 10g thấm hút cao và nhanh, mịn màng, mềm mại, không gây kích ứng da",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-y-te-bao-thach-10-g.html
+1457,Dung dịch nhãn khoa Tropine SION kiểm soát và làm chậm sự tiến triển của bệnh cận thị ở trẻ em (10ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-nho-mat-kiem-soat-can-thi-tropine-india-10ml-37616.html
+1458,"Combo đo đường huyết Easy Max cho&nbsp;kết quả nồng độ glucose trong máu nhanh, chính xác",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/combo-do-duong-huyet-easy-max-33432.html
+1459,Que thử đường huyết dùng cho máy đo đường huyết OgCare (25 Cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-ogcare-25-que-14548.html
+1460,"Gạc y tế tiệt trùng 8cm x 10cm x 12 lớp Bảo Thạch sơ cứu vết thương, thấm máu và dịch tiết (10 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-bao-thach-lon-17245.html
+1461,Xịt mũi Betadine Cold Defense Nasal Spray Kids 1+ 20ml dùng cho cảm cúm trẻ em,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/betadine-kids-1-nasal-spray-20ml-19594.html
+1462,Bộ đổi điện máy đo huyết áp Omron HHP-CM01-AP,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-doi-dien-may-do-huyet-ap-omron-hhp-cm01-ap-21791.html
+1463,"Dung dịch nhỏ mắt Gilan Ultra Comfort 0.4ml Solopharm điều trị khô mắt, hội chứng Stevens Johnson (30 ống)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gilan-ultra-comfort-30-ong-x-04ml-nho-mat-30915.html
+1464,Dung dịch nhỏ mắt Visiloton Farmak kích thích tái tạo màng nhầy của mắt (10ml),https://nhathuoclongchau.com.vn/thuoc/visiloton-farmak-10ml-31145.html
+1465,Cồn 90 độ Vĩnh Phúc tiệt trùng các dụng cụ y tế (500ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-90-do-vinh-phuc-500ml-32199.html
+1466,"Cồn 70 độ Vĩnh Phúc dùng để diệt khuẩn dụng cụ y tế, bề mặt trong y tế (500ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-70-do-vinh-phuc-500ml-32214.html
+1467,Nhũ tương nhỏ mắt DTP Relaxx 4+ CPC1HN làm giảm tình trạng viêm giác mạc nặng (20 ống x 0.4ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhu-tuong-nho-mat-dtp-relaxx-4-cpc-1-hn-20-ong-x-0-4-ml.html
+1468,Găng tay tiệt trùng số 8 PA bảo vệ bàn tay khỏi các tác nhân độc hại (50 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-tiet-trung-so-8-pa-50-goi.html
+1469,Nẹp ngón tay ngắn 3 chân Gia Hưng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-ngon-tay-ngan-3-chan-gia-hung.html
+1470,"Nẹp Iselin Gia Hưng 25cm cố định khớp ngón tay, bảo vệ gãy xương đốt tay ngoại biên",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-iselin-gia-hung-25-cm-1.html
+1471,"Nẹp đùi ngắn Gia Hưng Size 7 hỗ trợ cho các trường hợp bị gãy chân, bong gân, xoắn cơ, rách cơ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-dui-ngan-gia-hung-size-7.html
+1472,"Nẹp đùi dài Gia Hưng Size 8 cố định vùng quanh khớp gối, đùi và cẳng chân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-dui-dai-gia-hung-size-8.html
+1473,"Nẹp đùi dài Gia Hưng Size 7 cố định vùng quanh khớp gối, đùi và cẳng chân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-dui-dai-gia-hung-size-7-1.html
+1474,Nẹp cổ mềm Gia Hưng Size 5 dùng trong chấn thương cổ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-co-mem-gia-hung.html
+1475,"Nẹp cổ cứng người lớn Gia Hưng Size 3 hỗ trợ cơ cổ, trẹo nhẹ hoặc căng cổ quá mức",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-co-cung-nguoi-lon-gia-hung-size-3.html
+1476,"Nẹp chống xoay dài Gia Hưng Size 2 cố định, ổn định khớp cổ chân sau chấn thương, sau mổ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-chong-xoay-so-2-gia-hung.html
+1477,"Nẹp chống xoay ngắn Gia Hưng Size 3 cố định, ổn định khớp cổ chân sau chấn thương, sau mổ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-chong-xoay-ngan-gia-hung-size-3-1.html
+1478,"Nẹp chống xoay ngắn Gia Hưng Size 2 cố định, ổn định khớp cổ chân sau chấn thương, sau mổ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-chong-xoay-ngan-gia-hung-size-2.html
+1479,"Nẹp cánh bàn tay Gia Hưng Size 4 - Bên phải - cố định gãy xương, trật khớp",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-4-phai.html
+1480,"Nẹp cánh bàn tay Gia Hưng Size 9 - Bên trái - cố định gãy xương, trật khớp",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-9-trai.html
+1481,"Nẹp cánh bàn tay Gia Hưng Size 9 - Bên phải - cố định gãy xương, trật khớp ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-9-phai.html
+1482,"Nẹp cánh bàn tay Gia Hưng Size 8 - Bên trái - cố định gãy xương, trật khớp ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-8-trai.html
+1483,"Nẹp cánh bàn tay Gia Hưng Size 8 - Bên phải - cố định gãy xương, trật khớp",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-8-phai.html
+1484,"Nẹp cánh bàn tay Gia Hưng Size 7 - Bên trái - cố định gãy xương, trật khớp",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-7-trai-1.html
+1485,"Nẹp cánh bàn tay Gia Hưng Size 7 - Bên phải - cố định gãy xương, trật khớp ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-7-phai.html
+1486,"Nẹp cánh bàn tay Gia Hưng Size 6 - Bên trái -  cố định gãy xương, trật khớp",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-6-trai.html
+1487,"Nẹp cánh bàn tay Gia Hưng Size 6 - Bên phải - cố định gãy xương, trật khớp ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-6-phai.html
+1488,"Nẹp cánh bàn tay Gia Hưng Size 5 - Bên trái - cố định gãy xương, trật khớp",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-5-trai-1.html
+1489,"Nẹp cánh bàn tay Gia Hưng Size 5 - Bên phải - cố định gãy xương, trật khớp ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-canh-ban-tay-gia-hung-size-5-phai.html
+1490,"Nẹp cẳng tay dài Gia Hưng Size 8 - Bên trái - cố định chấn thương gãy xương, bong gân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-8-trai.html
+1491,"Nẹp cẳng tay dài Gia Hưng Size 8 - Bên phải - cố định chấn thương gãy xương, bong gân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-8-phai.html
+1492,"Nẹp cẳng tay dài Gia Hưng Size 7 - Bên trái - cố định chấn thương gãy xương, bong gân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-7-trai.html
+1493,"Nẹp cẳng tay dài Gia Hưng Size 7 - Bên phải - cố định chấn thương gãy xương, bong gân ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-7-phai.html
+1494,"Nẹp cẳng tay dài Gia Hưng Size 6 - Bên Trái - cố định chấn thương gãy xương, bong gân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-6-trai.html
+1495,"Nẹp cẳng tay dài Gia Hưng Size 6 - Bên phải - cố định chấn thương gãy xương, bong gân ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-6-phai.html
+1496,"Nẹp cẳng tay dài Gia Hưng Size 5 - Bên trái - cố định chấn thương gãy xương, bong gân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-5-trai.html
+1497,"Nẹp cẳng tay dài Gia Hưng Size 5 - Bên phải - cố định chấn thương gãy xương, bong gân cẳng tay, cổ tay và bàn tay",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-5-phai.html
+1498,"Nẹp cẳng tay dài Gia Hưng Size 4 - Bên trái - cố định chấn thương gãy xương, bong gân cẳng tay, cổ tay và bàn tay",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-4-trai.html
+1499,"Nẹp cẳng tay dài Gia Hưng Size 4 - Bên phải - cố định chấn thương gãy xương, bong gân cẳng tay, cổ tay và bàn tay",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-4-phai.html
+1500,"Nẹp cẳng tay dài Gia Hưng Size 3 - Bên trái - cố định chấn thương gãy xương, bong gân cẳng tay, cổ tay và bàn tay",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-3-trai.html
+1501,"Nẹp cẳng tay dài Gia Hưng Size 3 - Bên phải - cố định chấn thương gãy xương, bong gân cẳng tay, cổ tay và bàn tay",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-3-phai.html
+1502,"Nẹp cẳng chân ngắn Gia Hưng Size 3 cố định, ổn định khớp cổ chân sau chấn thương, sau mổ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-chan-ngan-gia-hung-size-3.html
+1503,"Nẹp cẳng chân ngắn Gia Hưng size 2 cố định, ổn định khớp cổ chân sau chấn thương, sau mổ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-chan-ngan-gia-hung-size-2.html
+1504,Mặt Nạ Xông Khí Dung Greetmed Aerosol Mask Size XL hấp thu được lượng lớn dung dịch xông ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/greetmed-aerosol-mask-size-xl-mat-na-xong-khi-dung.html
+1505,Mask Oxy Có Túi Greetmed Size L kết nối giữa hệ thống cung cấp khí oxy với bệnh nhân,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mask-oxy-co-tui-greetmed-size-l-1.html
+1506,Mask Oxy Có Túi Greetmed Size S kết nối giữa hệ thống cung cấp khí oxy với bệnh nhân,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mask-oxy-co-tui-greetmed-size-s.html
+1507,"Gậy 4 Chân Inox Đức Cường hỗ trợ đi lại, vận động cho người lớn tuổi, người bị chấn thương ở chân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gay-4-chan-inox-duc-cuong.html
+1508,"Dây Treo Tay Vải Gia Hưng Size 5 hỗ trợ tay sau chấn thương, gãy xương ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/day-treo-tay-vai-gia-hung-size-5.html
+1509,Dây Oxy 2 Ngã (S) Greetmed truyền oxy từ bình dưỡng khí cho bệnh nhân ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/day-oxy-2-nga-s-greetmed-1.html
+1510,"Dây Hút Đàm Nhớt Greetmed hút dịch đờm trong khoang mũi, miệng, họng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/day-hut-dam-nhot-6-greetmed.html
+1511,Đai Xương Đòn Gia Hưng Size 6 hỗ trợ cố định xương đòn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-xuong-don-gia-hung-size-6-1.html
+1512,Đai Xương Đòn Gia Hưng Size 9 hỗ trợ cố định xương đòn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-xuong-don-gia-hung-size-9-1.html
+1513,Đai Xương Đòn Gia Hưng Size 8 hỗ trợ cố định xương đòn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-xuong-don-gia-hung-size-8.html
+1514,Đai Xương Đòn Gia Hưng Size 7 hỗ trợ cố định xương đòn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-xuong-don-gia-hung-size-7.html
+1515,Đai Xương Đòn Gia Hưng Size 5 hỗ trợ cố định xương đòn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-xuong-don-gia-hung-size-5.html
+1516,Đai Xương Đòn Gia Hưng Size 4 hỗ trợ cố định xương đòn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-xuong-don-gia-hung-size-4.html
+1517,Đai Xương Đòn Gia Hưng Size 3 hỗ trợ cố định xương đòn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-xuong-don-gia-hung-size-3.html
+1518,Đai Xương Đòn Gia Hưng Size 2 hỗ trợ cố định xương đòn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-xuong-don-gia-hung-size-2.html
+1519,Đai Xương Đòn Gia Hưng Size 10 hỗ trợ cố định xương đòn,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-xuong-don-gia-hung-size-10.html
+1520,Đai Thắt Lưng Cao Cấp Olumba Size XXL dự phòng tổn thương cột sống thắt lưng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-that-lung-cao-cap-olumba-size-xxl.html
+1521,Đai Thắt Lưng Cao Cấp Olumba Size S dùng dự phòng tổn thương cột sống thắt lưng,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-that-lung-cao-cap-olumba-size-s.html
+1522,Đai Cột Sống L1 Gia Hưng Size 6 giảm chịu lực cột sống,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-lung-dai-cot-song-so-6-gia-hung-1.html
+1523,"Đai Desautl Gia Hưng Size 8 (phải) cố định, ổn định khớp vai",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-desautl-gia-hung-size-8-phai.html
+1524,"Đai Desautl Gia Hưng Size 7 (phải) cố định, ổn định khớp vai",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-desautl-gia-hung-size-7-phai.html
+1525,"Đai Desautl Gia Hưng Size 9 (Áo Desautl phải) cố định, ổn định khớp vai",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-desai-so-9-ao-desai-phai-gia-hung.html
+1526,"Đai Desautl Gia Hưng Size 8 (Áo Desautl Trái) cố định, ổn định khớp vai",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-desai-so-8-ao-desai-trai-gia-hung.html
+1527,"Đai Desautl Gia Hưng Size 6 (Áo Desautl trái) cố định, ổn định khớp vai",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-desai-so-6-ao-desai-trai-gia-hung.html
+1528,"Đai Desautl Gia Hưng Size 6 (Áo Desautl phải) cố định, ổn định khớp vai",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-desai-so-6-ao-desai-phai-gia-hung.html
+1529,"Đai Desautl Gia Hưng Size 5 (Áo Desautl trái) cố định, ổn định khớp vai",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-desai-so-5-ao-desai-trai-gia-hung.html
+1530,"Đai Desault Số 5 Phải Gia Hưng cố định, ổn định khớp vai",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-desai-so-5-ao-desai-phai-gia-hung.html
+1531,Đai Cột Sống L1 Gia Hưng Size 9 giảm chịu lực cột sống ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-cot-song-l1-gia-hung-size-9.html
+1532,Đai Cột Sống L1 Gia Hưng Size 8 giảm chịu lực cột sống,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-cot-song-l1-gia-hung-size-8.html
+1533,Đai Cột Sống L1 Gia Hưng Size 7 giảm chịu lực cột sống,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-cot-song-l1-gia-hung-size-7.html
+1534,Đai Cột Sống Gia Hưng Size 7 giảm chịu lực cột sống,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-cot-song-gia-hung-size-7.html
+1535,Đai Cột Sống Gia Hưng Size 6 giảm chịu lực cột sống,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-cot-song-gia-hung-size-6.html
+1536,Đai Cột Sống Gia Hưng Size 5 giúp giảm chịu lực cột sống,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dai-cot-song-gia-hung-size-5.html
+1537,"Dây hút nhớt có kiểm soát Control Suction Catheter Greetmed Size 16 hút dịch đờm trong khoang mũi, miệng, họng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/day-hut-nhot-co-kiem-soat-control-suction-catheter-greetmed-size-16.html
+1538,"Băng Thun Khuỷu Tay Gia Hưng có độ co giãn tốt, cùng với hệ thống khóa Velcro",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-thun-khuyu-tay-gia-hung.html
+1539,Băng Thun Cổ Chân Gia Hưng Size 3 độ co giãn tốt cùng với hệ thống khóa Velcro ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-thun-co-chan-gia-hung-size-3.html
+1540,"Băng Cuộn Bảo Thạch 0.07 x 1.5m thấm hút cao và nhanh, không gây kích ứng da (5 cuộn nhỏ)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-cuon-bao-thach-nho-0-07-x-1-5-m-5-cuon.html
+1541,"Bông Y Tế Bảo Thạch 5g thấm hút cao và nhanh, mịn màng, mềm mại, không gây kích ứng da",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-y-te-bao-thach-5-g.html
+1542,"Dây hút nhớt Hoàng Sơn size 12 fr dùng để hút dịch đờm trong khoang mũi, miệng, họng (500 mm)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/day-hut-nhot-hoang-son-size-12-fr-500-mm.html
+1543,Nhiệt kế thủy tinh Aurora HMP 6001-A/B đo thân nhiệt có vạch chia độ rõ nét (12 Cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-thuy-tinh-do-than-nhiet-aurora-hmp-6001-ab-36532.html
+1544,Máy xông khí dung Microlife NEB Pro hỗ trợ điều trị các bệnh về đường hô hấp,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-xong-khi-dung-microlife-neb-pro-34880.html
+1545,"Kem bôi Algonerv Crema 75ml giảm đau thần kinh Zona, hiệu quả trong 3 - 5 ngày ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kem-giam-dau-than-kinh-ngoai-bien-algonerv-crema-hoang-son-75-ml.html
+1546,Nước muối sinh lý Biduphar Natri Clorid 0.9% dùng để súc miệng hằng ngày (20 chai),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/natri-clorid-09-biduphar-500ml-nuoc-muoi-sinh-ly-33555.html
+1547,Kim lấy máu Blood Lancets Greetmed dùng cho máy đo đường huyết (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-lay-mau-dung-cho-may-tieu-duong-greetmed-30g-hop-100-cai-33398.html
+1548,"Bộ kit test nước bọt Covid-19 Antigen Rapid độ nhạy lên đến 96%, độ đặc hiệu 99% (20 kit)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kit-test-nuoc-bot-covid-19-antigen-rapid-ediagnosis-hop-20-cai-33256.html
+1549,Má́y thử đường huyết Easy Max MU hỗ trợ đo lượng đường trong máu,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-thu-duong-huyet-easy-max-mu-33167.html
+1550,Bộ vệ sinh mũi gồm bình NoseWash Rohto làm sạch sâu và kháng khuẩn (400ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/rohto-nose-wash-400ml-14236.html
+1551,Kim lấy máu Onetouch Ultra Soft Lancets dùng cho máy đo đường huyết (25 cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/onetouch-ultra-soft-lancets-25cay-15522.html
+1552,Que thử thai điện tử Quickstick One - Step Prehnancy Test Phamatech cho kết quả lên đến 99%,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/quickstick-one-step-prehnancy-test-phamatech-17k-15556.html
+1553,"Băng gạc y tế vô trùng Urgosterile size 20cm x 9cm băng các vết thương khâu, vết trầy xước, vết cắt (20 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bcn-urgosterile-20x9cm-16090.html
+1554,Kim BD Ultra-Fine II 0.5Ml Becton tiêm tiểu đường (100 cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-bd-ultra-fine-ii-05ml-16366.html
+1555,"Băng gạc Urgosterile size 10cm x 7cm vô trùng, thoáng khí, khả năng thấm hút cao (50 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosterile-10cm-x7cm-50s-16441.html
+1556,Kim BD Ultra-Fine II 1ml Becton tiêm Insulin cho người bệnh tiểu đường (100 cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-bd-ultra-fine-ii-1ml-16507.html
+1557,"Băng dán có gạc Urgosterile size 5.3cm x 7cm băng các vết thương do phẫu thuật, khâu, chấn thương (50 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosterile-53cmx7cm50s-16536.html
+1558,"Băng gạc y tế vô trùng Urgosterile 10cm x 9cm băng các vết thương khâu, vết trầy xước, vết cắt (50 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosterile-10cm-x-9cm-50s-16537.html
+1559,Que thử thai điện tử QuickStick One-Step Pregnancy Test Phamatech cho kết quả trong 5 phút (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/quickstick-one-step-pregnancy-test-16920.html
+1560,"Bông viên đa dụng Kotton Beauty Bạch Tuyết làm sạch da, tẩy trang, vệ sinh móng (80g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gon-vien-bach-tuyet-80g-17246.html
+1561,Bông y tế thấm nước Bạch Tuyết 1kg dùng trong chăm sóc cá nhân và y tế (12 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gon-bach-tuyet-1kg-17248.html
+1562,Gạc tẩm cồn Alcohol Pads Greetmed làm sạch da và chống lại vi khuẩn (100 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/alcohol-pads-17558.html
+1563,Bộ đổi điện Adapter MediUSA dùng cho máy đo huyết áp (1 bộ),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/adapter-mediusa-1-bo-bo-doi-dien-dung-cho-may-do-huyet-ap-19933.html
+1564,"Băng thun y tế 0,1m x 1m Bảo Thạch ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-thun-y-te-bao-thach-01mx1m-20060.html
+1565,Kim bướm 25 Vinahankook truyền tĩnh mạch (50 Cây),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-buom-25-vinahankook-50-cay-21608.html
+1566,Bông Gòn Bạch Tuyết 10g dùng để lau vết thương (25 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gon-bach-tuyet-10gr-25-goi-22462.html
+1567,"Que đè lưỡi gỗ Tanaphar dùng để khám miệng, lưỡi, họng (100 que)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-de-luoi-go-tanaphar-100-que-22769.html
+1568,Túi hậu môn nhân tạo Softomy Tanaphar hỗ trợ cho việc bài tiết ở những người bệnh về hệ bài tiết (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/softomy-colostomy-bag-tanaphar-100pcs-size-60-tui-hau-mon-nhan-tao-28241.html
+1569,Bộ trang phục phòng dịch 7 món Bảo Thạch bảo vệ cơ thể khỏi xâm nhập của virus,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-trang-phuc-phong-dich-7-mon-bao-thach-xanh-29017.html
+1570,Vớ đùi y khoa Medical Compression Stocking size L BioHealth chống giãn tĩnh mạch - màu da ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-dui-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-l-30857.html
+1571,Vớ gối y khoa Medical Compression Stocking Model Classic I Biohealth size L màu da điều trị giãn tĩnh mạch chân,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-goi-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-l-30860.html
+1572,"Que thử đường huyết On Call Vivid phản ứng với đường glucose trong máu, kết quả chính xác cao (25 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/on-call-vivid-25-cai-que-thu-duong-huyet-31256.html
+1573,"Khẩu trang y tế TLR màu xanh 3 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-3-lop-tlr-hop-50-cai-31724.html
+1574,Găng tay thăm khám dùng trong y tế Super Care Latex Powdered Examination Gloves Size S (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-y-te-co-bot-super-care-latex-powdered-examination-gloves-size-s-hop-100-cai-31750.html
+1575,Máy đo nồng độ oxy trong máu (SPO2) kẹp ngón tay Fingertip Pulse Oximeter A2 hỗ trợ đo nhanh chóng và chính xác,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-nong-do-oxy-spo2-kep-ngon-tay-fingertip-pulse-oximeter-a2-31976.html
+1576,Cồn 90 độ Vĩnh Phúc tiệt trùng các dụng cụ y tế (1000ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-90-do-vinh-phuc-1000ml-32201.html
+1577,"Cồn 70 độ Vĩnh Phúc dùng để diệt khuẩn dụng cụ y tế, bề mặt trong y tế (1000ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/con-70-do-vinh-phuc-1000ml-32216.html
+1578,Bộ đổi điện AC cho máy đo huyết áp AND (AX-TB233C-EC),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-doi-dien-ac-cho-may-do-huyet-ap-and-ax-tb233c-ec-32778.html
+1579,Combo đo đường huyết MediUSA cho kết quả nồng độ glucose trong máu,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/combo-do-duong-huyet-mediusa-28940.html
+1580,"Bông y tế Bảo Thạch Châu Ngọc Thạch làm sạch các vết thương, thấm máu và dịch tiết (3cm x 3cm gói 500g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-y-te-bao-thach-chau-ngoc-thach-3-cm-x-3-cm-goi-500-g.html
+1581,"Nẹp cổ tay H1 Orbe Hameco bên trái size L hỗ trợ cố định xương khớp sau mổ, chấn thương vùng cổ tay",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-co-tay-h1-orbe-ben-trai-size-l.html
+1582,"Nẹp cổ tay H1 Orbe Hameco bên phải size L hỗ trợ cố định xương khớp sau mổ, chấn thương vùng cổ tay",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-co-tay-h1-orbe-ben-phai-size-l.html
+1583,"Miếng dán hạ sốt Licokid hương táo giúp hạ nhiệt, hạ sốt, giảm đau, say nắng (6 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-ha-sot-licokid-huong-tao-3-goi-x-2-mieng.html
+1584,"Miếng dán hạ sốt Licokid hương chanh giúp hạ nhiệt, hạ sốt, giảm đau, say nắng (6 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mieng-dan-ha-sot-licokid-huong-chanh-3-goi-x-2-mieng.html
+1585,"Túi treo tay Gia Hưng size 8 hỗ trợ điều trị gãy xương, chấn thương ở cẳng tay, khớp vai",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-treo-tay-l1-gia-hung-size-8.html
+1586,"Nẹp ngón tay Gia Hưng cố định khớp ngón tay, gãy xương đốt ngón tay",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-ngon-tay-gia-hung.html
+1587,"Nẹp chống xoay dài Gia Hưng Size 1 cố định, ổn định khớp cổ chân sau chấn thương, sau mổ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-chong-xoay-dai-gia-hung-size-1-1.html
+1588,"Nẹp cẳng tay dài Gia Hưng Size 8 - Bên phải - cố định chấn thương gãy xương, bong gân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-dai-gia-hung-size-8-phai.html
+1589,"Nẹp cẳng tay dài Gia Hưng Size 9 - Bên trái - cố định chấn thương gãy xương, bong gân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-tay-gia-hung-size-9-trai.html
+1590,"Nẹp cẳng chân ngắn Gia Hưng Size 1 cố định, ổn định khớp cổ chân sau chấn thương, sau mổ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-cang-chan-ngan-gia-hung-size-1.html
+1591,Mask Thanh Quản Số 5 Greetmed thông đường thở trên cho người bệnh,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mask-thanh-quan-so-5-greetmed.html
+1592,Mask Oxy Có Túi Greetmed Size M kết nối giữa hệ thống cung cấp khí oxy với bệnh nhân,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mask-oxy-co-tui-greetmed-size-m.html
+1593,"Dây Treo Tay Vải Gia Hưng Size 6 hỗ trợ tay sau chấn thương, gãy xương",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/day-treo-tay-vai-gia-hung-size-6.html
+1594,"Băng thun cổ tay Gia Hưng độ co giãn tốt, cùng với hệ thống khóa Velcro",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-thun-co-tay-gia-hung.html
+1595,Kit test Covid OnSite dùng xét nghiệm định tính kháng nguyên vi rút SARS-CoV-2,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kit-test-covid-onsite-usa-khay-thu-xet-nghiem-khang-nguyen-sars-cov-2.html
+1596,"Vớ y khoa Mediven Thrombexin 18 size M làm tăng tốc độ tuần hoàn máu, phòng ngừa huyết khối cho bệnh nhân nằm bất động lâu",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-y-khoa-mediven-thrombexin-18-size-m-1.html
+1597,"Vớ y khoa Mediven Thrombexin 18 size XL làm tăng tốc độ tuần hoàn máu, phòng ngừa huyết khối cho bệnh nhân nằm bất động lâu",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-y-khoa-mediven-thrombexin-18-size-xl.html
+1598,"Dung dịch nhãn khoa Taustin Taurine 4% Solopharm điều trị loạn dưỡng giác mạc, viêm giác mạc (30 ống x 1ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/taustin-taurine-4-solopharm-30-ong-x-1-ml.html
+1599,Gạc tẩm cồn Alcohol Pads Greetmed làm sạch da và chống lại vi khuẩn (100 miếng),https://nhathuoclongchau.com.vn/thuoc/gac-tam-con-alcohol-pads-greetmed-hop-100-mieng-36670.html
+1600,Que thử đường huyết Easy Max dạng vỉ cho kết quả trong 5 giây (50 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-easy-max-hop-50-cai-foil-pack-1.html
+1601,Que thử đường huyết Easy Max dạng vỉ cho kết quả trong 5 giây (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-easy-max-hop-25-cai-foil-pack-1.html
+1602,Que thử đường huyết FaCare TD-4277 And FC-G168 (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-duong-huyet-facare-dung-cho-may-td-4277-and-fc-g168-hop-25-que.html
+1603,Máy đo đường huyết FaCare+ FC-G168 Bluetooth hỗ trợ đo nồng độ đường huyết trong máu,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-duong-huyet-facare-td-4277-and-fc-g168-bluetooth.html
+1604,Mặt nạ xông khí dung Nebulizer Mask (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mat-na-xong-khi-dung-nebulizer-mask-35465.html
+1605, Máy thử đường huyết Onetouch Ultra Plus Flex LifeScan (Mmol/l),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-thu-duong-huyet-onetouch-ultra-plus-flex-mmoll-35202.html
+1606,Máy thử đường huyết Onetouch Ultra Plus Flex LifeScan (MG/DL),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-thu-duong-huyet-onetouch-ultra-plus-flex-mgdl-35201.html
+1607,Máy hút mũi điện tử Co-Clean Bear COBR-100 giúp vệ sinh mũi một cách nhanh chóng và hiệu quả,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-hut-mui-dien-tu-tre-em-co-clean-bear-gau-xanh-cobr-100-34826.html
+1608,Máy hút mũi điện tử Co-Clean Duck CODK-100 giúp vệ sinh mũi một cách nhanh chóng và hiệu quả,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-hut-mui-dien-tu-tre-em-co-clean-duck-vit-vang-codk-100-34827.html
+1609,"Khẩu trang y tế KJ Mask màu trắng 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-4-lop-kj-mask-mau-trang-34571.html
+1610,Dung dịch sát khuẩn đa năng BNP hương cam tiêu diệt 99.9% các loại vi khuẩn và nấm mốc gây hại (250ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-sat-khuan-da-nang-bnp-huong-cam-chai-xit-250ml-34464.html
+1611,Dung dịch sát khuẩn đa năng BNP tiêu diệt 99.9% các loại vi khuẩn và nấm mốc gây hại (100ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-sat-khuan-da-nang-bnp-huong-cam-chai-xit-100ml-34466.html
+1612,"Khẩu trang y tế KJ Mask màu đen 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-4-lop-kj-mask-mau-den-33888.html
+1613,"Bộ kit test nhanh Covid-19 Ag Biocredit - Korea cho kết quả nhanh chóng, chính xác",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kit-test-covid-biocredit-korea-khay-thu-xet-nghiem-khang-nguyen-sars-cov-2-33768.html
+1614,"Bộ kit test nhanh Covid Toda Coronadiag Ag độ nhạy lên tới 98,6%, độ đặc hiệu 100% (20 kit)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kit-test-covid-toda-phap-khay-thu-xet-nghiem-khang-nguyen-sars-cov-2-33539.html
+1615,Que thử thai Quickstrip Hcg Strip An Phú phát hiện sớm thai kỳ 7 - 10 ngày sau khi thụ thai,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-thai-quickstrip-hcg-strip-phat-hien-thai-som-an-phu-33282.html
+1616,Má́y thử đường huyết Easy Max Mini hỗ trợ đo lượng đường trong máu,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-thu-duong-huyet-easy-max-mini-33166.html
+1617,"Tăm bông Cotton Buds Bông Bạch Tuyết hộp tròn dùng vệ sinh tai, mắt, rốn của trẻ (336 que)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tam-bong-tre-em-bong-bach-tuyet-hop-tron-336-que-32962.html
+1618,"Nước biển ưu trương xịt mũi Sinomarin rửa xoang mũi, nghẹt mũi, sung huyết mũi (30ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sinomarin-ho-tro-dieu-tri-viem-mui-nghet-mui-865.html
+1619,"Gel Deroyal Multidex REF 46-712 hỗ trợ điều trị viêm nhiễm da, làm lành các vết loét mãn tính (85g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/multidex-85g-1085.html
+1620,Dung dịch xịt mũi Stérimar Nez Fragilisé 50ml Steriplant vệ sinh mũi và giúp phục hồi niêm mạc mũi,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sterimar-sulphur-1126.html
+1621,Dung dịch xịt Hygiène Du Nez Humer vệ sinh mũi cho trẻ em dưới 15 tuổi (150ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/humer-children-150ml-1230.html
+1622,Dung dịch rửa mũi Physiomer Strong Jet làm sạch dịch nhầy đóng nghẹt trong mũi (210ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/physiomer-strong-jet-210ml-2605.html
+1623,Dung dịch thụt trực tràng Microclismi Nova Argentia điều trị táo bón (6 túi x 1 tuýp x 3g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/microclismi-3-g-6-ong.html
+1624,Dung dịch vệ sinh mũi cho trẻ em Humer 50 Nez Bouche Nourrisson Enfant hỗ trợ loại bỏ các chất nhầy (50ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/humer-nez-bouche-enfant-150ml-3451.html
+1625,"Khẩu trang y tế Meriday 3 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (10 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-3-lop-10cgoi-meriday-14287.html
+1626,"Khẩu trang y tế Meriday 3 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-3-lop-hop-50c-meriday-14288.html
+1627,"Khẩu trang than hoạt tính Bạch Tuyết 4 lớp hỗ trợ ngăn khói, bụi (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-than-hoat-tinh-4-lop-hop-50c-14289.html
+1628,"Khẩu trang than hoạt tính Meriday 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (10 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-than-hoat-tinh-4-lop-10cgoi-meriday-14290.html
+1629,Dung dịch Sinomarin Babies giảm nghẹt mũi bằng cách làm giảm phù nề niêm mạc mũi (18 ống x 5ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sinomarin-babies-18-ong-x-5ml-14324.html
+1630,"Dung dịch nhỏ mắt Avizor Lacrifresh 0.10% làm dịu tình trạng khô mắt, kích ứng và mỏi mắt (20 ống x 0,40ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/avizor-lacrifresh-010-14579.html
+1631,Nẹp gối Knee Support 605 size IV giúp tăng lưu thông máu cho vùng gối,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nep-goi-knee-support-605-size-iv-14590.html
+1632,Vớ gối Mediven Plus Caramel III CCL3 hỗ trợ điều trị suy tĩnh mạch,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/mediven-plus-goi-caramel-iii-ccl3-15044.html
+1633,"Xịt vệ sinh tai Sinomarin Ear Care Children rửa sạch bụi bẩn, ráy tai (30ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sinomarin-children-ear-care-30ml-15119.html
+1634,Găng tay cao su y tế có bột HTC Gloves Latex Size S (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-latex-15128.html
+1635,Kim tiêm tiểu đường BD Ultra-Fine (100 cây - 4mm x 32g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-bd-ultrafine-4mmx32g-15175.html
+1636,Xịt mũi Betadine Kids ngăn ngừa virus niêm mạc mũi (20ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/betadine-kids-nasal-spray-20-ml.html
+1637,Khẩu trang trẻ em 3D Mask Kids Unicharm chăm sóc và bảo vệ tối ưu hệ hô hấp nhạy cảm (3 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-3d-mask-kids-3-mieng-unicharm-15206.html
+1638,"Nước biển sâu Nasomom 4 khuynh diệp và bạc hà, vệ sinh mũi hàng ngày (70ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nasomom-4-khuynh-diepbac-ha-70ml-15310.html
+1639,Bộ đổi điện AC Adapter-S 1098336-8/9515336-9 S Omron giúp đổi điện áp thành dòng điện 1 chiều,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-doi-dien-omron-1098336-89515336-9-s-15369.html
+1640,Que thử đường huyết OneTouch Select (10 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/onetouch-select-15370.html
+1641,"Khẩu trang y tế Perfetta màu trắng 3 lớp hỗ trợ ngăn khói, bụi (50 hộp x 50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-perfetta-high-quality-3-lop-trang-15385.html
+1642,"Nẹp cổ tay Protect.Manu Active Medi giảm phù, giảm đau, ngừa bong gân, trật khớp cổ tay",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-nep-co-tay-protect-manu-left-iii-15459.html
+1643,"Nẹp gối thể thao Protect Genu II Duomed điều trị chấn thương gối, bảo vệ đầu gối",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-nep-goi-the-thao-protect-genu-ii-15463.html
+1644,"Đai lưng Lumbamed Basic Women Medi Size III hỗ trợ bệnh lý thoát vị đĩa đệm, thoái hóa đốt sống",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/duomed-dai-lung-lumbamed-women-size-iii-15477.html
+1645,Kem bôi dạng mỡ chứa keo ong Hemopropin ApiPharma giảm kích ứng niêm mạc trực tràng (20g),https://nhathuoclongchau.com.vn/cham-soc-ca-nhan/hemopropin-20g-15635.html
+1646,"Khẩu trang trẻ em Perfetta màu xanh hỗ trợ ngăn khói, bụi (40 hộp x 35 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-perfetta-em-bexanh-15867.html
+1647,Băng keo chống muỗi Mostect đuổi muỗi và côn trùng (20 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-chong-muoi-mostect-15871.html
+1648,"Khẩu trang sợi hoạt tính Purexx size L 3 lớp hỗ trợ ngăn khói, bụi",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-purexx-l-15876.html
+1649,"Khẩu trang y tế Perfetta màu xanh nhạt hỗ trợ ngăn khói, bụi (50 hộp x 50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-perfetta-high-quality-xanh-nhat-15882.html
+1650,"Que thử thai nhanh XS Stick phát hiện thai sớm, nhanh chóng và chính xác(1 que)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/que-thu-thai-xs-stick-16022.html
+1651,Khẩu trang Perfetta màu hồng giúp ngăn bụi bẩn qua đường hô hấp (50 hộp x 50 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-perfetta-hong-16053.html
+1652,"Khẩu trang y tế Perfetta Ultra màu xanh 3 lớp hỗ trợ ngăn khói, bụi (40 hộp x 35 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-perfetta-ultra-xanh-16203.html
+1653,"Bột Multidex Deroyal hỗ trợ điều trị viêm nhiễm da, làm lành các vết loét mãn tính (12g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/multidex-bot-12gr-deroyal-my-16215.html
+1654,"Băng gạc y tế vô trùng Urgosterile size 30cm x 9cm băng các vết thương khâu, vết trầy xước, vết cắt (20 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosterile-30cmx9cm-16227.html
+1655,Băng cá nhân Urgo Kids size 1.9cm x 7.2cm dùng để bảo vệ vết thương nhỏ (8 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-kids-19-72-cm-16228.html
+1656,Que thử đường huyết Accu-Chek Performa (50 que),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/accu-check-performa-50s-06454011020-16234.html
+1657,"Vớ gối y khoa Duomed size XL hỗ trợ điều trị suy tĩnh mạch, phù chân, đau nhức chân",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-goi-duomed-xl-16381.html
+1658,Băng cuộn co giãn không đan dệt Urgoderm size 10cm x 2.5m đảm bảo cố định chắc chắn bông gạc và các y cụ (4 cuộn),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgoderm-10x25-16400.html
+1659,Que thử đường huyết Onetouch Ultra dùng để lấy máu và cho kết quả nhanh chóng (25 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/onetouch-ultra-25-16438.html
+1660,Que thử đường huyết Accu-Chek Performa (25 que),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/accucheck-performa-25s-16497.html
+1661,Bộ sản phẩm Máy đo đường huyết cầm tay Accu-Chek Performa,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-duong-huyet-accuchek-preforma-16520.html
+1662,"Đầu kim 22g Vinahankook sử dụng một lần dùng để tiêm chích, lấy máu, pha thuốc (100 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-kim-22-16548.html
+1663,"Đầu kim 20g Vinahankook sử dụng một lần dùng để tiêm chích, lấy máu, pha thuốc (100 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dau-kim-20-16549.html
+1664,Nhiệt kế thủy ngân Lilika đo nhiệt độ cơ thể (1 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-thuy-ngan-16620.html
+1665,Bình rửa mũi Entclear Nasal Wash Bottle Hyphens rửa sạch hốc mũi (1 bình),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/entclear-nasal-wash-16625.html
+1666,Kim lấy máu vô trùng Onetouch UltraSoft Lancets đầu kim cực nhỏ (100 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/onetouch-ultrasoft-lancets-100-cay-kim-lay-mau-vo-trung-16663.html
+1667,Gói muối biển Entclear Packets Hyphens hỗ trợ rửa sạch hốc mũi (20 gói),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/entclearpackets-20-goi-16713.html
+1668,"Băng gạc y tế vô trùng Urgosterile 15cm x 9cm băng các vết thương khâu, vết trầy xước, vết cắt (50 miếng)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgosterile-15cm-x-9cm-50-mieng-16782.html
+1669,Băng dán có gạc vô trùng Algoplaque Urgo size 10cm x 10cm dùng để băng các vết thương (16 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/urgo-algoplaque-10cm-16788.html
+1670,"Gel Multidex DeRoyal REF 46-710 hỗ trợ điều trị viêm nhiễm da, làm lành các vết loét mãn tính (14g)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/multidex-gel-14g-17061.html
+1671,Máy Automatic Blood Pressure Monitor HEM-7130 Omron đo huyết áp tự động,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-ha-td-omron-hem7130-17105.html
+1672,"Máy đo đường huyết cầm tay Accu-Chek Active giúp kiểm tra lượng đường trong máu chính xác, nhanh chóng",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-duong-huyet-accuchek-active-17107.html
+1673,"Khẩu trang sợi hoạt tính Kissy size M 3 lớp giúp lọc sạch không khí, ngăn bụi, khí ô nhiễm",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-kissy-m-17184.html
+1674,"Dung dịch xịt mũi Humer Nez Bouché làm thông mũi, giúp rửa sạch lớp chất nhầy dày (50ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/humer-nez-bouche-adute-50ml-17209.html
+1675,Gạc Vaseline MiloVas Nam Hùng Phương hỗ trợ bảo vệ vết thương (10 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-vaselin-17273.html
+1676,Dụng cụ hút mũi Con Voi Trắng hút sạch hoàn toàn mũi bé dễ dàng và thoải mái (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-cu-hut-mui-con-voi-trang-17358.html
+1677,Vớ cánh tay size II CCL1 714H Mediven hỗ trợ điều trị phù cánh tay,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-canh-tay-size-ii-ccl1-714h-mediven-17880.html
+1678,Đai nẹp bánh chè Knee Support 605 size V Medi hỗ trợ cố định vết thương,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/knee-support-605-size-v-nep-2-ben-banh-che-18695.html
+1679,Dụng cụ phát hiện thai sớm Chip-Chips Tanaphar sau giao hợp 7 - 10 ngày (12 que),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/chip-chips-1-test-que-thu-thai-tanaphar-18914.html
+1680,"Dung dịch nhãn khoa Taurine-Solopharm 4% điều trị loạn dưỡng giác mạc, viêm giác mạc (20 tuýp x 1ml) ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/taurine-solopharm-4-20-tuyp-x-1ml-18990.html
+1681,Găng tay cao su y tế có bột HTC Gloves Latex Size M (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/htc-gloves-100-chiec-gang-tay-cao-su-y-te-co-bot-19129.html
+1682,"Gel Strataderm for professional scar therapy 10g hỗ trợ điều trị sẹo mổ, sẹo cũ lâu năm",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/strataderm-scar-therapy-gel-10g-19318.html
+1683,Bóp bóng Oxy Manual Resuscitator Greetmed hỗ trợ cấp cứu người bệnh tại chỗ (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/manual-resuscitator-greetmed-bop-bong-oxy-19411.html
+1684,Bông tẩm cồn Alcohol Swabs Tanaphar làm sạch và khử trùng da trước khi tiêm (100 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bong-tam-con-tanaphar-100-mieng-19945.html
+1685,Kim cánh bướm Venofix A G23 0.65 x 20mm B.Braun (50 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/venofix-a-g23-065x20mm-bbraun-50-cai-kim-canh-buom-20046.html
+1686,"Dung dịch nhỏ mắt Avizor Lacrifresh 0.10% làm dịu các triệu chứng ngứa, khô và mỏi mắt (15ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/lacrifresh-moisture-01-avizor-15ml-21206.html
+1687,Băng keo cá nhân in hình Pororo Kids Band 2 size Young Chemical bảo vệ vết thương dành cho trẻ nhỏ (25 miếng),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-ca-nhan-kids-band-pororo-hop-thiec-2-size-25-mieng-21673.html
+1688,Nước biển sâu Xisat nhỏ sạch thông mũi cho trẻ sơ sinh (15ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nuoc-bien-sau-nho-mui-xisat-tre-em-15ml-22305.html
+1689,"Gạc phẫu thuật 10cm x 10cm x 8 lớp Tanaphar dùng cầm máu, đắp vết thương (10 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gac-phau-thuat-tanaphar-10-cm-x-10-cm-x-8-lop-1-bich-x-10-goi-22390.html
+1690,Gói muối biển NasalRinse Provix hỗ trợ rửa sạch hốc mũi (25 gói x 3.75g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/muoi-rua-mui-nasalrinse-25-goi-x-375g-22487.html
+1691,Máy đo đường huyết Accu-Chek Active hỗ trợ kiểm tra lượng đường trong máu,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/accu-chek-active-may-do-duong-huyet-don-vi-mmoll-22787.html
+1692,Dung dịch xịt Sanyrène Urgo giảm nguy cơ phát triển loét do tì đè (10ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/sanyrene-urgo-10ml-22931.html
+1693,Dung dịch sát khuẩn Dizigone Terrapharm 170ml phòng tránh nhiễm trùng vết thương trên da,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dizigone-terrapharm-170ml-22933.html
+1694,Gel Resanfin Aqua New Water Meaning điều trị các vết thương cấp tính và mạn tính trên da và niêm mạc (30g),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/resanfin-aqua-newwatermeaning-30g-22935.html
+1695,Dung dịch sát khuẩn Dizigone Terrapharm (500ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-sat-khuan-dizigone-terrapharm-500ml-23079.html
+1696,"Khẩu trang y tế Perfetta Ultra màu trắng 4 lớp hỗ trợ lọc bụi, chống khuẩn, chống virus đến 99% (35 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-perfetta-ultra-35-cai-trang-23091.html
+1697,"Dung dịch vệ sinh mũi Sea 9 Kingphar hỗ trợ sát khuẩn, vệ sinh mũi (70ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-ve-sinh-mui-sea-9-kingphar-70ml-23093.html
+1698,"Gel rửa tay ON1 Hương Fresh Sakura diệt sạch khuẩn, khử mùi (500ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gel-rua-tay-kho-on1-lix-500ml-huong-fresh-sakura-27819.html
+1699,Máy huyết áp bắp tay điện tử Medilife ZK - B869 đo chỉ số huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-huyet-ap-bap-tay-dien-tu-medilife-zk-b869-28805.html
+1700,Khẩu Trang KP 4 lớp dùng để ngăn bụi khói (50 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-kp-4-lop-50-cai-28841.html
+1701,"Khẩu trang 3 lớp vải Rohto Nosewash kháng khuẩn, kháng giọt bắn và chống bụi hiệu quả",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-3-lop-vai-khang-khuan-rohto-nosewash-28900.html
+1702,Nhiệt kế đo thân nhiệt Aurora HMP 1006 có vạch chia độ rõ nét,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/aurora-nhiet-ke-do-than-nhiet-28902.html
+1703,Dung dịch vệ sinh mũi Blue Ocean xịt rửa vệ sinh khoang mũi (70ml),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/blue-ocean-huy-hoang-pharma-70ml-28957.html
+1704,"Dung dịch làm khô tai Ear-Swim loại nước đọng trong tai sau khi tắm gội, bơi lội (30ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/ear-swim-dung-dich-lam-kho-tai-30ml-28979.html
+1705,"Dung dịch xịt họng BBM Cough Cát Linh điều trị viêm họng, kháng khuẩn, chống viêm (30ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bbm-cough-dung-dich-xit-hong-30ml-28980.html
+1706,"Máy đo huyết áp bắp tay tự động Omron HEM-7156 đo ở bắp tay, lưu 60 kết quả đo kèm ngày giờ",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/omron-hem-7156-may-do-huyet-ap-tu-dong-28986.html
+1707,"Khẩu trang y tế Công Nghệ Cao Su Việt Nam 4 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-cao-su-vn-4-lop-29155.html
+1708,"Khẩu trang y tế Cao Su VN 3 lớp hỗ trợ ngăn khói, bụi, kháng khuẩn (50 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-cncs-3-lop-50-cai-29156.html
+1709,Túi chườm nóng lạnh Fashy GMBH cổ điển dung tích 2 lít (1 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-chuom-fashy-co-dien-xanh-la-29175.html
+1710,"Túi chườm nóng lạnh bọc lông cừu cho trẻ Fashy GMBH hỗ trợ chườm lạnh, giữ ấm cho trẻ (1 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-chuom-fashy-boc-long-cuu-tre-em-hong-29184.html
+1711,"Túi chườm nóng lạnh bọc lông cừu Fashy GMBH dung tích 2 lít hỗ trợ chườm lạnh, giữ ấm (1 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/tui-chuom-fashy-boc-long-cuu-xam-29186.html
+1712,Găng tay cao su y tế có bột SGlove Size S (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-co-bot-sglove-s-29253.html
+1713,Găng tay cao su y tế có bột SGlove Size M (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-co-bot-sglove-m-29255.html
+1714,Găng tay cao su y tế có bột SGlove Size L (100 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/gang-tay-cao-su-y-te-co-bot-sglove-l-29256.html
+1715,Kim tiêm 18G Vinahankook (100 Cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-tiem-su-dung-1-lan-18g-vinahankook-x-100-cai-29455.html
+1716,"Gel bôi nhiệt miệng Oral NanoSilver Bimex giúp làm sạch, làm dịu mát miệng, khử mùi hôi miệng (50 gói)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/oral-nanosilver-gel-boi-nhiet-mieng-hop-50-goi-29465.html
+1717,Khẩu trang y tế May 10 Pro+ 4 lớp dùng để ngăn bụi khói,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-may-10-pro-4-lop-50-cai-29501.html
+1718,Khẩu trang y tế May 10 Pro+ 3 lớp dùng để ngăn bụi khói,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-y-te-may-10-pro-3-lop-50-cai-29502.html
+1719,"Xịt mũi Matara Happy Nose phòng ngừa các bệnh về mũi, bảo vệ niêm mạc mũi (20ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-ve-sinh-mui-matara-happy-nose-20ml-29509.html
+1720,Khẩu trang Niva N90 3 lớp phòng ngừa bệnh lây nhiễm qua đường hô hấp (10 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-niva-n90-hop-10-cai-29846.html
+1721,"Dung dịch xịt xoang Tân Xoang Tán hỗ trợ rửa trôi dịch nhầy, bụi bẩn trong mũi (15ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/dung-dich-xit-xoang-tan-xoang-tan-tat-thanh-15ml-30044.html
+1722,"Gel dùng để uống Silicolgel Colloidal Silicic Acid dùng cho các rối loạn tiêu hóa, điều trị chứng ợ nóng, trào ngược (200ml)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/silicolgel-200-ml-dieu-tri-roi-loan-tieu-hoa.html
+1723,Máy đo huyết áp bắp tay tự động BP 3NV1-3E Microlife hỗ trợ đo huyết áp và nhịp tim,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-do-huyet-ap-co-tay-tu-dong-microlife-bp-3nv1-3e-30176.html
+1724,"Kim lấy máu Onetouch Delica trích máu nhanh, không gây đau (100 cái)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/onetouch-delica-100-cay-kim-lay-mau-30240.html
+1725,"Băng keo cuộn co giãn Fix Roll 5cm x 10m Young Chemical cố định ống truyền dẫn, dán lên gạc cố định vết thương (1 cuộn)",https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bang-keo-cuon-co-gian-fix-roll-5cmx10m-30270.html
+1726,Vớ gối y khoa Medical Compression Stocking Model Classic I Biohealth màu da size S điều trị giãn tĩnh mạch chân,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/vo-goi-y-khoa-chong-gian-tinh-mach-biohealth-classis-i-mau-da-size-s-30858.html
+1727,Máy hút mũi điện tử Electric Nasal Aspirator CNXBQ 006 Biohealth ,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/may-hut-dich-mui-biohealth-cnxbq-006-31091.html
+1728,Kim cánh bướm Venofix A 25G 0.5 x 15mm B.Braun (50 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/kim-canh-buom-venofix-a-25g-05-x-15-mm-l-30cm-luer-lock-b-braun-31502.html
+1729,Xét nghiệm chẩn đoán Panbio Covid-19 Rapid Test Device,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/panbio-covid-19-ag-rapid-test-device-nasopharyngeal-xet-nghiem-chan-doan-in-vitro-sars-cov2-31729.html
+1730,Nhiệt kế hồng ngoại Truelife RAK-FI03 đo nhiệt độ nhanh trong 1 giây,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/nhiet-ke-hong-ngoai-truelife-rak-fi03-31739.html
+1731,Bộ kit test nhanh Humasis Covid-19 Ag Test độ nhạy và độ đặc hiệu cao (25 bộ),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/humasis-covid-19-ag-test-thiet-bi-chan-doan-in-vitro-xet-nghiem-vi-rut-sars-cov-2-31793.html
+1732,Bơm Tiêm MPV 20ml/cc sử dụng một lần (50 chiếc),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bom-tiem-mpv-20ml-50-chiec-32168.html
+1733,Khẩu trang y tế 4 lớp BM mask Tâm Minh Anh ngăn ngừa vi khuẩn và lọc bụi bẩn (50 cái),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/khau-trang-4-lop-bm-mask-tam-minh-anh-hop-50-cai-32523.html
+1734,Kit Test RapidFor Sars-CoV-2 Rapid Antigen Kit hỗ trợ test nhanh kháng nguyên Sars Cov-2 (25 kít),https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/rapidfor-sars-cov-2-rapid-antigen-test-bo-test-nhanh-khang-nguyen-sars-cov-2-32533.html
+1735,Bộ xét nghiệm kháng nguyên SAR-CoV-2 Antigen Rapid Test Casette,https://nhathuoclongchau.com.vn/trang-thiet-bi-y-te/bo-xet-nghiem-khang-nguyen-sars-cov-2-salocor-phan-lan-32687.html
