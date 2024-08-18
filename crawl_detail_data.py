@@ -11,7 +11,8 @@ website = "https://nhathuoclongchau.com.vn/"
 
 def main():
     p_id = 0
-    val = 387
+    val = 4140
+    end = 4526
 
     uris = [
         "thuc-pham-chuc-nang",
@@ -30,6 +31,8 @@ def main():
     time.sleep(3)
 
     for uri in uris:
+        if p_id > end:
+            break
 
         df = pd.read_csv(f'./data/{uri}_product.csv')
         data_dicts = df.to_dict(orient='records')
