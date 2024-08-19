@@ -5,7 +5,7 @@ uris = [
     "duoc-my-pham",
     "cham-soc-ca-nhan",
     "trang-thiet-bi-y-te",
-    # "thuoc"
+    "thuoc"
 ]
 
 cnt = 0
