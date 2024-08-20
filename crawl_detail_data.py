@@ -11,8 +11,8 @@ website = "https://nhathuoclongchau.com.vn/"
 
 def main():
     p_id = 0
-    val = 4140
-    end = 4526
+    val = 2851
+    end = 3668
 
     uris = [
         "thuc-pham-chuc-nang",
@@ -55,7 +55,7 @@ def main():
             }
 
             driver.get(f"{data_dict['product_url']}")
-            time.sleep(5)
+            time.sleep(3)
 
             # process category and category tree
             category = []
@@ -75,7 +75,10 @@ def main():
             # process usage
             usage = ""
             try:
-                usage = driver.find_element(By.XPATH, "//div[@class='usage']/div/p").get_attribute("innerHTML")
+                for row in driver.find_elements(By.XPATH, "//div[@class='usage']/div/p"):
+                    if len(usage) > 0:
+                        usage += "***"
+                    usage += row.find_element(By.XPATH, ".").get_attribute("innerHTML")
             except Exception:
                 pass
 
@@ -85,10 +88,10 @@ def main():
             try:
                 for row in driver.find_elements(By.XPATH, "//table[@class='content-list']/tbody/tr"):
                     if row.find_element(By.XPATH, "./td[1]/p").get_attribute("innerHTML") == "Quy cách":
-                        specification = driver.find_element(By.XPATH, "//table[@class='content-list']/tbody/tr[4]/td[2]/div").get_attribute("innerHTML")
+                        specification = row.find_element(By.XPATH, "./td[2]/div").get_attribute("innerHTML")
 
                     if row.find_element(By.XPATH, "./td[1]/p").get_attribute("innerHTML") == "Mô tả ngắn":
-                        description = driver.find_element(By.XPATH, "//table[@class='content-list']/tbody/tr[8]/td[2]/div").get_attribute("innerHTML")
+                        description = row.find_element(By.XPATH, "./td[2]/div/p").get_attribute("innerHTML")
             except Exception:
                 pass
 
@@ -113,7 +116,7 @@ def main():
             data['product_url'].append(data_dict['product_url'])
 
             new_df = pd.DataFrame(data)
-            new_df.to_csv(f"./tmp/{uri}_product_{p_id}.csv", index=False)
+            new_df.to_csv(f"./tmp2/{uri}_product_{p_id}.csv", index=False)
             print(f"Crawl num {p_id} successfully!")
             p_id += 1
 
